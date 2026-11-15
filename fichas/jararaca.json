@@ -1,0 +1,150 @@
+{
+  "id": "jararaca",
+  "nome": "Jararaca 30",
+  "classe": "C7",
+  "arquetipo": "Picape de rali cross-country",
+  "motor": "3.0 V6 turbo",
+  "tracao": "AWD",
+  "numero": 30,
+  "modelo": "carros/jararaca.glb",
+  "fisica": {
+    "massa": 1900,
+    "dimensoes": [
+      4.95,
+      1.98,
+      1.86
+    ],
+    "centroMassa": [
+      0,
+      0.68,
+      0.1
+    ],
+    "eixoDianteiro": 1.475,
+    "eixoTraseiro": -1.475,
+    "bitolaDianteira": 1.72,
+    "bitolaTraseira": 1.72,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 185000,
+    "tracaoDianteira": 0.5,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.6,
+    "rpmCorte": 6200,
+    "cascas": [
+      [
+        0.98,
+        0.4,
+        2.47,
+        0,
+        0.82,
+        -0.08
+      ],
+      [
+        0.8,
+        0.3,
+        0.58,
+        0,
+        1.54,
+        0.125
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "yFrente": -2.395,
+    "yTras": 2.555,
+    "larg": 0.9,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.395,
+        0.95
+      ],
+      [
+        -2.1,
+        1.05
+      ],
+      [
+        -0.75,
+        1.18
+      ],
+      [
+        0.25,
+        1.22
+      ],
+      [
+        2.555,
+        1.22
+      ]
+    ],
+    "cabine": {
+      "pe": -0.7,
+      "topoD": 0,
+      "topoT": 0.4,
+      "peT": 0.45,
+      "teto": 1.86,
+      "largBase": 0.86,
+      "largTopo": 0.74
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 1,
+      "x": 0.62,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.98,
+      "x": 0.7,
+      "w": 0.12,
+      "h": 0.28
+    },
+    "cores": {
+      "pintura": [
+        0.82,
+        0.7,
+        0.48
+      ],
+      "secundaria": [
+        0.92,
+        0.42,
+        0.08
+      ],
+      "terciaria": [
+        0.25,
+        0.15,
+        0.08
+      ],
+      "aro": [
+        0.88,
+        0.88,
+        0.85
+      ],
+      "pinca": [
+        0.92,
+        0.42,
+        0.08
+      ]
+    },
+    "pintura": "escamas",
+    "rodaLargura": 0.28,
+    "raios": 6,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "santo_antonio",
+      "estepe_cacamba",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

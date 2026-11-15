@@ -1,0 +1,11 @@
+{
+  "id": "scitizia",
+  "nome": "Scitizia R5",
+  "classe": "C5",
+  "arquetipo": "Protótipo de rali sobre base de hatch",
+  "motor": "1.6 turbo",
+  "tracao": "AWD",
+  "numero": 5,
+  "modelo": "carros/scitizia.glb",
+  "fisica": {}
+}

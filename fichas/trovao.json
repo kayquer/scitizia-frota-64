@@ -1,0 +1,144 @@
+{
+  "id": "trovao",
+  "nome": "Trovão 4T",
+  "classe": "C4",
+  "arquetipo": "Sedã de série 4x4 turbo",
+  "motor": "2.0 turbo",
+  "tracao": "AWD",
+  "numero": 4,
+  "modelo": "carros/trovao.glb",
+  "fisica": {
+    "massa": 1300,
+    "dimensoes": [
+      4.45,
+      1.76,
+      1.46
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.08
+    ],
+    "eixoDianteiro": 1.31,
+    "eixoTraseiro": -1.31,
+    "bitolaDianteira": 1.56,
+    "bitolaTraseira": 1.56,
+    "raioRoda": 0.31,
+    "potencia": 150000,
+    "tracaoDianteira": 0.45,
+    "diferencial": 4.3,
+    "rpmCorte": 7200,
+    "cascas": [
+      [
+        0.86,
+        0.27,
+        2.2,
+        0,
+        0.52,
+        -0.05
+      ],
+      [
+        0.68,
+        0.25,
+        1.2,
+        0,
+        1.12,
+        -0.38
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.17,
+    "yTras": 2.28,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -2.17,
+        0.68
+      ],
+      [
+        -1.9,
+        0.76
+      ],
+      [
+        -0.85,
+        0.9
+      ],
+      [
+        0.9,
+        0.96
+      ],
+      [
+        1.6,
+        1
+      ],
+      [
+        2.28,
+        1
+      ]
+    ],
+    "cabine": {
+      "pe": -0.85,
+      "topoD": -0.05,
+      "topoT": 1.05,
+      "peT": 1.6,
+      "teto": 1.46,
+      "largBase": 0.78,
+      "largTopo": 0.64
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.7,
+      "x": 0.56,
+      "w": 0.34,
+      "h": 0.11
+    },
+    "lanterna": {
+      "z": 0.86,
+      "x": 0.6,
+      "w": 0.26,
+      "h": 0.12
+    },
+    "cores": {
+      "pintura": [
+        0.08,
+        0.22,
+        0.6
+      ],
+      "secundaria": [
+        0.95,
+        0.78,
+        0.1
+      ],
+      "terciaria": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "aro": [
+        0.85,
+        0.7,
+        0.25
+      ],
+      "pinca": [
+        0.85,
+        0.12,
+        0.08
+      ]
+    },
+    "pintura": "onda",
+    "rodaLargura": 0.21,
+    "raios": 5,
+    "extras": [
+      "aerofolio_alto",
+      "para_barro",
+      "tomada_capo",
+      "entrada_teto",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "miudo",
+  "nome": "Miúdo 1.4",
+  "classe": "C1",
+  "arquetipo": "Hatch compacto popular",
+  "motor": "1.4 aspirado",
+  "tracao": "FWD",
+  "numero": 14,
+  "modelo": "carros/miudo.glb",
+  "fisica": {
+    "massa": 1000,
+    "dimensoes": [
+      3.62,
+      1.6,
+      1.42
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.1
+    ],
+    "eixoDianteiro": 1.18,
+    "eixoTraseiro": -1.18,
+    "bitolaDianteira": 1.4,
+    "bitolaTraseira": 1.38,
+    "raioRoda": 0.29,
+    "potencia": 70000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 4,
+    "rpmCorte": 6800,
+    "cascas": [
+      [
+        0.79,
+        0.26,
+        1.8,
+        0,
+        0.52,
+        0.05
+      ],
+      [
+        0.64,
+        0.24,
+        1,
+        0,
+        1.12,
+        -0.46
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.86,
+    "yTras": 1.76,
+    "larg": 0.79,
+    "alarg": 0.02,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -1.86,
+        0.66
+      ],
+      [
+        -1.6,
+        0.74
+      ],
+      [
+        -0.8,
+        0.86
+      ],
+      [
+        0.4,
+        0.92
+      ],
+      [
+        1.76,
+        0.95
+      ]
+    ],
+    "cabine": {
+      "pe": -0.78,
+      "topoD": -0.05,
+      "topoT": 1.42,
+      "peT": 1.7,
+      "teto": 1.42,
+      "largBase": 0.74,
+      "largTopo": 0.62
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.63,
+      "x": 0.53,
+      "w": 0.26,
+      "h": 0.12
+    },
+    "lanterna": {
+      "z": 0.8,
+      "x": 0.62,
+      "w": 0.15,
+      "h": 0.17
+    },
+    "cores": {
+      "pintura": [
+        0.85,
+        0.6,
+        0.12
+      ],
+      "secundaria": [
+        0.1,
+        0.2,
+        0.55
+      ],
+      "terciaria": [
+        0.95,
+        0.95,
+        0.92
+      ],
+      "aro": [
+        0.72,
+        0.72,
+        0.74
+      ],
+      "pinca": [
+        0.12,
+        0.12,
+        0.12
+      ]
+    },
+    "pintura": "faixa",
+    "rodaLargura": 0.18,
+    "raios": 4,
+    "extras": [
+      "aerofolio_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

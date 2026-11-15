@@ -1,0 +1,144 @@
+{
+  "id": "vendaval",
+  "nome": "Vendaval B",
+  "classe": "C6",
+  "arquetipo": "Monstro sem restrição, estilo anos 80",
+  "motor": "2.1 turbo",
+  "tracao": "AWD",
+  "numero": 1,
+  "modelo": "carros/vendaval.glb",
+  "fisica": {
+    "massa": 1100,
+    "dimensoes": [
+      3.95,
+      1.86,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.2,
+    "eixoTraseiro": -1.2,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.31,
+    "potencia": 225000,
+    "tracaoDianteira": 0.35,
+    "diferencial": 4.4,
+    "rpmCorte": 8000,
+    "cascas": [
+      [
+        0.93,
+        0.26,
+        1.95,
+        0,
+        0.5,
+        0
+      ],
+      [
+        0.66,
+        0.23,
+        1.1,
+        0,
+        1.04,
+        -0.44
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.98,
+    "yTras": 1.97,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -1.98,
+        0.6
+      ],
+      [
+        -1.7,
+        0.68
+      ],
+      [
+        -0.75,
+        0.82
+      ],
+      [
+        0.5,
+        0.92
+      ],
+      [
+        1.5,
+        1
+      ],
+      [
+        1.97,
+        1
+      ]
+    ],
+    "cabine": {
+      "pe": -0.75,
+      "topoD": -0.12,
+      "topoT": 1.15,
+      "peT": 1.62,
+      "teto": 1.33,
+      "largBase": 0.74,
+      "largTopo": 0.6
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.62,
+      "x": 0.55,
+      "w": 0.3,
+      "h": 0.08
+    },
+    "lanterna": {
+      "z": 0.88,
+      "x": 0.62,
+      "w": 0.26,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.92,
+        0.92,
+        0.92
+      ],
+      "secundaria": [
+        0.05,
+        0.5,
+        0.25
+      ],
+      "terciaria": [
+        0.85,
+        0.12,
+        0.1
+      ],
+      "aro": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "pinca": [
+        0.85,
+        0.12,
+        0.08
+      ]
+    },
+    "pintura": "meio",
+    "rodaLargura": 0.23,
+    "raios": 0,
+    "extras": [
+      "aerofolio_alto",
+      "para_barro",
+      "farol_aux4",
+      "entrada_teto",
+      "tomada_capo",
+      "escape"
+    ]
+  }
+}

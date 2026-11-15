@@ -1,0 +1,147 @@
+{
+  "id": "faisca",
+  "nome": "Faísca KC",
+  "classe": "C2",
+  "arquetipo": "Hatch esportivo preparado (kit car)",
+  "motor": "2.0 aspirado",
+  "tracao": "FWD",
+  "numero": 7,
+  "modelo": "carros/faisca.glb",
+  "fisica": {
+    "massa": 1000,
+    "dimensoes": [
+      3.9,
+      1.78,
+      1.36
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0.1
+    ],
+    "eixoDianteiro": 1.23,
+    "eixoTraseiro": -1.23,
+    "bitolaDianteira": 1.56,
+    "bitolaTraseira": 1.54,
+    "raioRoda": 0.3,
+    "potencia": 115000,
+    "tracaoDianteira": 1,
+    "marchas": [
+      3.1,
+      2.2,
+      1.7,
+      1.38,
+      1.15,
+      0.98
+    ],
+    "diferencial": 4.4,
+    "rpmCorte": 8200,
+    "cascas": [
+      [
+        0.89,
+        0.26,
+        1.9,
+        0,
+        0.5,
+        0.05
+      ],
+      [
+        0.68,
+        0.24,
+        1.05,
+        0,
+        1.06,
+        -0.46
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.95,
+    "yTras": 1.85,
+    "larg": 0.8,
+    "alarg": 0.09,
+    "zBaixo": 0.17,
+    "perfil": [
+      [
+        -1.95,
+        0.62
+      ],
+      [
+        -1.65,
+        0.72
+      ],
+      [
+        -0.82,
+        0.84
+      ],
+      [
+        0.4,
+        0.9
+      ],
+      [
+        1.85,
+        0.93
+      ]
+    ],
+    "cabine": {
+      "pe": -0.8,
+      "topoD": -0.1,
+      "topoT": 1.38,
+      "peT": 1.74,
+      "teto": 1.36,
+      "largBase": 0.76,
+      "largTopo": 0.62
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.6,
+      "x": 0.55,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "lanterna": {
+      "z": 0.77,
+      "x": 0.62,
+      "w": 0.2,
+      "h": 0.12
+    },
+    "cores": {
+      "pintura": [
+        0.93,
+        0.93,
+        0.9
+      ],
+      "secundaria": [
+        0.85,
+        0.1,
+        0.08
+      ],
+      "terciaria": [
+        0.08,
+        0.1,
+        0.32
+      ],
+      "aro": [
+        0.85,
+        0.68,
+        0.2
+      ],
+      "pinca": [
+        0.85,
+        0.12,
+        0.08
+      ]
+    },
+    "pintura": "diagonal",
+    "rodaLargura": 0.21,
+    "raios": 6,
+    "extras": [
+      "aerofolio_teto",
+      "para_barro",
+      "farol_aux4",
+      "entrada_teto",
+      "escape"
+    ]
+  }
+}
