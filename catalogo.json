@@ -1,0 +1,1134 @@
+{
+  "nome": "Scitizia: frota 64 bits",
+  "descricao": "Catálogo de 56 carros de rali fictícios em baixo polígono (low poly), visual retrô de console de 64 bits, em glTF 2.0 binário (.glb).",
+  "repositorio": "https://github.com/kayquer/scitizia-frota-64",
+  "total": 56,
+  "unidades": {
+    "potenciaCv": "cavalo-vapor",
+    "massaKg": "quilograma",
+    "modelo": "metros, Y para cima, frente em +Z"
+  },
+  "indiceDesempenho": "Índice de Desempenho do jogo, de 100 a 999, calculado a partir da ficha de física",
+  "carros": [
+    {
+      "id": "xodo",
+      "nome": "Xodó 1.0",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1990-1995",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 87,
+      "massaKg": 930,
+      "indiceDesempenho": 361,
+      "modelo": "modelos/xodo.glb",
+      "previa": "previas/xodo.jpg",
+      "ficha": "fichas/xodo.json",
+      "texturas": [
+        "texturas/xodo_carroceria.png",
+        "texturas/xodo_roda.png"
+      ]
+    },
+    {
+      "id": "miudo",
+      "nome": "Miúdo 1.4",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1990-1995",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.4 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 95,
+      "massaKg": 1000,
+      "indiceDesempenho": 373,
+      "modelo": "modelos/miudo.glb",
+      "previa": "previas/miudo.jpg",
+      "ficha": "fichas/miudo.json",
+      "texturas": [
+        "texturas/miudo_carroceria.png",
+        "texturas/miudo_roda.png"
+      ]
+    },
+    {
+      "id": "pipoca",
+      "nome": "Pipoca 1.3",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1990-1995",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.3 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 95,
+      "massaKg": 1000,
+      "indiceDesempenho": 373,
+      "modelo": "modelos/pipoca.glb",
+      "previa": "previas/pipoca.jpg",
+      "ficha": "fichas/pipoca.json",
+      "texturas": [
+        "texturas/pipoca_carroceria.png",
+        "texturas/pipoca_roda.png"
+      ]
+    },
+    {
+      "id": "cafune",
+      "nome": "Cafuné 1.0",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1996-2000",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 91,
+      "massaKg": 970,
+      "indiceDesempenho": 367,
+      "modelo": "modelos/cafune.glb",
+      "previa": "previas/cafune.jpg",
+      "ficha": "fichas/cafune.json",
+      "texturas": [
+        "texturas/cafune_carroceria.png",
+        "texturas/cafune_roda.png"
+      ]
+    },
+    {
+      "id": "quindim",
+      "nome": "Quindim 1.6",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1996-2000",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.6 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 103,
+      "massaKg": 1050,
+      "indiceDesempenho": 389,
+      "modelo": "modelos/quindim.glb",
+      "previa": "previas/quindim.jpg",
+      "ficha": "fichas/quindim.json",
+      "texturas": [
+        "texturas/quindim_carroceria.png",
+        "texturas/quindim_roda.png"
+      ]
+    },
+    {
+      "id": "pacoca",
+      "nome": "Paçoca 1.4",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "2001-2005",
+      "arquetipo": "Monovolume compacto popular",
+      "motor": "1.4 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 95,
+      "massaKg": 1070,
+      "indiceDesempenho": 358,
+      "modelo": "modelos/pacoca.glb",
+      "previa": "previas/pacoca.jpg",
+      "ficha": "fichas/pacoca.json",
+      "texturas": [
+        "texturas/pacoca_carroceria.png",
+        "texturas/pacoca_roda.png"
+      ]
+    },
+    {
+      "id": "guri",
+      "nome": "Guri 1.4",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "2001-2005",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.4 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 98,
+      "massaKg": 1020,
+      "indiceDesempenho": 373,
+      "modelo": "modelos/guri.glb",
+      "previa": "previas/guri.jpg",
+      "ficha": "fichas/guri.json",
+      "texturas": [
+        "texturas/guri_carroceria.png",
+        "texturas/guri_roda.png"
+      ]
+    },
+    {
+      "id": "chuchu",
+      "nome": "Chuchu 1.6",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "2006-2010",
+      "arquetipo": "Hatch compacto aventureiro",
+      "motor": "1.6 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 103,
+      "massaKg": 1080,
+      "indiceDesempenho": 372,
+      "modelo": "modelos/chuchu.glb",
+      "previa": "previas/chuchu.jpg",
+      "ficha": "fichas/chuchu.json",
+      "texturas": [
+        "texturas/chuchu_carroceria.png",
+        "texturas/chuchu_roda.png"
+      ]
+    },
+    {
+      "id": "chispa",
+      "nome": "Chispa 18",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1990-1995",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "1.8 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 144,
+      "massaKg": 1000,
+      "indiceDesempenho": 506,
+      "modelo": "modelos/chispa.glb",
+      "previa": "previas/chispa.jpg",
+      "ficha": "fichas/chispa.json",
+      "texturas": [
+        "texturas/chispa_carroceria.png",
+        "texturas/chispa_roda.png"
+      ]
+    },
+    {
+      "id": "faisca",
+      "nome": "Faísca KC",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1990-1995",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 156,
+      "massaKg": 1000,
+      "indiceDesempenho": 540,
+      "modelo": "modelos/faisca.glb",
+      "previa": "previas/faisca.jpg",
+      "ficha": "fichas/faisca.json",
+      "texturas": [
+        "texturas/faisca_carroceria.png",
+        "texturas/faisca_roda.png"
+      ]
+    },
+    {
+      "id": "fagulha",
+      "nome": "Fagulha 20",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1990-1995",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 156,
+      "massaKg": 950,
+      "indiceDesempenho": 556,
+      "modelo": "modelos/fagulha.glb",
+      "previa": "previas/fagulha.jpg",
+      "ficha": "fichas/fagulha.json",
+      "texturas": [
+        "texturas/fagulha_carroceria.png",
+        "texturas/fagulha_roda.png"
+      ]
+    },
+    {
+      "id": "pavio",
+      "nome": "Pavio 2.0",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1996-2000",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 152,
+      "massaKg": 960,
+      "indiceDesempenho": 541,
+      "modelo": "modelos/pavio.glb",
+      "previa": "previas/pavio.jpg",
+      "ficha": "fichas/pavio.json",
+      "texturas": [
+        "texturas/pavio_carroceria.png",
+        "texturas/pavio_roda.png"
+      ]
+    },
+    {
+      "id": "centelha",
+      "nome": "Centelha 2.0",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1996-2000",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 165,
+      "massaKg": 1030,
+      "indiceDesempenho": 551,
+      "modelo": "modelos/centelha.glb",
+      "previa": "previas/centelha.jpg",
+      "ficha": "fichas/centelha.json",
+      "texturas": [
+        "texturas/centelha_carroceria.png",
+        "texturas/centelha_roda.png"
+      ]
+    },
+    {
+      "id": "estopim",
+      "nome": "Estopim 1.8",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "2001-2005",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "1.8 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 159,
+      "massaKg": 980,
+      "indiceDesempenho": 553,
+      "modelo": "modelos/estopim.glb",
+      "previa": "previas/estopim.jpg",
+      "ficha": "fichas/estopim.json",
+      "texturas": [
+        "texturas/estopim_carroceria.png",
+        "texturas/estopim_roda.png"
+      ]
+    },
+    {
+      "id": "labareda",
+      "nome": "Labareda 2.0",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "2001-2005",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 169,
+      "massaKg": 1050,
+      "indiceDesempenho": 553,
+      "modelo": "modelos/labareda.glb",
+      "previa": "previas/labareda.jpg",
+      "ficha": "fichas/labareda.json",
+      "texturas": [
+        "texturas/labareda_carroceria.png",
+        "texturas/labareda_roda.png"
+      ]
+    },
+    {
+      "id": "rojao",
+      "nome": "Rojão 2.0",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "2006-2010",
+      "arquetipo": "Hatch esportivo preparado (kit car)",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 173,
+      "massaKg": 1060,
+      "indiceDesempenho": 560,
+      "modelo": "modelos/rojao.glb",
+      "previa": "previas/rojao.jpg",
+      "ficha": "fichas/rojao.json",
+      "texturas": [
+        "texturas/rojao_carroceria.png",
+        "texturas/rojao_roda.png"
+      ]
+    },
+    {
+      "id": "brasa",
+      "nome": "Brasa 24",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "1980-1989",
+      "arquetipo": "Cupê de tração traseira",
+      "motor": "2.4 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 170,
+      "massaKg": 1050,
+      "indiceDesempenho": 529,
+      "modelo": "modelos/brasa.glb",
+      "previa": "previas/brasa.jpg",
+      "ficha": "fichas/brasa.json",
+      "texturas": [
+        "texturas/brasa_carroceria.png",
+        "texturas/brasa_roda.png"
+      ]
+    },
+    {
+      "id": "braseiro",
+      "nome": "Braseiro 25",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "1990-1995",
+      "arquetipo": "Cupê de tração traseira",
+      "motor": "2.5 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 162,
+      "massaKg": 1020,
+      "indiceDesempenho": 521,
+      "modelo": "modelos/braseiro.glb",
+      "previa": "previas/braseiro.jpg",
+      "ficha": "fichas/braseiro.json",
+      "texturas": [
+        "texturas/braseiro_carroceria.png",
+        "texturas/braseiro_roda.png"
+      ]
+    },
+    {
+      "id": "ticao",
+      "nome": "Tição 30",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "1990-1995",
+      "arquetipo": "Sedã de tração traseira",
+      "motor": "3.0 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 178,
+      "massaKg": 1120,
+      "indiceDesempenho": 524,
+      "modelo": "modelos/ticao.glb",
+      "previa": "previas/ticao.jpg",
+      "ficha": "fichas/ticao.json",
+      "texturas": [
+        "texturas/ticao_carroceria.png",
+        "texturas/ticao_roda.png"
+      ]
+    },
+    {
+      "id": "forja",
+      "nome": "Forja 26",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "1996-2000",
+      "arquetipo": "Sedã de tração traseira",
+      "motor": "2.6 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 165,
+      "massaKg": 1100,
+      "indiceDesempenho": 503,
+      "modelo": "modelos/forja.glb",
+      "previa": "previas/forja.jpg",
+      "ficha": "fichas/forja.json",
+      "texturas": [
+        "texturas/forja_carroceria.png",
+        "texturas/forja_roda.png"
+      ]
+    },
+    {
+      "id": "fornalha",
+      "nome": "Fornalha 28",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "1996-2000",
+      "arquetipo": "Cupê de tração traseira",
+      "motor": "2.8 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 174,
+      "massaKg": 1000,
+      "indiceDesempenho": 558,
+      "modelo": "modelos/fornalha.glb",
+      "previa": "previas/fornalha.jpg",
+      "ficha": "fichas/fornalha.json",
+      "texturas": [
+        "texturas/fornalha_carroceria.png",
+        "texturas/fornalha_roda.png"
+      ]
+    },
+    {
+      "id": "candeia",
+      "nome": "Candeia 30",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "2001-2005",
+      "arquetipo": "Sedã de tração traseira",
+      "motor": "3.0 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 184,
+      "massaKg": 1080,
+      "indiceDesempenho": 550,
+      "modelo": "modelos/candeia.glb",
+      "previa": "previas/candeia.jpg",
+      "ficha": "fichas/candeia.json",
+      "texturas": [
+        "texturas/candeia_carroceria.png",
+        "texturas/candeia_roda.png"
+      ]
+    },
+    {
+      "id": "lampiao",
+      "nome": "Lampião 32",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "2001-2005",
+      "arquetipo": "Cupê de tração traseira",
+      "motor": "3.2 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 188,
+      "massaKg": 1050,
+      "indiceDesempenho": 572,
+      "modelo": "modelos/lampiao.glb",
+      "previa": "previas/lampiao.jpg",
+      "ficha": "fichas/lampiao.json",
+      "texturas": [
+        "texturas/lampiao_carroceria.png",
+        "texturas/lampiao_roda.png"
+      ]
+    },
+    {
+      "id": "fogareiro",
+      "nome": "Fogareiro 35",
+      "classe": "C3",
+      "nomeClasse": "Clássico",
+      "epoca": "2006-2010",
+      "arquetipo": "Cupê de tração traseira",
+      "motor": "3.5 aspirado",
+      "tracao": "RWD",
+      "potenciaCv": 185,
+      "massaKg": 1110,
+      "indiceDesempenho": 547,
+      "modelo": "modelos/fogareiro.glb",
+      "previa": "previas/fogareiro.jpg",
+      "ficha": "fichas/fogareiro.json",
+      "texturas": [
+        "texturas/fogareiro_carroceria.png",
+        "texturas/fogareiro_roda.png"
+      ]
+    },
+    {
+      "id": "trovoada",
+      "nome": "Trovoada 22",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "1990-1995",
+      "arquetipo": "Perua 4x4 turbo",
+      "motor": "2.2 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 199,
+      "massaKg": 1370,
+      "indiceDesempenho": 575,
+      "modelo": "modelos/trovoada.glb",
+      "previa": "previas/trovoada.jpg",
+      "ficha": "fichas/trovoada.json",
+      "texturas": [
+        "texturas/trovoada_carroceria.png",
+        "texturas/trovoada_roda.png"
+      ]
+    },
+    {
+      "id": "relampago",
+      "nome": "Relâmpago 20",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "1990-1995",
+      "arquetipo": "Sedã 4x4 turbo",
+      "motor": "2.0 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 190,
+      "massaKg": 1240,
+      "indiceDesempenho": 590,
+      "modelo": "modelos/relampago.glb",
+      "previa": "previas/relampago.jpg",
+      "ficha": "fichas/relampago.json",
+      "texturas": [
+        "texturas/relampago_carroceria.png",
+        "texturas/relampago_roda.png"
+      ]
+    },
+    {
+      "id": "trovao",
+      "nome": "Trovão 4T",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "1990-1995",
+      "arquetipo": "Sedã de série 4x4 turbo",
+      "motor": "2.0 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 204,
+      "massaKg": 1300,
+      "indiceDesempenho": 605,
+      "modelo": "modelos/trovao.glb",
+      "previa": "previas/trovao.jpg",
+      "ficha": "fichas/trovao.json",
+      "texturas": [
+        "texturas/trovao_carroceria.png",
+        "texturas/trovao_roda.png"
+      ]
+    },
+    {
+      "id": "temporal",
+      "nome": "Temporal 20",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "1996-2000",
+      "arquetipo": "Sedã 4x4 turbo",
+      "motor": "2.0 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 215,
+      "massaKg": 1300,
+      "indiceDesempenho": 625,
+      "modelo": "modelos/temporal.glb",
+      "previa": "previas/temporal.jpg",
+      "ficha": "fichas/temporal.json",
+      "texturas": [
+        "texturas/temporal_carroceria.png",
+        "texturas/temporal_roda.png"
+      ]
+    },
+    {
+      "id": "rajada",
+      "nome": "Rajada 20",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "1996-2000",
+      "arquetipo": "Hatch 4x4 turbo",
+      "motor": "2.0 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 208,
+      "massaKg": 1210,
+      "indiceDesempenho": 636,
+      "modelo": "modelos/rajada.glb",
+      "previa": "previas/rajada.jpg",
+      "ficha": "fichas/rajada.json",
+      "texturas": [
+        "texturas/rajada_carroceria.png",
+        "texturas/rajada_roda.png"
+      ]
+    },
+    {
+      "id": "tormenta",
+      "nome": "Tormenta 25",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "2001-2005",
+      "arquetipo": "Perua 4x4 turbo",
+      "motor": "2.5 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 215,
+      "massaKg": 1390,
+      "indiceDesempenho": 602,
+      "modelo": "modelos/tormenta.glb",
+      "previa": "previas/tormenta.jpg",
+      "ficha": "fichas/tormenta.json",
+      "texturas": [
+        "texturas/tormenta_carroceria.png",
+        "texturas/tormenta_roda.png"
+      ]
+    },
+    {
+      "id": "borrasca",
+      "nome": "Borrasca 20",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "2001-2005",
+      "arquetipo": "Sedã 4x4 turbo",
+      "motor": "2.0 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 224,
+      "massaKg": 1330,
+      "indiceDesempenho": 636,
+      "modelo": "modelos/borrasca.glb",
+      "previa": "previas/borrasca.jpg",
+      "ficha": "fichas/borrasca.json",
+      "texturas": [
+        "texturas/borrasca_carroceria.png",
+        "texturas/borrasca_roda.png"
+      ]
+    },
+    {
+      "id": "corisco",
+      "nome": "Corisco 20",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "2006-2010",
+      "arquetipo": "Hatch 4x4 turbo",
+      "motor": "2.0 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 220,
+      "massaKg": 1270,
+      "indiceDesempenho": 640,
+      "modelo": "modelos/corisco.glb",
+      "previa": "previas/corisco.jpg",
+      "ficha": "fichas/corisco.json",
+      "texturas": [
+        "texturas/corisco_carroceria.png",
+        "texturas/corisco_roda.png"
+      ]
+    },
+    {
+      "id": "quartzo",
+      "nome": "Quartzo 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "1990-1995",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 218,
+      "massaKg": 1090,
+      "indiceDesempenho": 702,
+      "modelo": "modelos/quartzo.glb",
+      "previa": "previas/quartzo.jpg",
+      "ficha": "fichas/quartzo.json",
+      "texturas": [
+        "texturas/quartzo_carroceria.png",
+        "texturas/quartzo_roda.png"
+      ]
+    },
+    {
+      "id": "basalto",
+      "nome": "Basalto 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "1990-1995",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 233,
+      "massaKg": 1150,
+      "indiceDesempenho": 713,
+      "modelo": "modelos/basalto.glb",
+      "previa": "previas/basalto.jpg",
+      "ficha": "fichas/basalto.json",
+      "texturas": [
+        "texturas/basalto_carroceria.png",
+        "texturas/basalto_roda.png"
+      ]
+    },
+    {
+      "id": "granito",
+      "nome": "Granito 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "1996-2000",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 224,
+      "massaKg": 1180,
+      "indiceDesempenho": 686,
+      "modelo": "modelos/granito.glb",
+      "previa": "previas/granito.jpg",
+      "ficha": "fichas/granito.json",
+      "texturas": [
+        "texturas/granito_carroceria.png",
+        "texturas/granito_roda.png"
+      ]
+    },
+    {
+      "id": "turmalina",
+      "nome": "Turmalina 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "1996-2000",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 242,
+      "massaKg": 1120,
+      "indiceDesempenho": 746,
+      "modelo": "modelos/turmalina.glb",
+      "previa": "previas/turmalina.jpg",
+      "ficha": "fichas/turmalina.json",
+      "texturas": [
+        "texturas/turmalina_carroceria.png",
+        "texturas/turmalina_roda.png"
+      ]
+    },
+    {
+      "id": "jaspe",
+      "nome": "Jaspe 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "2001-2005",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 228,
+      "massaKg": 1210,
+      "indiceDesempenho": 683,
+      "modelo": "modelos/jaspe.glb",
+      "previa": "previas/jaspe.jpg",
+      "ficha": "fichas/jaspe.json",
+      "texturas": [
+        "texturas/jaspe_carroceria.png",
+        "texturas/jaspe_roda.png"
+      ]
+    },
+    {
+      "id": "agata",
+      "nome": "Ágata 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "2001-2005",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 249,
+      "massaKg": 1150,
+      "indiceDesempenho": 747,
+      "modelo": "modelos/agata.glb",
+      "previa": "previas/agata.jpg",
+      "ficha": "fichas/agata.json",
+      "texturas": [
+        "texturas/agata_carroceria.png",
+        "texturas/agata_roda.png"
+      ]
+    },
+    {
+      "id": "ametista",
+      "nome": "Ametista 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "2006-2010",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 238,
+      "massaKg": 1230,
+      "indiceDesempenho": 698,
+      "modelo": "modelos/ametista.glb",
+      "previa": "previas/ametista.jpg",
+      "ficha": "fichas/ametista.json",
+      "texturas": [
+        "texturas/ametista_carroceria.png",
+        "texturas/ametista_roda.png"
+      ]
+    },
+    {
+      "id": "scitizia",
+      "nome": "Scitizia R5",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "2006-2010",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 228,
+      "massaKg": 1150,
+      "indiceDesempenho": 708,
+      "modelo": "modelos/scitizia.glb",
+      "previa": "previas/scitizia.jpg",
+      "ficha": "fichas/scitizia.json",
+      "texturas": [
+        "texturas/scitizia_carroceria.png",
+        "texturas/scitizia_roda.png"
+      ]
+    },
+    {
+      "id": "vendaval",
+      "nome": "Vendaval B",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "1980-1989",
+      "arquetipo": "Monstro sem restrição",
+      "motor": "2.1 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 306,
+      "massaKg": 1100,
+      "indiceDesempenho": 896,
+      "modelo": "modelos/vendaval.glb",
+      "previa": "previas/vendaval.jpg",
+      "ficha": "fichas/vendaval.json",
+      "texturas": [
+        "texturas/vendaval_carroceria.png",
+        "texturas/vendaval_roda.png"
+      ]
+    },
+    {
+      "id": "ventania",
+      "nome": "Ventania 21",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "1990-1995",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.1 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 301,
+      "massaKg": 1030,
+      "indiceDesempenho": 909,
+      "modelo": "modelos/ventania.glb",
+      "previa": "previas/ventania.jpg",
+      "ficha": "fichas/ventania.json",
+      "texturas": [
+        "texturas/ventania_carroceria.png",
+        "texturas/ventania_roda.png"
+      ]
+    },
+    {
+      "id": "redemoinho",
+      "nome": "Redemoinho 22",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "1990-1995",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.2 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 330,
+      "massaKg": 1100,
+      "indiceDesempenho": 919,
+      "modelo": "modelos/redemoinho.glb",
+      "previa": "previas/redemoinho.jpg",
+      "ficha": "fichas/redemoinho.json",
+      "texturas": [
+        "texturas/redemoinho_carroceria.png",
+        "texturas/redemoinho_roda.png"
+      ]
+    },
+    {
+      "id": "minuano",
+      "nome": "Minuano 23",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "1996-2000",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.3 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 282,
+      "massaKg": 1130,
+      "indiceDesempenho": 829,
+      "modelo": "modelos/minuano.glb",
+      "previa": "previas/minuano.jpg",
+      "ficha": "fichas/minuano.json",
+      "texturas": [
+        "texturas/minuano_carroceria.png",
+        "texturas/minuano_roda.png"
+      ]
+    },
+    {
+      "id": "lufada",
+      "nome": "Lufada 24",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "1996-2000",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.4 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 318,
+      "massaKg": 1060,
+      "indiceDesempenho": 914,
+      "modelo": "modelos/lufada.glb",
+      "previa": "previas/lufada.jpg",
+      "ficha": "fichas/lufada.json",
+      "texturas": [
+        "texturas/lufada_carroceria.png",
+        "texturas/lufada_roda.png"
+      ]
+    },
+    {
+      "id": "rebojo",
+      "nome": "Rebojo 26",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "2001-2005",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 294,
+      "massaKg": 1100,
+      "indiceDesempenho": 869,
+      "modelo": "modelos/rebojo.glb",
+      "previa": "previas/rebojo.jpg",
+      "ficha": "fichas/rebojo.json",
+      "texturas": [
+        "texturas/rebojo_carroceria.png",
+        "texturas/rebojo_roda.png"
+      ]
+    },
+    {
+      "id": "procela",
+      "nome": "Procela 25",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "2001-2005",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.5 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 337,
+      "massaKg": 1170,
+      "indiceDesempenho": 922,
+      "modelo": "modelos/procela.glb",
+      "previa": "previas/procela.jpg",
+      "ficha": "fichas/procela.json",
+      "texturas": [
+        "texturas/procela_carroceria.png",
+        "texturas/procela_roda.png"
+      ]
+    },
+    {
+      "id": "terral",
+      "nome": "Terral 27",
+      "classe": "C6",
+      "nomeClasse": "Grupo Livre",
+      "epoca": "2006-2010",
+      "arquetipo": "Monstro sem restrição sobre base de hatch",
+      "motor": "2.7 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 325,
+      "massaKg": 1190,
+      "indiceDesempenho": 893,
+      "modelo": "modelos/terral.glb",
+      "previa": "previas/terral.jpg",
+      "ficha": "fichas/terral.json",
+      "texturas": [
+        "texturas/terral_carroceria.png",
+        "texturas/terral_roda.png"
+      ]
+    },
+    {
+      "id": "lajedo",
+      "nome": "Lajedo 32",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "1990-1995",
+      "arquetipo": "Utilitário esportivo de rali cross-country",
+      "motor": "3.0 turbodiesel",
+      "tracao": "AWD",
+      "potenciaCv": 239,
+      "massaKg": 1900,
+      "indiceDesempenho": 501,
+      "modelo": "modelos/lajedo.glb",
+      "previa": "previas/lajedo.jpg",
+      "ficha": "fichas/lajedo.json",
+      "texturas": [
+        "texturas/lajedo_carroceria.png",
+        "texturas/lajedo_roda.png"
+      ]
+    },
+    {
+      "id": "atoleiro",
+      "nome": "Atoleiro 31",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "1990-1995",
+      "arquetipo": "Picape de rali cross-country",
+      "motor": "2.8 turbodiesel",
+      "tracao": "AWD",
+      "potenciaCv": 231,
+      "massaKg": 1770,
+      "indiceDesempenho": 508,
+      "modelo": "modelos/atoleiro.glb",
+      "previa": "previas/atoleiro.jpg",
+      "ficha": "fichas/atoleiro.json",
+      "texturas": [
+        "texturas/atoleiro_carroceria.png",
+        "texturas/atoleiro_roda.png"
+      ]
+    },
+    {
+      "id": "jararaca",
+      "nome": "Jararaca 30",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "1990-1995",
+      "arquetipo": "Picape de rali cross-country",
+      "motor": "3.0 V6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 252,
+      "massaKg": 1900,
+      "indiceDesempenho": 521,
+      "modelo": "modelos/jararaca.glb",
+      "previa": "previas/jararaca.jpg",
+      "ficha": "fichas/jararaca.json",
+      "texturas": [
+        "texturas/jararaca_carroceria.png",
+        "texturas/jararaca_roda.png"
+      ]
+    },
+    {
+      "id": "chapada",
+      "nome": "Chapada 33",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "1996-2000",
+      "arquetipo": "Picape cabine dupla de rali cross-country",
+      "motor": "3.0 V6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 252,
+      "massaKg": 2000,
+      "indiceDesempenho": 507,
+      "modelo": "modelos/chapada.glb",
+      "previa": "previas/chapada.jpg",
+      "ficha": "fichas/chapada.json",
+      "texturas": [
+        "texturas/chapada_carroceria.png",
+        "texturas/chapada_roda.png"
+      ]
+    },
+    {
+      "id": "boqueirao",
+      "nome": "Boqueirão 34",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "1996-2000",
+      "arquetipo": "Utilitário esportivo de rali cross-country",
+      "motor": "3.2 V6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 264,
+      "massaKg": 1860,
+      "indiceDesempenho": 543,
+      "modelo": "modelos/boqueirao.glb",
+      "previa": "previas/boqueirao.jpg",
+      "ficha": "fichas/boqueirao.json",
+      "texturas": [
+        "texturas/boqueirao_carroceria.png",
+        "texturas/boqueirao_roda.png"
+      ]
+    },
+    {
+      "id": "caatinga",
+      "nome": "Caatinga 36",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "2001-2005",
+      "arquetipo": "Utilitário esportivo de rali cross-country",
+      "motor": "3.0 turbodiesel",
+      "tracao": "AWD",
+      "potenciaCv": 257,
+      "massaKg": 1900,
+      "indiceDesempenho": 528,
+      "modelo": "modelos/caatinga.glb",
+      "previa": "previas/caatinga.jpg",
+      "ficha": "fichas/caatinga.json",
+      "texturas": [
+        "texturas/caatinga_carroceria.png",
+        "texturas/caatinga_roda.png"
+      ]
+    },
+    {
+      "id": "grota",
+      "nome": "Grota 35",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "2001-2005",
+      "arquetipo": "Picape cabine dupla de rali cross-country",
+      "motor": "3.0 turbodiesel",
+      "tracao": "AWD",
+      "potenciaCv": 272,
+      "massaKg": 2030,
+      "indiceDesempenho": 530,
+      "modelo": "modelos/grota.glb",
+      "previa": "previas/grota.jpg",
+      "ficha": "fichas/grota.json",
+      "texturas": [
+        "texturas/grota_carroceria.png",
+        "texturas/grota_roda.png"
+      ]
+    },
+    {
+      "id": "tabuleiro",
+      "nome": "Tabuleiro 37",
+      "classe": "C7",
+      "nomeClasse": "Off-road",
+      "epoca": "2006-2010",
+      "arquetipo": "Picape cabine dupla de rali cross-country",
+      "motor": "3.2 turbodiesel",
+      "tracao": "AWD",
+      "potenciaCv": 277,
+      "massaKg": 2050,
+      "indiceDesempenho": 534,
+      "modelo": "modelos/tabuleiro.glb",
+      "previa": "previas/tabuleiro.jpg",
+      "ficha": "fichas/tabuleiro.json",
+      "texturas": [
+        "texturas/tabuleiro_carroceria.png",
+        "texturas/tabuleiro_roda.png"
+      ]
+    }
+  ]
+}
