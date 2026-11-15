@@ -1,0 +1,141 @@
+{
+  "id": "lufada",
+  "nome": "Lufada 24",
+  "classe": "C6",
+  "epoca": "1996-2000",
+  "arquetipo": "Monstro sem restrição sobre base de hatch do fim dos anos 90",
+  "motor": "2.4 turbo",
+  "tracao": "AWD",
+  "numero": 63,
+  "modelo": "carros/lufada.glb",
+  "fisica": {
+    "massa": 1060,
+    "dimensoes": [
+      3.83,
+      1.86,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.16,
+    "eixoTraseiro": -1.16,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.31,
+    "potencia": 234000,
+    "tracaoDianteira": 0.3,
+    "diferencial": 4.45,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.91,
+        0.26,
+        1.91,
+        0,
+        0.48,
+        0.04
+      ],
+      [
+        0.64,
+        0.24,
+        0.84,
+        0,
+        1.03,
+        -0.39
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.96,
+    "yTras": 1.87,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -1.96,
+        0.6
+      ],
+      [
+        -1.69,
+        0.68
+      ],
+      [
+        -0.74,
+        0.83
+      ],
+      [
+        0.765,
+        0.883
+      ],
+      [
+        1.87,
+        0.91
+      ]
+    ],
+    "cabine": {
+      "pe": -0.74,
+      "topoD": 0.04,
+      "topoT": 1.13,
+      "peT": 1.53,
+      "teto": 1.33,
+      "largBase": 0.75,
+      "largTopo": 0.6
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.55,
+      "x": 0.56,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.765,
+      "x": 0.62,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "secundaria": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "terciaria": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "aro": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "pinca": [
+        0.1,
+        0.6,
+        0.3
+      ]
+    },
+    "pintura": "diagonal",
+    "parachoque": "escuro",
+    "rodaLargura": 0.23,
+    "raios": 0,
+    "extras": [
+      "aerofolio_alto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

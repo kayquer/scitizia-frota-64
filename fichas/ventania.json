@@ -1,0 +1,142 @@
+{
+  "id": "ventania",
+  "nome": "Ventania 21",
+  "classe": "C6",
+  "epoca": "1990-1995",
+  "arquetipo": "Monstro sem restrição sobre base de hatch do começo dos anos 90",
+  "motor": "2.1 turbo",
+  "tracao": "AWD",
+  "numero": 60,
+  "modelo": "carros/ventania.glb",
+  "fisica": {
+    "massa": 1030,
+    "dimensoes": [
+      3.95,
+      1.86,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.2,
+    "eixoTraseiro": -1.2,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.31,
+    "potencia": 221000,
+    "tracaoDianteira": 0.3,
+    "diferencial": 4.3,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.91,
+        0.25,
+        1.97,
+        0,
+        0.47,
+        0.05
+      ],
+      [
+        0.66,
+        0.24,
+        0.96,
+        0,
+        1.03,
+        -0.4
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.021,
+    "yTras": 1.929,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -2.021,
+        0.638
+      ],
+      [
+        -1.751,
+        0.718
+      ],
+      [
+        -0.78,
+        0.798
+      ],
+      [
+        0.775,
+        0.831
+      ],
+      [
+        1.929,
+        0.848
+      ]
+    ],
+    "cabine": {
+      "pe": -0.78,
+      "topoD": -0.18,
+      "topoT": 1.309,
+      "peT": 1.589,
+      "teto": 1.33,
+      "largBase": 0.75,
+      "largTopo": 0.65
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.608,
+      "x": 0.49,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 0.728,
+      "x": 0.58,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.95,
+        0.78,
+        0.1
+      ],
+      "secundaria": [
+        0.1,
+        0.25,
+        0.7
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.1,
+        0.25,
+        0.7
+      ]
+    },
+    "pintura": "meio",
+    "parachoque": "escuro",
+    "rodaLargura": 0.23,
+    "raios": 0,
+    "extras": [
+      "aerofolio_alto",
+      "entrada_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tabuleiro",
+  "nome": "Tabuleiro 37",
+  "classe": "C7",
+  "epoca": "2006-2010",
+  "arquetipo": "Picape cabine dupla de rali cross-country do fim dos anos 2000",
+  "motor": "3.2 turbodiesel",
+  "tracao": "AWD",
+  "numero": 76,
+  "modelo": "carros/tabuleiro.glb",
+  "fisica": {
+    "massa": 2050,
+    "dimensoes": [
+      5.2,
+      1.98,
+      1.92
+    ],
+    "centroMassa": [
+      0,
+      0.7,
+      0.1
+    ],
+    "eixoDianteiro": 1.55,
+    "eixoTraseiro": -1.55,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 204000,
+    "tracaoDianteira": 0.5,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.55,
+    "rpmCorte": 6200,
+    "cascas": [
+      [
+        0.97,
+        0.37,
+        2.59,
+        0,
+        0.83,
+        0.06
+      ],
+      [
+        0.77,
+        0.24,
+        0.69,
+        0,
+        1.62,
+        -0.1
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "yFrente": -2.663,
+    "yTras": 2.537,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.663,
+        1.096
+      ],
+      [
+        -2.363,
+        1.196
+      ],
+      [
+        -0.8,
+        1.296
+      ],
+      [
+        0.8,
+        1.336
+      ],
+      [
+        2.537,
+        1.336
+      ]
+    ],
+    "cabine": {
+      "pe": -0.8,
+      "topoD": -0.02,
+      "topoT": 0.95,
+      "peT": 1,
+      "teto": 1.92,
+      "largBase": 0.86,
+      "largTopo": 0.76
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 1.046,
+      "x": 0.63,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 1.166,
+      "x": 0.74,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "secundaria": [
+        0.95,
+        0.5,
+        0.08
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.95,
+        0.5,
+        0.08
+      ],
+      "pinca": [
+        0.95,
+        0.5,
+        0.08
+      ]
+    },
+    "pintura": "xadrez",
+    "parachoque": "cor",
+    "rodaLargura": 0.28,
+    "raios": 0,
+    "extras": [
+      "protetores",
+      "quebra_mato",
+      "snorkel",
+      "santo_antonio",
+      "estepe_cacamba",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

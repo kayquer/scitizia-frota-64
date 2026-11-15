@@ -1,0 +1,151 @@
+{
+  "id": "braseiro",
+  "nome": "Braseiro 25",
+  "classe": "C3",
+  "epoca": "1990-1995",
+  "arquetipo": "Cupê de tração traseira do começo dos anos 90",
+  "motor": "2.5 aspirado",
+  "tracao": "RWD",
+  "numero": 26,
+  "modelo": "carros/braseiro.glb",
+  "fisica": {
+    "massa": 1020,
+    "dimensoes": [
+      4.15,
+      1.7,
+      1.26
+    ],
+    "centroMassa": [
+      0,
+      0.39,
+      0
+    ],
+    "eixoDianteiro": 1.21,
+    "eixoTraseiro": -1.21,
+    "bitolaDianteira": 1.42,
+    "bitolaTraseira": 1.4,
+    "raioRoda": 0.3,
+    "potencia": 119000,
+    "tracaoDianteira": 0,
+    "marchas": [
+      3.3,
+      2.1,
+      1.5,
+      1.15,
+      0.92
+    ],
+    "diferencial": 4.05,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.83,
+        0.22,
+        2.07,
+        0,
+        0.46,
+        0.05
+      ],
+      [
+        0.66,
+        0.24,
+        0.7,
+        0,
+        0.96,
+        -0.4
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.127,
+    "yTras": 2.023,
+    "larg": 0.81,
+    "alarg": 0.04,
+    "zBaixo": 0.2,
+    "perfil": [
+      [
+        -2.127,
+        0.596
+      ],
+      [
+        -1.857,
+        0.676
+      ],
+      [
+        -0.61,
+        0.756
+      ],
+      [
+        0.397,
+        0.786
+      ],
+      [
+        1.403,
+        0.806
+      ],
+      [
+        2.023,
+        0.806
+      ]
+    ],
+    "cabine": {
+      "pe": -0.61,
+      "topoD": 0.09,
+      "topoT": 0.863,
+      "peT": 1.403,
+      "teto": 1.26,
+      "largBase": 0.76,
+      "largTopo": 0.64
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.566,
+      "x": 0.5,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 0.686,
+      "x": 0.59,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.1,
+        0.4,
+        0.2
+      ],
+      "terciaria": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.1,
+        0.4,
+        0.2
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "escuro",
+    "rodaLargura": 0.2,
+    "raios": 6,
+    "extras": [
+      "aerofolio_pato",
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

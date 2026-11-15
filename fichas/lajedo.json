@@ -1,0 +1,152 @@
+{
+  "id": "lajedo",
+  "nome": "Lajedo 32",
+  "classe": "C7",
+  "epoca": "1990-1995",
+  "arquetipo": "Utilitário esportivo de rali cross-country do começo dos anos 90",
+  "motor": "3.0 turbodiesel",
+  "tracao": "AWD",
+  "numero": 71,
+  "modelo": "carros/lajedo.glb",
+  "fisica": {
+    "massa": 1900,
+    "dimensoes": [
+      4.75,
+      1.98,
+      1.9
+    ],
+    "centroMassa": [
+      0,
+      0.69,
+      0.1
+    ],
+    "eixoDianteiro": 1.42,
+    "eixoTraseiro": -1.42,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 176000,
+    "tracaoDianteira": 0.55,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.55,
+    "rpmCorte": 6400,
+    "cascas": [
+      [
+        0.97,
+        0.33,
+        2.37,
+        0,
+        0.79,
+        0.06
+      ],
+      [
+        0.79,
+        0.24,
+        1.43,
+        0,
+        1.6,
+        -0.66
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "yFrente": -2.432,
+    "yTras": 2.318,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.432,
+        1.037
+      ],
+      [
+        -2.162,
+        1.117
+      ],
+      [
+        -0.92,
+        1.197
+      ],
+      [
+        0.899,
+        1.23
+      ],
+      [
+        2.318,
+        1.247
+      ]
+    ],
+    "cabine": {
+      "pe": -0.92,
+      "topoD": -0.44,
+      "topoT": 2.138,
+      "peT": 2.238,
+      "teto": 1.9,
+      "largBase": 0.86,
+      "largTopo": 0.8
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 1.007,
+      "x": 0.6,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 1.127,
+      "x": 0.69,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.15,
+        0.3,
+        0.15
+      ],
+      "secundaria": [
+        0.85,
+        0.75,
+        0.5
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.85,
+        0.75,
+        0.5
+      ],
+      "pinca": [
+        0.85,
+        0.75,
+        0.5
+      ]
+    },
+    "pintura": "listras",
+    "parachoque": "escuro",
+    "rodaLargura": 0.28,
+    "raios": 5,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "estepe_traseiro",
+      "bagageiro",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

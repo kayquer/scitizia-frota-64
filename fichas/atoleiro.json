@@ -1,0 +1,151 @@
+{
+  "id": "atoleiro",
+  "nome": "Atoleiro 31",
+  "classe": "C7",
+  "epoca": "1990-1995",
+  "arquetipo": "Picape de rali cross-country do começo dos anos 90",
+  "motor": "2.8 turbodiesel",
+  "tracao": "AWD",
+  "numero": 70,
+  "modelo": "carros/atoleiro.glb",
+  "fisica": {
+    "massa": 1770,
+    "dimensoes": [
+      4.75,
+      1.98,
+      1.86
+    ],
+    "centroMassa": [
+      0,
+      0.68,
+      0.1
+    ],
+    "eixoDianteiro": 1.42,
+    "eixoTraseiro": -1.42,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 170000,
+    "tracaoDianteira": 0.5,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.5,
+    "rpmCorte": 6200,
+    "cascas": [
+      [
+        0.97,
+        0.32,
+        2.37,
+        0,
+        0.78,
+        0.06
+      ],
+      [
+        0.79,
+        0.24,
+        0.44,
+        0,
+        1.56,
+        0.1
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "yFrente": -2.432,
+    "yTras": 2.318,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.432,
+        1.012
+      ],
+      [
+        -2.132,
+        1.112
+      ],
+      [
+        -0.67,
+        1.172
+      ],
+      [
+        0.28,
+        1.212
+      ],
+      [
+        2.318,
+        1.212
+      ]
+    ],
+    "cabine": {
+      "pe": -0.67,
+      "topoD": -0.17,
+      "topoT": 0.43,
+      "peT": 0.48,
+      "teto": 1.86,
+      "largBase": 0.86,
+      "largTopo": 0.8
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.982,
+      "x": 0.6,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 1.092,
+      "x": 0.69,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.1,
+        0.45,
+        0.2
+      ],
+      "terciaria": [
+        0.35,
+        0.22,
+        0.1
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.1,
+        0.45,
+        0.2
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "escuro",
+    "rodaLargura": 0.28,
+    "raios": 6,
+    "extras": [
+      "quebra_mato",
+      "santo_antonio",
+      "estepe_cacamba",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

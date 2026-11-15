@@ -1,0 +1,142 @@
+{
+  "id": "ametista",
+  "nome": "Ametista 16",
+  "classe": "C5",
+  "epoca": "2006-2010",
+  "arquetipo": "Protótipo de rali sobre base de hatch do fim dos anos 2000",
+  "motor": "1.6 turbo",
+  "tracao": "AWD",
+  "numero": 56,
+  "modelo": "carros/ametista.glb",
+  "fisica": {
+    "massa": 1230,
+    "dimensoes": [
+      3.91,
+      1.72,
+      1.36
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.05
+    ],
+    "eixoDianteiro": 1.26,
+    "eixoTraseiro": -1.26,
+    "bitolaDianteira": 1.49,
+    "bitolaTraseira": 1.47,
+    "raioRoda": 0.31,
+    "potencia": 175000,
+    "tracaoDianteira": 0.45,
+    "diferencial": 4.05,
+    "rpmCorte": 8000,
+    "cascas": [
+      [
+        0.84,
+        0.29,
+        1.95,
+        0,
+        0.51,
+        0.04
+      ],
+      [
+        0.6,
+        0.24,
+        1.05,
+        0,
+        1.06,
+        -0.51
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.997,
+    "yTras": 1.913,
+    "larg": 0.76,
+    "alarg": 0.1,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -1.997,
+        0.677
+      ],
+      [
+        -1.727,
+        0.757
+      ],
+      [
+        -0.84,
+        0.877
+      ],
+      [
+        0.736,
+        0.956
+      ],
+      [
+        1.913,
+        0.997
+      ]
+    ],
+    "cabine": {
+      "pe": -0.84,
+      "topoD": 0.04,
+      "topoT": 1.553,
+      "peT": 1.853,
+      "teto": 1.36,
+      "largBase": 0.71,
+      "largTopo": 0.57
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.627,
+      "x": 0.48,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.827,
+      "x": 0.59,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.4,
+        0.2,
+        0.65
+      ],
+      "secundaria": [
+        0.6,
+        0.85,
+        0.15
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.6,
+        0.85,
+        0.15
+      ],
+      "pinca": [
+        0.6,
+        0.85,
+        0.15
+      ]
+    },
+    "pintura": "escamas",
+    "parachoque": "cor",
+    "rodaLargura": 0.22,
+    "raios": 0,
+    "extras": [
+      "aerofolio_teto",
+      "entrada_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

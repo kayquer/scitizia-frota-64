@@ -1,0 +1,152 @@
+{
+  "id": "chapada",
+  "nome": "Chapada 33",
+  "classe": "C7",
+  "epoca": "1996-2000",
+  "arquetipo": "Picape cabine dupla de rali cross-country do fim dos anos 90",
+  "motor": "3.0 V6 turbo",
+  "tracao": "AWD",
+  "numero": 72,
+  "modelo": "carros/chapada.glb",
+  "fisica": {
+    "massa": 2000,
+    "dimensoes": [
+      5.05,
+      1.98,
+      1.86
+    ],
+    "centroMassa": [
+      0,
+      0.68,
+      0.1
+    ],
+    "eixoDianteiro": 1.5,
+    "eixoTraseiro": -1.5,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 185000,
+    "tracaoDianteira": 0.45,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.6,
+    "rpmCorte": 6000,
+    "cascas": [
+      [
+        0.97,
+        0.29,
+        2.52,
+        0,
+        0.75,
+        0.06
+      ],
+      [
+        0.76,
+        0.24,
+        0.72,
+        0,
+        1.56,
+        -0.15
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "yFrente": -2.586,
+    "yTras": 2.464,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.586,
+        0.914
+      ],
+      [
+        -2.286,
+        1.014
+      ],
+      [
+        -0.75,
+        1.144
+      ],
+      [
+        0.85,
+        1.184
+      ],
+      [
+        2.464,
+        1.184
+      ]
+    ],
+    "cabine": {
+      "pe": -0.75,
+      "topoD": -0.07,
+      "topoT": 1,
+      "peT": 1.05,
+      "teto": 1.86,
+      "largBase": 0.86,
+      "largTopo": 0.75
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.864,
+      "x": 0.67,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 1.039,
+      "x": 0.73,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.78,
+        0.1,
+        0.08
+      ],
+      "secundaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.94,
+        0.94,
+        0.92
+      ]
+    },
+    "pintura": "onda",
+    "parachoque": "escuro",
+    "rodaLargura": 0.28,
+    "raios": 6,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "santo_antonio",
+      "estepe_cacamba",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

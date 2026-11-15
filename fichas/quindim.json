@@ -1,0 +1,147 @@
+{
+  "id": "quindim",
+  "nome": "Quindim 1.6",
+  "classe": "C1",
+  "epoca": "1996-2000",
+  "arquetipo": "Hatch compacto popular do fim dos anos 90",
+  "motor": "1.6 aspirado",
+  "tracao": "FWD",
+  "numero": 16,
+  "modelo": "carros/quindim.glb",
+  "fisica": {
+    "massa": 1050,
+    "dimensoes": [
+      3.76,
+      1.6,
+      1.39
+    ],
+    "centroMassa": [
+      0,
+      0.41,
+      0.1
+    ],
+    "eixoDianteiro": 1.23,
+    "eixoTraseiro": -1.23,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.29,
+    "potencia": 76000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 3.95,
+    "rpmCorte": 6800,
+    "cascas": [
+      [
+        0.78,
+        0.23,
+        1.87,
+        0,
+        0.49,
+        0.04
+      ],
+      [
+        0.62,
+        0.24,
+        1.02,
+        0,
+        1.09,
+        -0.49
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.919,
+    "yTras": 1.841,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -1.919,
+        0.583
+      ],
+      [
+        -1.649,
+        0.663
+      ],
+      [
+        -0.81,
+        0.813
+      ],
+      [
+        0.716,
+        0.866
+      ],
+      [
+        1.841,
+        0.893
+      ]
+    ],
+    "cabine": {
+      "pe": -0.81,
+      "topoD": -0.03,
+      "topoT": 1.461,
+      "peT": 1.781,
+      "teto": 1.39,
+      "largBase": 0.73,
+      "largTopo": 0.58
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.533,
+      "x": 0.54,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.748,
+      "x": 0.6,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.95,
+        0.78,
+        0.1
+      ],
+      "secundaria": [
+        0.85,
+        0.35,
+        0.05
+      ],
+      "terciaria": [
+        0.35,
+        0.18,
+        0.06
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.85,
+        0.35,
+        0.05
+      ]
+    },
+    "pintura": "diagonal",
+    "parachoque": "escuro",
+    "rodaLargura": 0.18,
+    "raios": 6,
+    "extras": [
+      "aerofolio_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

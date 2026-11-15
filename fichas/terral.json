@@ -1,0 +1,142 @@
+{
+  "id": "terral",
+  "nome": "Terral 27",
+  "classe": "C6",
+  "epoca": "2006-2010",
+  "arquetipo": "Monstro sem restrição sobre base de hatch do fim dos anos 2000",
+  "motor": "2.7 turbo",
+  "tracao": "AWD",
+  "numero": 66,
+  "modelo": "carros/terral.glb",
+  "fisica": {
+    "massa": 1190,
+    "dimensoes": [
+      4.11,
+      1.86,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.25,
+    "eixoTraseiro": -1.25,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.31,
+    "potencia": 239000,
+    "tracaoDianteira": 0.3,
+    "diferencial": 4.35,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.91,
+        0.28,
+        2.05,
+        0,
+        0.5,
+        0.05
+      ],
+      [
+        0.64,
+        0.24,
+        0.92,
+        0,
+        1.03,
+        -0.41
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.103,
+    "yTras": 2.007,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -2.103,
+        0.658
+      ],
+      [
+        -1.833,
+        0.738
+      ],
+      [
+        -0.83,
+        0.858
+      ],
+      [
+        0.789,
+        0.937
+      ],
+      [
+        2.007,
+        0.978
+      ]
+    ],
+    "cabine": {
+      "pe": -0.83,
+      "topoD": 0.05,
+      "topoT": 1.267,
+      "peT": 1.647,
+      "teto": 1.33,
+      "largBase": 0.75,
+      "largTopo": 0.61
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.608,
+      "x": 0.52,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.808,
+      "x": 0.63,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.5,
+        0.8,
+        0.15
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.5,
+        0.8,
+        0.15
+      ],
+      "pinca": [
+        0.5,
+        0.8,
+        0.15
+      ]
+    },
+    "pintura": "escamas",
+    "parachoque": "cor",
+    "rodaLargura": 0.23,
+    "raios": 0,
+    "extras": [
+      "aerofolio_alto",
+      "entrada_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

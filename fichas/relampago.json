@@ -1,0 +1,145 @@
+{
+  "id": "relampago",
+  "nome": "Relâmpago 20",
+  "classe": "C4",
+  "epoca": "1990-1995",
+  "arquetipo": "Sedã 4x4 turbo do começo dos anos 90",
+  "motor": "2.0 turbo",
+  "tracao": "AWD",
+  "numero": 40,
+  "modelo": "carros/relampago.glb",
+  "fisica": {
+    "massa": 1240,
+    "dimensoes": [
+      4.45,
+      1.76,
+      1.46
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.08
+    ],
+    "eixoDianteiro": 1.31,
+    "eixoTraseiro": -1.31,
+    "bitolaDianteira": 1.54,
+    "bitolaTraseira": 1.52,
+    "raioRoda": 0.31,
+    "potencia": 140000,
+    "tracaoDianteira": 0.45,
+    "diferencial": 4.2,
+    "rpmCorte": 7200,
+    "cascas": [
+      [
+        0.86,
+        0.27,
+        2.22,
+        0,
+        0.53,
+        0.05
+      ],
+      [
+        0.69,
+        0.24,
+        0.88,
+        0,
+        1.16,
+        -0.31
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.28,
+    "yTras": 2.17,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -2.28,
+        0.716
+      ],
+      [
+        -2.01,
+        0.796
+      ],
+      [
+        -0.83,
+        0.876
+      ],
+      [
+        0.31,
+        0.906
+      ],
+      [
+        1.45,
+        0.926
+      ],
+      [
+        2.17,
+        0.926
+      ]
+    ],
+    "cabine": {
+      "pe": -0.83,
+      "topoD": -0.23,
+      "topoT": 1.03,
+      "peT": 1.45,
+      "teto": 1.46,
+      "largBase": 0.78,
+      "largTopo": 0.68
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.686,
+      "x": 0.52,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 0.806,
+      "x": 0.61,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.1,
+        0.25,
+        0.7
+      ],
+      "terciaria": [
+        0.85,
+        0.12,
+        0.08
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.1,
+        0.25,
+        0.7
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "escuro",
+    "rodaLargura": 0.21,
+    "raios": 5,
+    "extras": [
+      "aerofolio_alto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

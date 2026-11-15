@@ -1,0 +1,147 @@
+{
+  "id": "pipoca",
+  "nome": "Pipoca 1.3",
+  "classe": "C1",
+  "epoca": "1990-1995",
+  "arquetipo": "Hatch compacto popular do começo dos anos 90",
+  "motor": "1.3 aspirado",
+  "tracao": "FWD",
+  "numero": 13,
+  "modelo": "carros/pipoca.glb",
+  "fisica": {
+    "massa": 1000,
+    "dimensoes": [
+      3.69,
+      1.6,
+      1.43
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.1
+    ],
+    "eixoDianteiro": 1.2,
+    "eixoTraseiro": -1.2,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.29,
+    "potencia": 70000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 4.05,
+    "rpmCorte": 6800,
+    "cascas": [
+      [
+        0.78,
+        0.26,
+        1.84,
+        0,
+        0.52,
+        0.04
+      ],
+      [
+        0.64,
+        0.24,
+        1.06,
+        0,
+        1.13,
+        -0.48
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.884,
+    "yTras": 1.806,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -1.884,
+        0.698
+      ],
+      [
+        -1.614,
+        0.778
+      ],
+      [
+        -0.78,
+        0.858
+      ],
+      [
+        0.713,
+        0.891
+      ],
+      [
+        1.806,
+        0.908
+      ]
+    ],
+    "cabine": {
+      "pe": -0.78,
+      "topoD": -0.18,
+      "topoT": 1.546,
+      "peT": 1.746,
+      "teto": 1.43,
+      "largBase": 0.73,
+      "largTopo": 0.63
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.668,
+      "x": 0.47,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 0.788,
+      "x": 0.56,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.78,
+        0.12,
+        0.1
+      ],
+      "secundaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "terciaria": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "aro": [
+        0.6,
+        0.6,
+        0.62
+      ],
+      "pinca": [
+        0.94,
+        0.94,
+        0.92
+      ]
+    },
+    "pintura": "listras",
+    "parachoque": "escuro",
+    "rodaLargura": 0.18,
+    "raios": 4,
+    "extras": [
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

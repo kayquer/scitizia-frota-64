@@ -1,0 +1,141 @@
+{
+  "id": "granito",
+  "nome": "Granito 16",
+  "classe": "C5",
+  "epoca": "1996-2000",
+  "arquetipo": "Protótipo de rali sobre base de hatch do fim dos anos 90",
+  "motor": "1.6 turbo",
+  "tracao": "AWD",
+  "numero": 52,
+  "modelo": "carros/granito.glb",
+  "fisica": {
+    "massa": 1180,
+    "dimensoes": [
+      3.88,
+      1.72,
+      1.36
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.05
+    ],
+    "eixoDianteiro": 1.25,
+    "eixoTraseiro": -1.25,
+    "bitolaDianteira": 1.49,
+    "bitolaTraseira": 1.47,
+    "raioRoda": 0.31,
+    "potencia": 165000,
+    "tracaoDianteira": 0.4,
+    "diferencial": 4.1,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.84,
+        0.26,
+        1.93,
+        0,
+        0.48,
+        0.04
+      ],
+      [
+        0.6,
+        0.24,
+        1.06,
+        0,
+        1.06,
+        -0.5
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.981,
+    "yTras": 1.899,
+    "larg": 0.76,
+    "alarg": 0.1,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -1.981,
+        0.6
+      ],
+      [
+        -1.711,
+        0.68
+      ],
+      [
+        -0.83,
+        0.83
+      ],
+      [
+        0.734,
+        0.883
+      ],
+      [
+        1.899,
+        0.91
+      ]
+    ],
+    "cabine": {
+      "pe": -0.83,
+      "topoD": -0.05,
+      "topoT": 1.519,
+      "peT": 1.839,
+      "teto": 1.36,
+      "largBase": 0.71,
+      "largTopo": 0.56
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.55,
+      "x": 0.52,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.765,
+      "x": 0.58,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.86,
+        0.86,
+        0.84
+      ],
+      "secundaria": [
+        0.82,
+        0.08,
+        0.08
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.82,
+        0.08,
+        0.08
+      ]
+    },
+    "pintura": "xadrez",
+    "parachoque": "escuro",
+    "rodaLargura": 0.22,
+    "raios": 5,
+    "extras": [
+      "aerofolio_teto",
+      "entrada_teto",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

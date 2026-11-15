@@ -1,0 +1,152 @@
+{
+  "id": "grota",
+  "nome": "Grota 35",
+  "classe": "C7",
+  "epoca": "2001-2005",
+  "arquetipo": "Picape cabine dupla de rali cross-country do começo dos anos 2000",
+  "motor": "3.0 turbodiesel",
+  "tracao": "AWD",
+  "numero": 74,
+  "modelo": "carros/grota.glb",
+  "fisica": {
+    "massa": 2030,
+    "dimensoes": [
+      5.15,
+      1.98,
+      1.9
+    ],
+    "centroMassa": [
+      0,
+      0.69,
+      0.1
+    ],
+    "eixoDianteiro": 1.53,
+    "eixoTraseiro": -1.53,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 200000,
+    "tracaoDianteira": 0.55,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.7,
+    "rpmCorte": 6400,
+    "cascas": [
+      [
+        0.97,
+        0.32,
+        2.57,
+        0,
+        0.78,
+        0.06
+      ],
+      [
+        0.77,
+        0.24,
+        0.68,
+        0,
+        1.6,
+        -0.12
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "yFrente": -2.638,
+    "yTras": 2.512,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.638,
+        0.977
+      ],
+      [
+        -2.338,
+        1.077
+      ],
+      [
+        -0.78,
+        1.197
+      ],
+      [
+        0.82,
+        1.237
+      ],
+      [
+        2.512,
+        1.237
+      ]
+    ],
+    "cabine": {
+      "pe": -0.78,
+      "topoD": 0.04,
+      "topoT": 0.97,
+      "peT": 1.02,
+      "teto": 1.9,
+      "largBase": 0.86,
+      "largTopo": 0.76
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.927,
+      "x": 0.67,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 1.047,
+      "x": 0.77,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "secundaria": [
+        0.1,
+        0.25,
+        0.65
+      ],
+      "terciaria": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "aro": [
+        0.25,
+        0.25,
+        0.27
+      ],
+      "pinca": [
+        0.1,
+        0.25,
+        0.65
+      ]
+    },
+    "pintura": "escamas",
+    "parachoque": "cor",
+    "rodaLargura": 0.28,
+    "raios": 6,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "santo_antonio",
+      "estepe_cacamba",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

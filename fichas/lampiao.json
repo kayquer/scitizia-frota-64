@@ -1,0 +1,150 @@
+{
+  "id": "lampiao",
+  "nome": "Lampião 32",
+  "classe": "C3",
+  "epoca": "2001-2005",
+  "arquetipo": "Cupê de tração traseira do começo dos anos 2000",
+  "motor": "3.2 aspirado",
+  "tracao": "RWD",
+  "numero": 32,
+  "modelo": "carros/lampiao.glb",
+  "fisica": {
+    "massa": 1050,
+    "dimensoes": [
+      4.15,
+      1.7,
+      1.3
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.21,
+    "eixoTraseiro": -1.21,
+    "bitolaDianteira": 1.42,
+    "bitolaTraseira": 1.4,
+    "raioRoda": 0.3,
+    "potencia": 138000,
+    "tracaoDianteira": 0,
+    "marchas": [
+      3.3,
+      2.1,
+      1.5,
+      1.15,
+      0.92
+    ],
+    "diferencial": 4.1,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.83,
+        0.24,
+        2.07,
+        0,
+        0.48,
+        0.05
+      ],
+      [
+        0.64,
+        0.24,
+        0.58,
+        0,
+        1,
+        -0.4
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.127,
+    "yTras": 2.023,
+    "larg": 0.81,
+    "alarg": 0.04,
+    "zBaixo": 0.2,
+    "perfil": [
+      [
+        -2.127,
+        0.58
+      ],
+      [
+        -1.857,
+        0.66
+      ],
+      [
+        -0.61,
+        0.8
+      ],
+      [
+        0.397,
+        0.854
+      ],
+      [
+        1.403,
+        0.89
+      ],
+      [
+        2.023,
+        0.89
+      ]
+    ],
+    "cabine": {
+      "pe": -0.61,
+      "topoD": 0.41,
+      "topoT": 0.733,
+      "peT": 1.403,
+      "teto": 1.3,
+      "largBase": 0.76,
+      "largTopo": 0.6
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.53,
+      "x": 0.57,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.7,
+      "x": 0.67,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.95,
+        0.78,
+        0.1
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "listras",
+    "parachoque": "cor",
+    "rodaLargura": 0.2,
+    "raios": 6,
+    "extras": [
+      "aerofolio_alto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

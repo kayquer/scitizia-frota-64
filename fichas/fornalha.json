@@ -1,0 +1,150 @@
+{
+  "id": "fornalha",
+  "nome": "Fornalha 28",
+  "classe": "C3",
+  "epoca": "1996-2000",
+  "arquetipo": "Cupê de tração traseira do fim dos anos 90",
+  "motor": "2.8 aspirado",
+  "tracao": "RWD",
+  "numero": 28,
+  "modelo": "carros/fornalha.glb",
+  "fisica": {
+    "massa": 1000,
+    "dimensoes": [
+      4.07,
+      1.7,
+      1.25
+    ],
+    "centroMassa": [
+      0,
+      0.39,
+      0
+    ],
+    "eixoDianteiro": 1.19,
+    "eixoTraseiro": -1.19,
+    "bitolaDianteira": 1.42,
+    "bitolaTraseira": 1.4,
+    "raioRoda": 0.3,
+    "potencia": 128000,
+    "tracaoDianteira": 0,
+    "marchas": [
+      3.3,
+      2.1,
+      1.5,
+      1.15,
+      0.92
+    ],
+    "diferencial": 4.15,
+    "rpmCorte": 7600,
+    "cascas": [
+      [
+        0.83,
+        0.25,
+        2.03,
+        0,
+        0.49,
+        0.05
+      ],
+      [
+        0.64,
+        0.24,
+        0.59,
+        0,
+        0.95,
+        -0.39
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.086,
+    "yTras": 1.984,
+    "larg": 0.81,
+    "alarg": 0.04,
+    "zBaixo": 0.2,
+    "perfil": [
+      [
+        -2.086,
+        0.58
+      ],
+      [
+        -1.816,
+        0.66
+      ],
+      [
+        -0.59,
+        0.81
+      ],
+      [
+        0.387,
+        0.858
+      ],
+      [
+        1.364,
+        0.89
+      ],
+      [
+        1.984,
+        0.89
+      ]
+    ],
+    "cabine": {
+      "pe": -0.59,
+      "topoD": 0.29,
+      "topoT": 0.694,
+      "peT": 1.364,
+      "teto": 1.25,
+      "largBase": 0.76,
+      "largTopo": 0.59
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.53,
+      "x": 0.57,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.745,
+      "x": 0.63,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.4,
+        0.15,
+        0.5
+      ],
+      "secundaria": [
+        0.95,
+        0.5,
+        0.08
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.95,
+        0.5,
+        0.08
+      ]
+    },
+    "pintura": "onda",
+    "parachoque": "escuro",
+    "rodaLargura": 0.2,
+    "raios": 5,
+    "extras": [
+      "aerofolio_pato",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

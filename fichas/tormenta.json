@@ -1,0 +1,145 @@
+{
+  "id": "tormenta",
+  "nome": "Tormenta 25",
+  "classe": "C4",
+  "epoca": "2001-2005",
+  "arquetipo": "Perua 4x4 turbo do começo dos anos 2000",
+  "motor": "2.5 turbo",
+  "tracao": "AWD",
+  "numero": 44,
+  "modelo": "carros/tormenta.glb",
+  "fisica": {
+    "massa": 1390,
+    "dimensoes": [
+      4.58,
+      1.76,
+      1.5
+    ],
+    "centroMassa": [
+      0,
+      0.43,
+      0.08
+    ],
+    "eixoDianteiro": 1.35,
+    "eixoTraseiro": -1.35,
+    "bitolaDianteira": 1.54,
+    "bitolaTraseira": 1.52,
+    "raioRoda": 0.31,
+    "potencia": 158000,
+    "tracaoDianteira": 0.5,
+    "diferencial": 4.4,
+    "rpmCorte": 7400,
+    "cascas": [
+      [
+        0.86,
+        0.28,
+        2.28,
+        0,
+        0.54,
+        0.06
+      ],
+      [
+        0.67,
+        0.24,
+        1.25,
+        0,
+        1.2,
+        -0.63
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.346,
+    "yTras": 2.234,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -2.346,
+        0.68
+      ],
+      [
+        -2.076,
+        0.76
+      ],
+      [
+        -0.89,
+        0.9
+      ],
+      [
+        0.632,
+        0.954
+      ],
+      [
+        2.154,
+        0.99
+      ],
+      [
+        2.234,
+        0.99
+      ]
+    ],
+    "cabine": {
+      "pe": -0.89,
+      "topoD": 0.03,
+      "topoT": 1.994,
+      "peT": 2.154,
+      "teto": 1.5,
+      "largBase": 0.78,
+      "largTopo": 0.64
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.63,
+      "x": 0.59,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.8,
+      "x": 0.69,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "secundaria": [
+        0.1,
+        0.25,
+        0.65
+      ],
+      "terciaria": [
+        0.95,
+        0.5,
+        0.08
+      ],
+      "aro": [
+        0.25,
+        0.25,
+        0.27
+      ],
+      "pinca": [
+        0.1,
+        0.25,
+        0.65
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.21,
+    "raios": 5,
+    "extras": [
+      "aerofolio_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

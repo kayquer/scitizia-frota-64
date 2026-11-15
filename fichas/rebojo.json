@@ -1,0 +1,140 @@
+{
+  "id": "rebojo",
+  "nome": "Rebojo 26",
+  "classe": "C6",
+  "epoca": "2001-2005",
+  "arquetipo": "Monstro sem restrição sobre base de hatch do começo dos anos 2000",
+  "motor": "2.6 turbo",
+  "tracao": "AWD",
+  "numero": 65,
+  "modelo": "carros/rebojo.glb",
+  "fisica": {
+    "massa": 1100,
+    "dimensoes": [
+      3.95,
+      1.86,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.2,
+    "eixoTraseiro": -1.2,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.31,
+    "potencia": 216000,
+    "tracaoDianteira": 0.4,
+    "diferencial": 4.3,
+    "rpmCorte": 8200,
+    "cascas": [
+      [
+        0.91,
+        0.25,
+        1.97,
+        0,
+        0.47,
+        0.05
+      ],
+      [
+        0.64,
+        0.24,
+        0.86,
+        0,
+        1.03,
+        -0.4
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.021,
+    "yTras": 1.929,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -2.021,
+        0.6
+      ],
+      [
+        -1.751,
+        0.68
+      ],
+      [
+        -0.78,
+        0.82
+      ],
+      [
+        0.775,
+        0.879
+      ],
+      [
+        1.929,
+        0.91
+      ]
+    ],
+    "cabine": {
+      "pe": -0.78,
+      "topoD": 0.14,
+      "topoT": 1.209,
+      "peT": 1.589,
+      "teto": 1.33,
+      "largBase": 0.75,
+      "largTopo": 0.61
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.55,
+      "x": 0.56,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.72,
+      "x": 0.66,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.1,
+        0.3,
+        0.75
+      ],
+      "secundaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "terciaria": [
+        0.85,
+        0.12,
+        0.08
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.94,
+        0.94,
+        0.92
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.23,
+    "raios": 5,
+    "extras": [
+      "aerofolio_alto",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

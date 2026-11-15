@@ -1,0 +1,142 @@
+{
+  "id": "procela",
+  "nome": "Procela 25",
+  "classe": "C6",
+  "epoca": "2001-2005",
+  "arquetipo": "Monstro sem restrição sobre base de hatch do começo dos anos 2000",
+  "motor": "2.5 turbo",
+  "tracao": "AWD",
+  "numero": 64,
+  "modelo": "carros/procela.glb",
+  "fisica": {
+    "massa": 1170,
+    "dimensoes": [
+      4.07,
+      1.9,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.24,
+    "eixoTraseiro": -1.24,
+    "bitolaDianteira": 1.66,
+    "bitolaTraseira": 1.64,
+    "raioRoda": 0.31,
+    "potencia": 248000,
+    "tracaoDianteira": 0.35,
+    "diferencial": 4.5,
+    "rpmCorte": 8000,
+    "cascas": [
+      [
+        0.93,
+        0.25,
+        2.03,
+        0,
+        0.47,
+        0.05
+      ],
+      [
+        0.66,
+        0.24,
+        0.91,
+        0,
+        1.03,
+        -0.41
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.083,
+    "yTras": 1.987,
+    "larg": 0.82,
+    "alarg": 0.13,
+    "zBaixo": 0.18,
+    "perfil": [
+      [
+        -2.083,
+        0.6
+      ],
+      [
+        -1.813,
+        0.68
+      ],
+      [
+        -0.82,
+        0.82
+      ],
+      [
+        0.784,
+        0.879
+      ],
+      [
+        1.987,
+        0.91
+      ]
+    ],
+    "cabine": {
+      "pe": -0.82,
+      "topoD": 0.1,
+      "topoT": 1.267,
+      "peT": 1.647,
+      "teto": 1.33,
+      "largBase": 0.77,
+      "largTopo": 0.63
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.55,
+      "x": 0.58,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.72,
+      "x": 0.68,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.95,
+        0.45,
+        0.08
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "xadrez",
+    "parachoque": "cor",
+    "rodaLargura": 0.23,
+    "raios": 6,
+    "extras": [
+      "aerofolio_alto",
+      "entrada_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

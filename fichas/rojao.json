@@ -1,0 +1,150 @@
+{
+  "id": "rojao",
+  "nome": "Rojão 2.0",
+  "classe": "C2",
+  "epoca": "2006-2010",
+  "arquetipo": "Hatch esportivo preparado (kit car) do fim dos anos 2000",
+  "motor": "2.0 aspirado",
+  "tracao": "FWD",
+  "numero": 25,
+  "modelo": "carros/rojao.glb",
+  "fisica": {
+    "massa": 1060,
+    "dimensoes": [
+      4.06,
+      1.78,
+      1.39
+    ],
+    "centroMassa": [
+      0,
+      0.41,
+      0.1
+    ],
+    "eixoDianteiro": 1.28,
+    "eixoTraseiro": -1.28,
+    "bitolaDianteira": 1.56,
+    "bitolaTraseira": 1.54,
+    "raioRoda": 0.3,
+    "potencia": 127000,
+    "tracaoDianteira": 1,
+    "marchas": [
+      3.1,
+      2.2,
+      1.7,
+      1.38,
+      1.15,
+      0.98
+    ],
+    "diferencial": 4.3,
+    "rpmCorte": 8200,
+    "cascas": [
+      [
+        0.87,
+        0.31,
+        2.02,
+        0,
+        0.52,
+        0.05
+      ],
+      [
+        0.64,
+        0.24,
+        1.1,
+        0,
+        1.09,
+        -0.53
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.075,
+    "yTras": 1.985,
+    "larg": 0.8,
+    "alarg": 0.09,
+    "zBaixo": 0.17,
+    "perfil": [
+      [
+        -2.075,
+        0.697
+      ],
+      [
+        -1.805,
+        0.777
+      ],
+      [
+        -0.86,
+        0.897
+      ],
+      [
+        0.763,
+        0.976
+      ],
+      [
+        1.985,
+        1.017
+      ]
+    ],
+    "cabine": {
+      "pe": -0.86,
+      "topoD": 0.02,
+      "topoT": 1.625,
+      "peT": 1.925,
+      "teto": 1.39,
+      "largBase": 0.75,
+      "largTopo": 0.61
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.647,
+      "x": 0.52,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.847,
+      "x": 0.63,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.82,
+        0.08,
+        0.08
+      ],
+      "secundaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.94,
+        0.94,
+        0.92
+      ]
+    },
+    "pintura": "diagonal",
+    "parachoque": "cor",
+    "rodaLargura": 0.21,
+    "raios": 0,
+    "extras": [
+      "aerofolio_teto",
+      "entrada_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "corisco",
+  "nome": "Corisco 20",
+  "classe": "C4",
+  "epoca": "2006-2010",
+  "arquetipo": "Hatch 4x4 turbo do fim dos anos 2000",
+  "motor": "2.0 turbo",
+  "tracao": "AWD",
+  "numero": 46,
+  "modelo": "carros/corisco.glb",
+  "fisica": {
+    "massa": 1270,
+    "dimensoes": [
+      4.23,
+      1.76,
+      1.49
+    ],
+    "centroMassa": [
+      0,
+      0.43,
+      0.08
+    ],
+    "eixoDianteiro": 1.24,
+    "eixoTraseiro": -1.24,
+    "bitolaDianteira": 1.54,
+    "bitolaTraseira": 1.52,
+    "raioRoda": 0.31,
+    "potencia": 162000,
+    "tracaoDianteira": 0.45,
+    "diferencial": 4.25,
+    "rpmCorte": 7200,
+    "cascas": [
+      [
+        0.86,
+        0.31,
+        2.11,
+        0,
+        0.57,
+        0.05
+      ],
+      [
+        0.67,
+        0.24,
+        1.12,
+        0,
+        1.19,
+        -0.59
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.168,
+    "yTras": 2.062,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -2.168,
+        0.761
+      ],
+      [
+        -1.898,
+        0.841
+      ],
+      [
+        -0.82,
+        0.961
+      ],
+      [
+        0.821,
+        1.04
+      ],
+      [
+        2.062,
+        1.081
+      ]
+    ],
+    "cabine": {
+      "pe": -0.82,
+      "topoD": 0.06,
+      "topoT": 1.702,
+      "peT": 2.002,
+      "teto": 1.49,
+      "largBase": 0.78,
+      "largTopo": 0.64
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.711,
+      "x": 0.55,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.911,
+      "x": 0.66,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.85,
+        0.12,
+        0.08
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "xadrez",
+    "parachoque": "cor",
+    "rodaLargura": 0.21,
+    "raios": 6,
+    "extras": [
+      "aerofolio_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

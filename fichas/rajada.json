@@ -1,0 +1,141 @@
+{
+  "id": "rajada",
+  "nome": "Rajada 20",
+  "classe": "C4",
+  "epoca": "1996-2000",
+  "arquetipo": "Hatch 4x4 turbo do fim dos anos 90",
+  "motor": "2.0 turbo",
+  "tracao": "AWD",
+  "numero": 43,
+  "modelo": "carros/rajada.glb",
+  "fisica": {
+    "massa": 1210,
+    "dimensoes": [
+      4.23,
+      1.76,
+      1.43
+    ],
+    "centroMassa": [
+      0,
+      0.41,
+      0.08
+    ],
+    "eixoDianteiro": 1.24,
+    "eixoTraseiro": -1.24,
+    "bitolaDianteira": 1.54,
+    "bitolaTraseira": 1.52,
+    "raioRoda": 0.31,
+    "potencia": 153000,
+    "tracaoDianteira": 0.45,
+    "diferencial": 4.35,
+    "rpmCorte": 7200,
+    "cascas": [
+      [
+        0.86,
+        0.24,
+        2.11,
+        0,
+        0.5,
+        0.05
+      ],
+      [
+        0.67,
+        0.24,
+        1.14,
+        0,
+        1.13,
+        -0.59
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.168,
+    "yTras": 2.062,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -2.168,
+        0.607
+      ],
+      [
+        -1.898,
+        0.687
+      ],
+      [
+        -0.82,
+        0.837
+      ],
+      [
+        0.821,
+        0.889
+      ],
+      [
+        2.062,
+        0.917
+      ]
+    ],
+    "cabine": {
+      "pe": -0.82,
+      "topoD": -0.04,
+      "topoT": 1.682,
+      "peT": 2.002,
+      "teto": 1.43,
+      "largBase": 0.78,
+      "largTopo": 0.63
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.557,
+      "x": 0.59,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.772,
+      "x": 0.65,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.15,
+        0.5,
+        0.35
+      ],
+      "secundaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.94,
+        0.94,
+        0.92
+      ]
+    },
+    "pintura": "diagonal",
+    "parachoque": "escuro",
+    "rodaLargura": 0.21,
+    "raios": 6,
+    "extras": [
+      "aerofolio_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

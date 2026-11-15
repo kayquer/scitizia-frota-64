@@ -1,0 +1,146 @@
+{
+  "id": "xodo",
+  "nome": "Xodó 1.0",
+  "classe": "C1",
+  "epoca": "1990-1995",
+  "arquetipo": "Hatch compacto popular do começo dos anos 90",
+  "motor": "1.0 aspirado",
+  "tracao": "FWD",
+  "numero": 10,
+  "modelo": "carros/xodo.glb",
+  "fisica": {
+    "massa": 930,
+    "dimensoes": [
+      3.51,
+      1.57,
+      1.42
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.1
+    ],
+    "eixoDianteiro": 1.14,
+    "eixoTraseiro": -1.14,
+    "bitolaDianteira": 1.38,
+    "bitolaTraseira": 1.36,
+    "raioRoda": 0.29,
+    "potencia": 64000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 3.9,
+    "rpmCorte": 6800,
+    "cascas": [
+      [
+        0.77,
+        0.26,
+        1.75,
+        0,
+        0.52,
+        0.04
+      ],
+      [
+        0.63,
+        0.24,
+        0.99,
+        0,
+        1.12,
+        -0.47
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.792,
+    "yTras": 1.718,
+    "larg": 0.765,
+    "alarg": 0.02,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -1.792,
+        0.692
+      ],
+      [
+        -1.522,
+        0.772
+      ],
+      [
+        -0.72,
+        0.852
+      ],
+      [
+        0.699,
+        0.885
+      ],
+      [
+        1.718,
+        0.902
+      ]
+    ],
+    "cabine": {
+      "pe": -0.72,
+      "topoD": -0.12,
+      "topoT": 1.458,
+      "peT": 1.658,
+      "teto": 1.42,
+      "largBase": 0.715,
+      "largTopo": 0.615
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.662,
+      "x": 0.455,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 0.782,
+      "x": 0.545,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.8,
+        0.1,
+        0.08
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.8,
+        0.1,
+        0.08
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "escuro",
+    "rodaLargura": 0.18,
+    "raios": 0,
+    "extras": [
+      "para_barro",
+      "escape"
+    ]
+  }
+}

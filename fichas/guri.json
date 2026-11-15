@@ -1,0 +1,146 @@
+{
+  "id": "guri",
+  "nome": "Guri 1.4",
+  "classe": "C1",
+  "epoca": "2001-2005",
+  "arquetipo": "Hatch compacto popular do começo dos anos 2000",
+  "motor": "1.4 aspirado",
+  "tracao": "FWD",
+  "numero": 12,
+  "modelo": "carros/guri.glb",
+  "fisica": {
+    "massa": 1020,
+    "dimensoes": [
+      3.62,
+      1.6,
+      1.48
+    ],
+    "centroMassa": [
+      0,
+      0.44,
+      0.1
+    ],
+    "eixoDianteiro": 1.18,
+    "eixoTraseiro": -1.18,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.29,
+    "potencia": 72000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 4,
+    "rpmCorte": 6600,
+    "cascas": [
+      [
+        0.78,
+        0.27,
+        1.8,
+        0,
+        0.53,
+        0.04
+      ],
+      [
+        0.62,
+        0.24,
+        0.93,
+        0,
+        1.18,
+        -0.48
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.848,
+    "yTras": 1.772,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.22,
+    "perfil": [
+      [
+        -1.848,
+        0.668
+      ],
+      [
+        -1.578,
+        0.748
+      ],
+      [
+        -0.76,
+        0.888
+      ],
+      [
+        0.706,
+        0.947
+      ],
+      [
+        1.772,
+        0.978
+      ]
+    ],
+    "cabine": {
+      "pe": -0.76,
+      "topoD": 0.16,
+      "topoT": 1.412,
+      "peT": 1.712,
+      "teto": 1.48,
+      "largBase": 0.73,
+      "largTopo": 0.59
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.618,
+      "x": 0.54,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.788,
+      "x": 0.64,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "secundaria": [
+        0.1,
+        0.3,
+        0.75
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.85,
+        0.85,
+        0.87
+      ],
+      "pinca": [
+        0.1,
+        0.3,
+        0.75
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "cor",
+    "rodaLargura": 0.18,
+    "raios": 5,
+    "extras": [
+      "para_barro",
+      "escape"
+    ]
+  }
+}

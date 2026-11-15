@@ -1,0 +1,152 @@
+{
+  "id": "caatinga",
+  "nome": "Caatinga 36",
+  "classe": "C7",
+  "epoca": "2001-2005",
+  "arquetipo": "Utilitário esportivo de rali cross-country do começo dos anos 2000",
+  "motor": "3.0 turbodiesel",
+  "tracao": "AWD",
+  "numero": 75,
+  "modelo": "carros/caatinga.glb",
+  "fisica": {
+    "massa": 1900,
+    "dimensoes": [
+      4.85,
+      1.98,
+      1.86
+    ],
+    "centroMassa": [
+      0,
+      0.68,
+      0.1
+    ],
+    "eixoDianteiro": 1.45,
+    "eixoTraseiro": -1.45,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.4,
+    "curso": 0.42,
+    "potencia": 189000,
+    "tracaoDianteira": 0.45,
+    "arrasto": 1.35,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.5,
+    "rpmCorte": 6000,
+    "cascas": [
+      [
+        0.97,
+        0.31,
+        2.42,
+        0,
+        0.77,
+        0.06
+      ],
+      [
+        0.77,
+        0.24,
+        1.39,
+        0,
+        1.56,
+        -0.67
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "yFrente": -2.483,
+    "yTras": 2.367,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.42,
+    "perfil": [
+      [
+        -2.483,
+        0.952
+      ],
+      [
+        -2.213,
+        1.032
+      ],
+      [
+        -0.95,
+        1.172
+      ],
+      [
+        0.909,
+        1.231
+      ],
+      [
+        2.367,
+        1.262
+      ]
+    ],
+    "cabine": {
+      "pe": -0.95,
+      "topoD": -0.15,
+      "topoT": 2.187,
+      "peT": 2.287,
+      "teto": 1.86,
+      "largBase": 0.86,
+      "largTopo": 0.76
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.902,
+      "x": 0.67,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 1.072,
+      "x": 0.77,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.8,
+        0.65,
+        0.4
+      ],
+      "secundaria": [
+        0.4,
+        0.25,
+        0.12
+      ],
+      "terciaria": [
+        0.92,
+        0.42,
+        0.08
+      ],
+      "aro": [
+        0.92,
+        0.42,
+        0.08
+      ],
+      "pinca": [
+        0.4,
+        0.25,
+        0.12
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.28,
+    "raios": 6,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "bagageiro",
+      "estepe_traseiro",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

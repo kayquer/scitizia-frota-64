@@ -1,0 +1,149 @@
+{
+  "id": "chuchu",
+  "nome": "Chuchu 1.6",
+  "classe": "C1",
+  "epoca": "2006-2010",
+  "arquetipo": "Hatch compacto aventureiro do fim dos anos 2000",
+  "motor": "1.6 aspirado",
+  "tracao": "FWD",
+  "numero": 17,
+  "modelo": "carros/chuchu.glb",
+  "fisica": {
+    "massa": 1080,
+    "dimensoes": [
+      3.62,
+      1.6,
+      1.46
+    ],
+    "centroMassa": [
+      0,
+      0.47,
+      0.1
+    ],
+    "eixoDianteiro": 1.18,
+    "eixoTraseiro": -1.18,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.3,
+    "potencia": 76000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 4,
+    "rpmCorte": 7000,
+    "cascas": [
+      [
+        0.78,
+        0.28,
+        1.8,
+        0,
+        0.58,
+        0.04
+      ],
+      [
+        0.62,
+        0.24,
+        0.94,
+        0,
+        1.16,
+        -0.48
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.848,
+    "yTras": 1.772,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.26,
+    "perfil": [
+      [
+        -1.848,
+        0.742
+      ],
+      [
+        -1.578,
+        0.822
+      ],
+      [
+        -0.76,
+        0.942
+      ],
+      [
+        0.706,
+        1.021
+      ],
+      [
+        1.772,
+        1.062
+      ]
+    ],
+    "cabine": {
+      "pe": -0.76,
+      "topoD": 0.12,
+      "topoT": 1.412,
+      "peT": 1.712,
+      "teto": 1.46,
+      "largBase": 0.73,
+      "largTopo": 0.59
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.692,
+      "x": 0.5,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.892,
+      "x": 0.61,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.5,
+        0.75,
+        0.15
+      ],
+      "secundaria": [
+        0.15,
+        0.15,
+        0.17
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.3,
+        0.3,
+        0.32
+      ],
+      "pinca": [
+        0.15,
+        0.15,
+        0.17
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.18,
+    "raios": 5,
+    "extras": [
+      "protetores",
+      "bagageiro",
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}
