@@ -1,0 +1,155 @@
+{
+  "id": "rapadura",
+  "nome": "Rapadura 1.6",
+  "classe": "C1",
+  "epoca": "1980-1989",
+  "marca": "castrel",
+  "arquetipo": "Perua média dos anos 80",
+  "motor": "1.6 aspirado",
+  "cilindros": 4,
+  "torque": 120,
+  "tracao": "FWD",
+  "numero": 90,
+  "modelo": "carros/rapadura.glb",
+  "fisica": {
+    "massa": 960,
+    "dimensoes": [
+      4.2,
+      1.6,
+      1.41
+    ],
+    "centroMassa": [
+      0,
+      0.41,
+      0.06
+    ],
+    "eixoDianteiro": 1.2,
+    "eixoTraseiro": -1.2,
+    "bitolaDianteira": 1.415,
+    "bitolaTraseira": 1.395,
+    "raioRoda": 0.288,
+    "potencia": 55000,
+    "forcaMax": 5060,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.46,
+      1.96,
+      1.3,
+      0.94
+    ],
+    "diferencial": 3.9,
+    "rpmCorte": 6000,
+    "cascas": [
+      [
+        0.78,
+        0.27,
+        2.09,
+        0,
+        0.5,
+        -0.06
+      ],
+      [
+        0.67,
+        0.24,
+        1.2,
+        0,
+        1.11,
+        -0.7
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.04,
+    "yTras": 2.16,
+    "larg": 0.8,
+    "alarg": 0,
+    "zBaixo": 0.19,
+    "perfil": [
+      [
+        -2.04,
+        0.726
+      ],
+      [
+        -1.77,
+        0.806
+      ],
+      [
+        -0.68,
+        0.846
+      ],
+      [
+        0.7,
+        0.858
+      ],
+      [
+        2.08,
+        0.866
+      ],
+      [
+        2.16,
+        0.866
+      ]
+    ],
+    "cabine": {
+      "pe": -0.68,
+      "topoD": -0.12,
+      "topoT": 1.9,
+      "peT": 2.08,
+      "teto": 1.41,
+      "largBase": 0.75,
+      "largTopo": 0.66
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.696,
+      "x": 0.46,
+      "w": 0.36,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.736,
+      "x": 0.56,
+      "w": 0.34,
+      "h": 0.12
+    },
+    "cores": {
+      "pintura": [
+        0.72,
+        0.58,
+        0.38
+      ],
+      "secundaria": [
+        0.35,
+        0.22,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.6,
+        0.6,
+        0.62
+      ],
+      "pinca": [
+        0.35,
+        0.22,
+        0.12
+      ]
+    },
+    "pintura": "lisa",
+    "parachoque": "cromo",
+    "capo": "liso",
+    "rodaLargura": 0.175,
+    "raios": 0,
+    "extras": [
+      "bagageiro",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

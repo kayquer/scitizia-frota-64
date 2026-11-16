@@ -1,0 +1,151 @@
+{
+  "id": "cocada",
+  "nome": "Cocada 1.0",
+  "classe": "C1",
+  "epoca": "1990-1995",
+  "marca": "nimbo",
+  "arquetipo": "Hatch popular de linhas retas do começo dos anos 90",
+  "motor": "1.0 aspirado",
+  "cilindros": 4,
+  "torque": 80,
+  "tracao": "FWD",
+  "numero": 85,
+  "modelo": "carros/cocada.glb",
+  "fisica": {
+    "massa": 800,
+    "dimensoes": [
+      3.65,
+      1.55,
+      1.43
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.1
+    ],
+    "eixoDianteiro": 1.18,
+    "eixoTraseiro": -1.18,
+    "bitolaDianteira": 1.385,
+    "bitolaTraseira": 1.365,
+    "raioRoda": 0.275,
+    "potencia": 43000,
+    "forcaMax": 4500,
+    "tracaoDianteira": 1,
+    "arrasto": 0.85,
+    "marchas": [
+      3.91,
+      2.16,
+      1.48,
+      1.1,
+      0.87
+    ],
+    "diferencial": 4.4,
+    "rpmCorte": 6200,
+    "cascas": [
+      [
+        0.76,
+        0.26,
+        1.82,
+        0,
+        0.49,
+        0.05
+      ],
+      [
+        0.65,
+        0.24,
+        1.06,
+        0,
+        1.13,
+        -0.44
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.88,
+    "yTras": 1.77,
+    "larg": 0.775,
+    "alarg": 0,
+    "zBaixo": 0.19,
+    "perfil": [
+      [
+        -1.88,
+        0.699
+      ],
+      [
+        -1.61,
+        0.779
+      ],
+      [
+        -0.8,
+        0.829
+      ],
+      [
+        0.685,
+        0.849
+      ],
+      [
+        1.77,
+        0.859
+      ]
+    ],
+    "cabine": {
+      "pe": -0.8,
+      "topoD": -0.2,
+      "topoT": 1.55,
+      "peT": 1.69,
+      "teto": 1.43,
+      "largBase": 0.725,
+      "largTopo": 0.655
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.669,
+      "x": 0.465,
+      "w": 0.3,
+      "h": 0.11
+    },
+    "lanterna": {
+      "z": 0.659,
+      "x": 0.57,
+      "w": 0.13,
+      "h": 0.26
+    },
+    "cores": {
+      "pintura": [
+        0.25,
+        0.5,
+        0.8
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.28,
+        0.28,
+        0.3
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "lisa",
+    "parachoque": "escuro",
+    "capo": "liso",
+    "rodaLargura": 0.155,
+    "raios": 0,
+    "extras": [
+      "para_barro",
+      "escape"
+    ]
+  }
+}

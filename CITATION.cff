@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "Se usar estes modelos, cite o repositório assim."
-title: "Scitizia: frota 64 bits - 56 carros de rali low poly em glTF/GLB"
+title: "Scitizia: frota 64 bits - 68 carros de rali low poly em glTF/GLB"
 type: dataset
 authors:
   - alias: kayquer
 repository-code: "https://github.com/kayquer/scitizia-frota-64"
 url: "https://github.com/kayquer/scitizia-frota-64"
-abstract: "Coleção de 56 carros de rali fictícios em baixo polígono, com visual retrô de console de 64 bits, em glTF 2.0 binário (.glb), com texturas PNG, prévias e fichas JSON."
+abstract: "Coleção de 68 carros de rali fictícios em baixo polígono, com visual retrô de console de 64 bits, em glTF 2.0 binário (.glb), com texturas PNG, prévias e fichas JSON."
 keywords:
   - low poly
   - rally

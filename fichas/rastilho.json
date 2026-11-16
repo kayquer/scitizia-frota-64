@@ -1,0 +1,152 @@
+{
+  "id": "rastilho",
+  "nome": "Rastilho 18",
+  "classe": "C2",
+  "epoca": "1980-1989",
+  "marca": "vortan",
+  "arquetipo": "Hatch médio esportivo de 3 portas dos anos 80",
+  "motor": "1.8 aspirado",
+  "cilindros": 4,
+  "torque": 155,
+  "tracao": "FWD",
+  "numero": 80,
+  "modelo": "carros/rastilho.glb",
+  "fisica": {
+    "massa": 940,
+    "dimensoes": [
+      3.99,
+      1.68,
+      1.4
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0.1
+    ],
+    "eixoDianteiro": 1.24,
+    "eixoTraseiro": -1.24,
+    "bitolaDianteira": 1.485,
+    "bitolaTraseira": 1.465,
+    "raioRoda": 0.29,
+    "potencia": 82000,
+    "forcaMax": 6090,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.12,
+      1.44,
+      1.13,
+      0.91
+    ],
+    "diferencial": 3.67,
+    "rpmCorte": 6500,
+    "cascas": [
+      [
+        0.82,
+        0.28,
+        1.99,
+        0,
+        0.49,
+        0.05
+      ],
+      [
+        0.68,
+        0.24,
+        1.09,
+        0,
+        1.1,
+        -0.5
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.04,
+    "yTras": 1.95,
+    "larg": 0.81,
+    "alarg": 0.03,
+    "zBaixo": 0.17,
+    "perfil": [
+      [
+        -2.04,
+        0.72
+      ],
+      [
+        -1.77,
+        0.8
+      ],
+      [
+        -0.84,
+        0.84
+      ],
+      [
+        0.755,
+        0.86
+      ],
+      [
+        1.95,
+        0.87
+      ]
+    ],
+    "cabine": {
+      "pe": -0.84,
+      "topoD": -0.28,
+      "topoT": 1.41,
+      "peT": 1.83,
+      "teto": 1.4,
+      "largBase": 0.76,
+      "largTopo": 0.67
+    },
+    "farol": {
+      "tipo": "redondo",
+      "z": 0.67,
+      "x": 0.645,
+      "w": 0.19,
+      "h": 0.19
+    },
+    "lanterna": {
+      "z": 0.735,
+      "x": 0.58,
+      "w": 0.32,
+      "h": 0.13
+    },
+    "cores": {
+      "pintura": [
+        0.78,
+        0.07,
+        0.07
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "filete",
+    "parachoque": "escuro",
+    "capo": "liso",
+    "rodaLargura": 0.185,
+    "raios": 8,
+    "extras": [
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

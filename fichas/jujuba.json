@@ -1,0 +1,155 @@
+{
+  "id": "jujuba",
+  "nome": "Jujuba 1.0",
+  "classe": "C1",
+  "epoca": "2001-2005",
+  "marca": "castrel",
+  "arquetipo": "Subcompacto de linhas arredondadas do começo dos anos 2000",
+  "motor": "1.0 aspirado",
+  "cilindros": 4,
+  "torque": 89,
+  "tracao": "FWD",
+  "numero": 88,
+  "modelo": "carros/jujuba.glb",
+  "fisica": {
+    "massa": 900,
+    "dimensoes": [
+      3.62,
+      1.64,
+      1.42
+    ],
+    "centroMassa": [
+      0,
+      0.42,
+      0.1
+    ],
+    "eixoDianteiro": 1.225,
+    "eixoTraseiro": -1.225,
+    "bitolaDianteira": 1.465,
+    "bitolaTraseira": 1.445,
+    "raioRoda": 0.28,
+    "potencia": 48000,
+    "forcaMax": 4350,
+    "tracaoDianteira": 1,
+    "arrasto": 0.85,
+    "marchas": [
+      3.58,
+      1.93,
+      1.28,
+      0.95,
+      0.76
+    ],
+    "diferencial": 4.25,
+    "rpmCorte": 6500,
+    "cascas": [
+      [
+        0.8,
+        0.27,
+        1.8,
+        0,
+        0.5,
+        0.06
+      ],
+      [
+        0.61,
+        0.24,
+        0.96,
+        0,
+        1.12,
+        -0.43
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -1.865,
+    "yTras": 1.755,
+    "larg": 0.78,
+    "alarg": 0.04,
+    "zBaixo": 0.19,
+    "perfil": [
+      [
+        -1.865,
+        0.626
+      ],
+      [
+        -1.595,
+        0.706
+      ],
+      [
+        -0.845,
+        0.866
+      ],
+      [
+        0.655,
+        0.932
+      ],
+      [
+        1.755,
+        0.966
+      ]
+    ],
+    "cabine": {
+      "pe": -0.845,
+      "topoD": 0.015,
+      "topoT": 1.295,
+      "peT": 1.695,
+      "teto": 1.42,
+      "largBase": 0.73,
+      "largTopo": 0.56,
+      "arco": [
+        0.04,
+        0.1
+      ]
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.576,
+      "x": 0.53,
+      "w": 0.3,
+      "h": 0.18
+    },
+    "lanterna": {
+      "z": 0.866,
+      "x": 0.59,
+      "w": 0.12,
+      "h": 0.22
+    },
+    "cores": {
+      "pintura": [
+        0.45,
+        0.75,
+        0.2
+      ],
+      "secundaria": [
+        0.28,
+        0.28,
+        0.3
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.28,
+        0.28,
+        0.3
+      ]
+    },
+    "pintura": "lisa",
+    "parachoque": "cor",
+    "capo": "liso",
+    "rodaLargura": 0.165,
+    "raios": 5,
+    "extras": [
+      "para_barro",
+      "escape"
+    ]
+  }
+}

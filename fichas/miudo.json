@@ -5,6 +5,7 @@
   "epoca": "1990-1995",
   "arquetipo": "Hatch compacto popular",
   "motor": "1.4 aspirado",
+  "cilindros": 4,
   "tracao": "FWD",
   "numero": 14,
   "modelo": "carros/miudo.glb",

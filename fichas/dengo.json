@@ -1,0 +1,154 @@
+{
+  "id": "dengo",
+  "nome": "Dengo 1.6",
+  "classe": "C1",
+  "epoca": "1970-1979",
+  "marca": "castrel",
+  "arquetipo": "Cupê médio de 2 portas dos anos 70",
+  "motor": "1.6 aspirado",
+  "cilindros": 4,
+  "torque": 125,
+  "tracao": "FWD",
+  "numero": 91,
+  "modelo": "carros/dengo.glb",
+  "fisica": {
+    "massa": 920,
+    "dimensoes": [
+      4.13,
+      1.6,
+      1.33
+    ],
+    "centroMassa": [
+      0,
+      0.39,
+      0.1
+    ],
+    "eixoDianteiro": 1.2,
+    "eixoTraseiro": -1.2,
+    "bitolaDianteira": 1.415,
+    "bitolaTraseira": 1.395,
+    "raioRoda": 0.288,
+    "potencia": 60000,
+    "forcaMax": 5550,
+    "tracaoDianteira": 1,
+    "arrasto": 0.92,
+    "marchas": [
+      3.46,
+      1.96,
+      1.3,
+      0.94
+    ],
+    "diferencial": 4.11,
+    "rpmCorte": 6200,
+    "cascas": [
+      [
+        0.78,
+        0.26,
+        2.06,
+        0,
+        0.47,
+        -0.02
+      ],
+      [
+        0.66,
+        0.24,
+        0.75,
+        0,
+        1.03,
+        -0.46
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "yFrente": -2.04,
+    "yTras": 2.09,
+    "larg": 0.8,
+    "alarg": 0,
+    "zBaixo": 0.17,
+    "perfil": [
+      [
+        -2.04,
+        0.668
+      ],
+      [
+        -1.77,
+        0.748
+      ],
+      [
+        -0.64,
+        0.798
+      ],
+      [
+        0.465,
+        0.816
+      ],
+      [
+        1.57,
+        0.828
+      ],
+      [
+        2.09,
+        0.828
+      ]
+    ],
+    "cabine": {
+      "pe": -0.64,
+      "topoD": 0.02,
+      "topoT": 0.79,
+      "peT": 1.57,
+      "teto": 1.33,
+      "largBase": 0.75,
+      "largTopo": 0.65
+    },
+    "farol": {
+      "tipo": "duplo",
+      "z": 0.618,
+      "x": 0.54,
+      "w": 0.34,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.708,
+      "x": 0.58,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.85,
+        0.3,
+        0.08
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "listras",
+    "parachoque": "cromo",
+    "capo": "liso",
+    "rodaLargura": 0.175,
+    "raios": 4,
+    "extras": [
+      "para_barro",
+      "escape"
+    ]
+  }
+}

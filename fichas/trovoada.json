@@ -9,7 +9,7 @@
   "numero": 41,
   "modelo": "carros/trovoada.glb",
   "fisica": {
-    "massa": 1370,
+    "massa": 1290,
     "dimensoes": [
       4.45,
       1.76,
@@ -17,7 +17,7 @@
     ],
     "centroMassa": [
       0,
-      0.43,
+      0.37,
       0.08
     ],
     "eixoDianteiro": 1.31,
@@ -26,7 +26,7 @@
     "bitolaTraseira": 1.52,
     "raioRoda": 0.31,
     "potencia": 146000,
-    "tracaoDianteira": 0.5,
+    "tracaoDianteira": 0.42,
     "diferencial": 4.25,
     "rpmCorte": 7400,
     "cascas": [

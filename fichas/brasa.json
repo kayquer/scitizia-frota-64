@@ -5,6 +5,7 @@
   "epoca": "1980-1989",
   "arquetipo": "Cupê de tração traseira dos anos 70/80",
   "motor": "2.4 aspirado",
+  "cilindros": 6,
   "tracao": "RWD",
   "numero": 24,
   "modelo": "carros/brasa.glb",

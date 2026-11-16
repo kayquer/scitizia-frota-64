@@ -9,7 +9,7 @@
   "numero": 56,
   "modelo": "carros/ametista.glb",
   "fisica": {
-    "massa": 1230,
+    "massa": 1170,
     "dimensoes": [
       3.91,
       1.72,

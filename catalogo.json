@@ -1,15 +1,100 @@
 {
   "nome": "Scitizia: frota 64 bits",
-  "descricao": "Catálogo de 56 carros de rali fictícios em baixo polígono (low poly), visual retrô de console de 64 bits, em glTF 2.0 binário (.glb).",
+  "descricao": "Catálogo de 68 carros de rali fictícios em baixo polígono (low poly), visual retrô de console de 64 bits, em glTF 2.0 binário (.glb).",
   "repositorio": "https://github.com/kayquer/scitizia-frota-64",
-  "total": 56,
+  "total": 68,
   "unidades": {
     "potenciaCv": "cavalo-vapor",
     "massaKg": "quilograma",
     "modelo": "metros, Y para cima, frente em +Z"
   },
   "indiceDesempenho": "Índice de Desempenho do jogo, de 100 a 999, calculado a partir da ficha de física",
+  "marcas": "Os carros de rua de série têm o campo marca, sempre uma marca fictícia",
   "carros": [
+    {
+      "id": "bombom",
+      "nome": "Bombom 1.3",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1970-1979",
+      "marca": "Nimbo",
+      "arquetipo": "Hatch pequeno de 3 portas",
+      "motor": "1.3 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 61,
+      "massaKg": 820,
+      "indiceDesempenho": 319,
+      "modelo": "modelos/bombom.glb",
+      "previa": "previas/bombom.jpg",
+      "ficha": "fichas/bombom.json",
+      "texturas": [
+        "texturas/bombom_carroceria.png",
+        "texturas/bombom_roda.png"
+      ]
+    },
+    {
+      "id": "dengo",
+      "nome": "Dengo 1.6",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1970-1979",
+      "marca": "Castrel",
+      "arquetipo": "Cupê médio de 2 portas",
+      "motor": "1.6 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 82,
+      "massaKg": 920,
+      "indiceDesempenho": 346,
+      "modelo": "modelos/dengo.glb",
+      "previa": "previas/dengo.jpg",
+      "ficha": "fichas/dengo.json",
+      "texturas": [
+        "texturas/dengo_carroceria.png",
+        "texturas/dengo_roda.png"
+      ]
+    },
+    {
+      "id": "rapadura",
+      "nome": "Rapadura 1.6",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1980-1989",
+      "marca": "Castrel",
+      "arquetipo": "Perua média",
+      "motor": "1.6 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 75,
+      "massaKg": 960,
+      "indiceDesempenho": 318,
+      "modelo": "modelos/rapadura.glb",
+      "previa": "previas/rapadura.jpg",
+      "ficha": "fichas/rapadura.json",
+      "texturas": [
+        "texturas/rapadura_carroceria.png",
+        "texturas/rapadura_roda.png"
+      ]
+    },
+    {
+      "id": "cocada",
+      "nome": "Cocada 1.0",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1990-1995",
+      "marca": "Nimbo",
+      "arquetipo": "Hatch popular de linhas retas",
+      "motor": "1.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 58,
+      "massaKg": 800,
+      "indiceDesempenho": 318,
+      "modelo": "modelos/cocada.glb",
+      "previa": "previas/cocada.jpg",
+      "ficha": "fichas/cocada.json",
+      "texturas": [
+        "texturas/cocada_carroceria.png",
+        "texturas/cocada_roda.png"
+      ]
+    },
     {
       "id": "xodo",
       "nome": "Xodó 1.0",
@@ -71,6 +156,27 @@
       ]
     },
     {
+      "id": "pirulito",
+      "nome": "Pirulito 1.0",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1996-2000",
+      "marca": "Castrel",
+      "arquetipo": "Hatch compacto popular",
+      "motor": "1.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 60,
+      "massaKg": 880,
+      "indiceDesempenho": 312,
+      "modelo": "modelos/pirulito.glb",
+      "previa": "previas/pirulito.jpg",
+      "ficha": "fichas/pirulito.json",
+      "texturas": [
+        "texturas/pirulito_carroceria.png",
+        "texturas/pirulito_roda.png"
+      ]
+    },
+    {
       "id": "cafune",
       "nome": "Cafuné 1.0",
       "classe": "C1",
@@ -91,6 +197,27 @@
       ]
     },
     {
+      "id": "pudim",
+      "nome": "Pudim 1.6",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1996-2000",
+      "marca": "Ardena",
+      "arquetipo": "Monovolume compacto de piso duplo",
+      "motor": "1.6 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 102,
+      "massaKg": 1120,
+      "indiceDesempenho": 368,
+      "modelo": "modelos/pudim.glb",
+      "previa": "previas/pudim.jpg",
+      "ficha": "fichas/pudim.json",
+      "texturas": [
+        "texturas/pudim_carroceria.png",
+        "texturas/pudim_roda.png"
+      ]
+    },
+    {
       "id": "quindim",
       "nome": "Quindim 1.6",
       "classe": "C1",
@@ -108,6 +235,48 @@
       "texturas": [
         "texturas/quindim_carroceria.png",
         "texturas/quindim_roda.png"
+      ]
+    },
+    {
+      "id": "brigadeiro",
+      "nome": "Brigadeiro 1.8",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "1996-2000",
+      "marca": "Castrel",
+      "arquetipo": "Hatch médio de linhas angulosas",
+      "motor": "1.8 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 116,
+      "massaKg": 1180,
+      "indiceDesempenho": 394,
+      "modelo": "modelos/brigadeiro.glb",
+      "previa": "previas/brigadeiro.jpg",
+      "ficha": "fichas/brigadeiro.json",
+      "texturas": [
+        "texturas/brigadeiro_carroceria.png",
+        "texturas/brigadeiro_roda.png"
+      ]
+    },
+    {
+      "id": "jujuba",
+      "nome": "Jujuba 1.0",
+      "classe": "C1",
+      "nomeClasse": "Novato",
+      "epoca": "2001-2005",
+      "marca": "Castrel",
+      "arquetipo": "Subcompacto de linhas arredondadas",
+      "motor": "1.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 65,
+      "massaKg": 900,
+      "indiceDesempenho": 327,
+      "modelo": "modelos/jujuba.glb",
+      "previa": "previas/jujuba.jpg",
+      "ficha": "fichas/jujuba.json",
+      "texturas": [
+        "texturas/jujuba_carroceria.png",
+        "texturas/jujuba_roda.png"
       ]
     },
     {
@@ -171,6 +340,69 @@
       ]
     },
     {
+      "id": "fosforo",
+      "nome": "Fósforo 16",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1980-1989",
+      "marca": "Castrel",
+      "arquetipo": "Hatch esportivo de 3 portas",
+      "motor": "1.6 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 105,
+      "massaKg": 950,
+      "indiceDesempenho": 412,
+      "modelo": "modelos/fosforo.glb",
+      "previa": "previas/fosforo.jpg",
+      "ficha": "fichas/fosforo.json",
+      "texturas": [
+        "texturas/fosforo_carroceria.png",
+        "texturas/fosforo_roda.png"
+      ]
+    },
+    {
+      "id": "rastilho",
+      "nome": "Rastilho 18",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1980-1989",
+      "marca": "Vortan",
+      "arquetipo": "Hatch médio esportivo de 3 portas",
+      "motor": "1.8 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 112,
+      "massaKg": 940,
+      "indiceDesempenho": 435,
+      "modelo": "modelos/rastilho.glb",
+      "previa": "previas/rastilho.jpg",
+      "ficha": "fichas/rastilho.json",
+      "texturas": [
+        "texturas/rastilho_carroceria.png",
+        "texturas/rastilho_roda.png"
+      ]
+    },
+    {
+      "id": "lampejo",
+      "nome": "Lampejo 20",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1990-1995",
+      "marca": "Vortan",
+      "arquetipo": "Hatch médio esportivo",
+      "motor": "2.0 aspirado",
+      "tracao": "FWD",
+      "potenciaCv": 150,
+      "massaKg": 1150,
+      "indiceDesempenho": 480,
+      "modelo": "modelos/lampejo.glb",
+      "previa": "previas/lampejo.jpg",
+      "ficha": "fichas/lampejo.json",
+      "texturas": [
+        "texturas/lampejo_carroceria.png",
+        "texturas/lampejo_roda.png"
+      ]
+    },
+    {
       "id": "chispa",
       "nome": "Chispa 18",
       "classe": "C2",
@@ -228,6 +460,27 @@
       "texturas": [
         "texturas/fagulha_carroceria.png",
         "texturas/fagulha_roda.png"
+      ]
+    },
+    {
+      "id": "polvora",
+      "nome": "Pólvora 18",
+      "classe": "C2",
+      "nomeClasse": "Kit Car",
+      "epoca": "1996-2000",
+      "marca": "Vortan",
+      "arquetipo": "Hatch médio esportivo turbo",
+      "motor": "1.8 turbo",
+      "tracao": "FWD",
+      "potenciaCv": 150,
+      "massaKg": 1230,
+      "indiceDesempenho": 463,
+      "modelo": "modelos/polvora.glb",
+      "previa": "previas/polvora.jpg",
+      "ficha": "fichas/polvora.json",
+      "texturas": [
+        "texturas/polvora_carroceria.png",
+        "texturas/polvora_roda.png"
       ]
     },
     {
@@ -336,7 +589,7 @@
       "classe": "C3",
       "nomeClasse": "Clássico",
       "epoca": "1980-1989",
-      "arquetipo": "Cupê de tração traseira",
+      "arquetipo": "Cupê de tração traseira dos anos 70/80",
       "motor": "2.4 aspirado",
       "tracao": "RWD",
       "potenciaCv": 170,
@@ -491,26 +744,6 @@
       ]
     },
     {
-      "id": "trovoada",
-      "nome": "Trovoada 22",
-      "classe": "C4",
-      "nomeClasse": "Produção",
-      "epoca": "1990-1995",
-      "arquetipo": "Perua 4x4 turbo",
-      "motor": "2.2 turbo",
-      "tracao": "AWD",
-      "potenciaCv": 199,
-      "massaKg": 1370,
-      "indiceDesempenho": 575,
-      "modelo": "modelos/trovoada.glb",
-      "previa": "previas/trovoada.jpg",
-      "ficha": "fichas/trovoada.json",
-      "texturas": [
-        "texturas/trovoada_carroceria.png",
-        "texturas/trovoada_roda.png"
-      ]
-    },
-    {
       "id": "relampago",
       "nome": "Relâmpago 20",
       "classe": "C4",
@@ -521,13 +754,33 @@
       "tracao": "AWD",
       "potenciaCv": 190,
       "massaKg": 1240,
-      "indiceDesempenho": 590,
+      "indiceDesempenho": 599,
       "modelo": "modelos/relampago.glb",
       "previa": "previas/relampago.jpg",
       "ficha": "fichas/relampago.json",
       "texturas": [
         "texturas/relampago_carroceria.png",
         "texturas/relampago_roda.png"
+      ]
+    },
+    {
+      "id": "trovoada",
+      "nome": "Trovoada 22",
+      "classe": "C4",
+      "nomeClasse": "Produção",
+      "epoca": "1990-1995",
+      "arquetipo": "Perua 4x4 turbo",
+      "motor": "2.2 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 199,
+      "massaKg": 1290,
+      "indiceDesempenho": 604,
+      "modelo": "modelos/trovoada.glb",
+      "previa": "previas/trovoada.jpg",
+      "ficha": "fichas/trovoada.json",
+      "texturas": [
+        "texturas/trovoada_carroceria.png",
+        "texturas/trovoada_roda.png"
       ]
     },
     {
@@ -740,8 +993,8 @@
       "motor": "1.6 turbo",
       "tracao": "AWD",
       "potenciaCv": 228,
-      "massaKg": 1210,
-      "indiceDesempenho": 683,
+      "massaKg": 1150,
+      "indiceDesempenho": 702,
       "modelo": "modelos/jaspe.glb",
       "previa": "previas/jaspe.jpg",
       "ficha": "fichas/jaspe.json",
@@ -771,26 +1024,6 @@
       ]
     },
     {
-      "id": "ametista",
-      "nome": "Ametista 16",
-      "classe": "C5",
-      "nomeClasse": "Elite",
-      "epoca": "2006-2010",
-      "arquetipo": "Protótipo de rali sobre base de hatch",
-      "motor": "1.6 turbo",
-      "tracao": "AWD",
-      "potenciaCv": 238,
-      "massaKg": 1230,
-      "indiceDesempenho": 698,
-      "modelo": "modelos/ametista.glb",
-      "previa": "previas/ametista.jpg",
-      "ficha": "fichas/ametista.json",
-      "texturas": [
-        "texturas/ametista_carroceria.png",
-        "texturas/ametista_roda.png"
-      ]
-    },
-    {
       "id": "scitizia",
       "nome": "Scitizia R5",
       "classe": "C5",
@@ -800,7 +1033,7 @@
       "motor": "1.6 turbo",
       "tracao": "AWD",
       "potenciaCv": 228,
-      "massaKg": 1150,
+      "massaKg": null,
       "indiceDesempenho": 708,
       "modelo": "modelos/scitizia.glb",
       "previa": "previas/scitizia.jpg",
@@ -811,12 +1044,32 @@
       ]
     },
     {
+      "id": "ametista",
+      "nome": "Ametista 16",
+      "classe": "C5",
+      "nomeClasse": "Elite",
+      "epoca": "2006-2010",
+      "arquetipo": "Protótipo de rali sobre base de hatch",
+      "motor": "1.6 turbo",
+      "tracao": "AWD",
+      "potenciaCv": 238,
+      "massaKg": 1170,
+      "indiceDesempenho": 718,
+      "modelo": "modelos/ametista.glb",
+      "previa": "previas/ametista.jpg",
+      "ficha": "fichas/ametista.json",
+      "texturas": [
+        "texturas/ametista_carroceria.png",
+        "texturas/ametista_roda.png"
+      ]
+    },
+    {
       "id": "vendaval",
       "nome": "Vendaval B",
       "classe": "C6",
       "nomeClasse": "Grupo Livre",
       "epoca": "1980-1989",
-      "arquetipo": "Monstro sem restrição",
+      "arquetipo": "Monstro sem restrição, estilo anos 80",
       "motor": "2.1 turbo",
       "tracao": "AWD",
       "potenciaCv": 306,

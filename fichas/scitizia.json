@@ -5,6 +5,7 @@
   "epoca": "2006-2010",
   "arquetipo": "Protótipo de rali sobre base de hatch",
   "motor": "1.6 turbo",
+  "cilindros": 4,
   "tracao": "AWD",
   "numero": 5,
   "modelo": "carros/scitizia.glb",

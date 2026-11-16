@@ -5,6 +5,7 @@
   "epoca": "1990-1995",
   "arquetipo": "Picape de rali cross-country",
   "motor": "3.0 V6 turbo",
+  "cilindros": 6,
   "tracao": "AWD",
   "numero": 30,
   "modelo": "carros/jararaca.glb",

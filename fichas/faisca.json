@@ -5,6 +5,7 @@
   "epoca": "1990-1995",
   "arquetipo": "Hatch esportivo preparado (kit car)",
   "motor": "2.0 aspirado",
+  "cilindros": 4,
   "tracao": "FWD",
   "numero": 7,
   "modelo": "carros/faisca.glb",

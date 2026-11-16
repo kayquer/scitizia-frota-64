@@ -1,0 +1,156 @@
+{
+  "id": "lampejo",
+  "nome": "Lampejo 20",
+  "classe": "C2",
+  "epoca": "1990-1995",
+  "marca": "vortan",
+  "arquetipo": "Hatch médio esportivo do começo dos anos 90",
+  "motor": "2.0 aspirado",
+  "cilindros": 4,
+  "torque": 180,
+  "tracao": "FWD",
+  "numero": 81,
+  "modelo": "carros/lampejo.glb",
+  "fisica": {
+    "massa": 1150,
+    "dimensoes": [
+      4.02,
+      1.7,
+      1.42
+    ],
+    "centroMassa": [
+      0,
+      0.41,
+      0.1
+    ],
+    "eixoDianteiro": 1.24,
+    "eixoTraseiro": -1.24,
+    "bitolaDianteira": 1.495,
+    "bitolaTraseira": 1.475,
+    "raioRoda": 0.295,
+    "potencia": 110000,
+    "forcaMax": 6970,
+    "tracaoDianteira": 1,
+    "arrasto": 0.95,
+    "marchas": [
+      3.45,
+      2.12,
+      1.44,
+      1.13,
+      0.89
+    ],
+    "diferencial": 3.68,
+    "rpmCorte": 7000,
+    "cascas": [
+      [
+        0.83,
+        0.28,
+        2,
+        0,
+        0.49,
+        0.05
+      ],
+      [
+        0.68,
+        0.24,
+        1.05,
+        0,
+        1.12,
+        -0.51
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "yFrente": -2.06,
+    "yTras": 1.96,
+    "larg": 0.83,
+    "alarg": 0.02,
+    "zBaixo": 0.17,
+    "perfil": [
+      [
+        -2.06,
+        0.682
+      ],
+      [
+        -1.79,
+        0.762
+      ],
+      [
+        -0.82,
+        0.852
+      ],
+      [
+        0.77,
+        0.892
+      ],
+      [
+        1.96,
+        0.912
+      ]
+    ],
+    "cabine": {
+      "pe": -0.82,
+      "topoD": -0.12,
+      "topoT": 1.42,
+      "peT": 1.84,
+      "teto": 1.42,
+      "largBase": 0.78,
+      "largTopo": 0.65,
+      "arco": [
+        0.01,
+        0.03
+      ]
+    },
+    "farol": {
+      "tipo": "ret",
+      "z": 0.652,
+      "x": 0.51,
+      "w": 0.32,
+      "h": 0.12
+    },
+    "lanterna": {
+      "z": 0.767,
+      "x": 0.61,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.1,
+        0.22,
+        0.5
+      ],
+      "secundaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "terciaria": [
+        0.85,
+        0.12,
+        0.08
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.94,
+        0.94,
+        0.92
+      ]
+    },
+    "pintura": "filete",
+    "parachoque": "cor",
+    "capo": "liso",
+    "rodaLargura": 0.195,
+    "raios": 6,
+    "extras": [
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

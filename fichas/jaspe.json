@@ -9,7 +9,7 @@
   "numero": 54,
   "modelo": "carros/jaspe.glb",
   "fisica": {
-    "massa": 1210,
+    "massa": 1150,
     "dimensoes": [
       3.8,
       1.72,

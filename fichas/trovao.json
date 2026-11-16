@@ -5,6 +5,7 @@
   "epoca": "1990-1995",
   "arquetipo": "Sedã de série 4x4 turbo",
   "motor": "2.0 turbo",
+  "cilindros": 4,
   "tracao": "AWD",
   "numero": 4,
   "modelo": "carros/trovao.glb",
