@@ -2,9 +2,9 @@
 
 ![Mosaico com os 68 carros de rali low poly da frota Scitizia, em vista três-quartos frontal: hatches, cupês, sedãs, peruas, monovolumes, protótipos, picapes e utilitários com pinturas de rali inventadas](docs/frota-68-carros-rali-low-poly.jpg)
 
-**Scitizia: frota 64 bits** é uma coleção gratuita de 68 carros de rali fictícios em baixo polígono (low poly), com o visual retrô dos consoles de 64 bits, prontos para jogos em tempo real. São 7 classes (C1 Novato a C7 Off-road), de hatches populares a picapes de rali cross-country, com épocas de estilo dos anos 1970 ao fim dos anos 2000. 12 deles são carros de rua de série de 4 marcas fictícias, com proporções e física de carros comuns de cada época. Cada carro é um arquivo glTF 2.0 binário (`.glb`) de 80 a 182 KB, com 2.032 a 3.362 triângulos, uma textura de 256×256 px para a carroceria e uma de 128×64 px para as rodas, rodas separadas para girar e esterçar e uma sombra plana. Os carros foram feitos para o jogo **Scitizia Rally Championship**; nomes, marcas, formas e pinturas são inventados, sem nenhum fabricante, modelo ou patrocinador real.
+**Scitizia: frota 64 bits** é uma coleção gratuita de 68 carros de rali fictícios em baixo polígono (low poly), com o visual retrô dos consoles de 64 bits, prontos para jogos em tempo real. São 7 classes (C1 Novato a C7 Off-road), de hatches populares a picapes de rali cross-country, com épocas de estilo dos anos 1970 ao fim dos anos 2000. 12 deles são carros de rua de série de 4 marcas fictícias, com proporções e física de carros comuns de cada época. Cada carro é um arquivo glTF 2.0 binário (`.glb`) de 79 a 182 KB, com 2.008 a 3.362 triângulos, uma textura de 256×256 px para a carroceria e uma de 128×64 px para as rodas (os carros de rua têm mais uma, de 128×40 px, para as placas), rodas separadas para girar e esterçar e uma sombra plana. Os carros foram feitos para o jogo **Scitizia Rally Championship**; nomes, marcas, formas e pinturas são inventados, sem nenhum fabricante, modelo ou patrocinador real.
 
-**English summary:** Scitizia 64-bit fleet is a free collection of 68 fictional low-poly rally cars with a retro 64-bit console look, in 7 classes (from small front-wheel-drive hatchbacks to cross-country rally pickups), including 12 stock street cars from 4 made-up brands. Every car is a binary glTF 2.0 (`.glb`) file with about 2,032 to 3,362 triangles, a 256×256 body texture and a 128×64 wheel texture, separate wheel objects for spinning and steering, and a blob shadow. Units are meters, Y is up and the car faces +Z. A machine-readable list of all cars is in [`catalogo.json`](catalogo.json).
+**English summary:** Scitizia 64-bit fleet is a free collection of 68 fictional low-poly rally cars with a retro 64-bit console look, in 7 classes (from small front-wheel-drive hatchbacks to cross-country rally pickups), including 12 stock street cars from 4 made-up brands. Every car is a binary glTF 2.0 (`.glb`) file with about 2,008 to 3,362 triangles, a 256×256 body texture and a 128×64 wheel texture, separate wheel objects for spinning and steering, and a blob shadow. Units are meters, Y is up and the car faces +Z. A machine-readable list of all cars is in [`catalogo.json`](catalogo.json).
 
 ## Resumo
 
@@ -12,8 +12,8 @@
 |---|---|
 | Carros | 68 em 7 classes (C1 16, C2 12, C3 8, C4 8, C5 8, C6 8, C7 8) |
 | Formato | glTF 2.0 binário (`.glb`), texturas também em PNG |
-| Triângulos por carro | 2.032 a 3.362 |
-| Texturas | carroceria 256×256 px, rodas 128×64 px |
+| Triângulos por carro | 2.008 a 3.362 |
+| Texturas | carroceria 256×256 px, rodas 128×64 px, placas 128×40 px (carros de rua) |
 | Escala e eixos | metros, Y para cima, frente em +Z, esquerda em +X |
 | Objetos | `Carroceria`, quatro rodas (`Roda_DE`, `Roda_DD`, `Roda_TE`, `Roda_TD`), `Sombra` |
 | Épocas de estilo | anos 1970, anos 1980, anos 1990-1995, anos 1996-2000, anos 2001-2005, anos 2006-2010 |
@@ -30,19 +30,19 @@ Hatches compactos e monovolumes populares de rali e carros de rua de série (hat
 
 | Prévia | Carro | Época | Arquétipo | Tração | Potência | Massa | ID |
 |---|---|---|---|---|---|---|---|
-| ![Bombom 1.3, carro de rali low poly da classe C1 Novato](previas/bombom.jpg) | **Bombom 1.3** | anos 1970 | Hatch pequeno de 3 portas (rua, Nimbo) | FWD | 61 cv | 820 kg | 319 |
-| ![Dengo 1.6, carro de rali low poly da classe C1 Novato](previas/dengo.jpg) | **Dengo 1.6** | anos 1970 | Cupê médio de 2 portas (rua, Castrel) | FWD | 82 cv | 920 kg | 346 |
-| ![Rapadura 1.6, carro de rali low poly da classe C1 Novato](previas/rapadura.jpg) | **Rapadura 1.6** | anos 1980 | Perua média (rua, Castrel) | FWD | 75 cv | 960 kg | 318 |
-| ![Cocada 1.0, carro de rali low poly da classe C1 Novato](previas/cocada.jpg) | **Cocada 1.0** | anos 1990-1995 | Hatch popular de linhas retas (rua, Nimbo) | FWD | 58 cv | 800 kg | 318 |
+| ![Bombom 1.3, carro de rua low poly da classe C1 Novato](previas/bombom.jpg) | **Bombom 1.3** | anos 1970 | Hatch pequeno de 3 portas (rua, Nimbo) | FWD | 61 cv | 820 kg | 319 |
+| ![Dengo 1.6, carro de rua low poly da classe C1 Novato](previas/dengo.jpg) | **Dengo 1.6** | anos 1970 | Cupê médio de 2 portas (rua, Castrel) | FWD | 82 cv | 920 kg | 346 |
+| ![Rapadura 1.6, carro de rua low poly da classe C1 Novato](previas/rapadura.jpg) | **Rapadura 1.6** | anos 1980 | Perua média (rua, Castrel) | FWD | 75 cv | 960 kg | 318 |
+| ![Cocada 1.0, carro de rua low poly da classe C1 Novato](previas/cocada.jpg) | **Cocada 1.0** | anos 1990-1995 | Hatch popular de linhas retas (rua, Nimbo) | FWD | 58 cv | 800 kg | 318 |
 | ![Xodó 1.0, carro de rali low poly da classe C1 Novato](previas/xodo.jpg) | **Xodó 1.0** | anos 1990-1995 | Hatch compacto popular | FWD | 87 cv | 930 kg | 361 |
 | ![Miúdo 1.4, carro de rali low poly da classe C1 Novato](previas/miudo.jpg) | **Miúdo 1.4** | anos 1990-1995 | Hatch compacto popular | FWD | 95 cv | 1.000 kg | 373 |
 | ![Pipoca 1.3, carro de rali low poly da classe C1 Novato](previas/pipoca.jpg) | **Pipoca 1.3** | anos 1990-1995 | Hatch compacto popular | FWD | 95 cv | 1.000 kg | 373 |
-| ![Pirulito 1.0, carro de rali low poly da classe C1 Novato](previas/pirulito.jpg) | **Pirulito 1.0** | anos 1996-2000 | Hatch compacto popular (rua, Castrel) | FWD | 60 cv | 880 kg | 312 |
+| ![Pirulito 1.0, carro de rua low poly da classe C1 Novato](previas/pirulito.jpg) | **Pirulito 1.0** | anos 1996-2000 | Hatch compacto popular (rua, Castrel) | FWD | 60 cv | 880 kg | 312 |
 | ![Cafuné 1.0, carro de rali low poly da classe C1 Novato](previas/cafune.jpg) | **Cafuné 1.0** | anos 1996-2000 | Hatch compacto popular | FWD | 91 cv | 970 kg | 367 |
-| ![Pudim 1.6, carro de rali low poly da classe C1 Novato](previas/pudim.jpg) | **Pudim 1.6** | anos 1996-2000 | Monovolume compacto de piso duplo (rua, Ardena) | FWD | 102 cv | 1.120 kg | 368 |
+| ![Pudim 1.6, carro de rua low poly da classe C1 Novato](previas/pudim.jpg) | **Pudim 1.6** | anos 1996-2000 | Monovolume compacto de piso duplo (rua, Ardena) | FWD | 102 cv | 1.120 kg | 368 |
 | ![Quindim 1.6, carro de rali low poly da classe C1 Novato](previas/quindim.jpg) | **Quindim 1.6** | anos 1996-2000 | Hatch compacto popular | FWD | 103 cv | 1.050 kg | 389 |
-| ![Brigadeiro 1.8, carro de rali low poly da classe C1 Novato](previas/brigadeiro.jpg) | **Brigadeiro 1.8** | anos 1996-2000 | Hatch médio de linhas angulosas (rua, Castrel) | FWD | 116 cv | 1.180 kg | 394 |
-| ![Jujuba 1.0, carro de rali low poly da classe C1 Novato](previas/jujuba.jpg) | **Jujuba 1.0** | anos 2001-2005 | Subcompacto de linhas arredondadas (rua, Castrel) | FWD | 65 cv | 900 kg | 327 |
+| ![Brigadeiro 1.8, carro de rua low poly da classe C1 Novato](previas/brigadeiro.jpg) | **Brigadeiro 1.8** | anos 1996-2000 | Hatch médio de linhas angulosas (rua, Castrel) | FWD | 116 cv | 1.180 kg | 394 |
+| ![Jujuba 1.0, carro de rua low poly da classe C1 Novato](previas/jujuba.jpg) | **Jujuba 1.0** | anos 2001-2005 | Subcompacto de linhas arredondadas (rua, Castrel) | FWD | 65 cv | 900 kg | 327 |
 | ![Paçoca 1.4, carro de rali low poly da classe C1 Novato](previas/pacoca.jpg) | **Paçoca 1.4** | anos 2001-2005 | Monovolume compacto popular | FWD | 95 cv | 1.070 kg | 358 |
 | ![Guri 1.4, carro de rali low poly da classe C1 Novato](previas/guri.jpg) | **Guri 1.4** | anos 2001-2005 | Hatch compacto popular | FWD | 98 cv | 1.020 kg | 373 |
 | ![Chuchu 1.6, carro de rali low poly da classe C1 Novato](previas/chuchu.jpg) | **Chuchu 1.6** | anos 2006-2010 | Hatch compacto aventureiro | FWD | 103 cv | 1.080 kg | 372 |
@@ -53,13 +53,13 @@ Hatches esportivos preparados (kit car) e hatches médios esportivos de série, 
 
 | Prévia | Carro | Época | Arquétipo | Tração | Potência | Massa | ID |
 |---|---|---|---|---|---|---|---|
-| ![Fósforo 16, carro de rali low poly da classe C2 Kit Car](previas/fosforo.jpg) | **Fósforo 16** | anos 1980 | Hatch esportivo de 3 portas (rua, Castrel) | FWD | 105 cv | 950 kg | 412 |
-| ![Rastilho 18, carro de rali low poly da classe C2 Kit Car](previas/rastilho.jpg) | **Rastilho 18** | anos 1980 | Hatch médio esportivo de 3 portas (rua, Vortan) | FWD | 112 cv | 940 kg | 435 |
-| ![Lampejo 20, carro de rali low poly da classe C2 Kit Car](previas/lampejo.jpg) | **Lampejo 20** | anos 1990-1995 | Hatch médio esportivo (rua, Vortan) | FWD | 150 cv | 1.150 kg | 480 |
+| ![Fósforo 16, carro de rua low poly da classe C2 Kit Car](previas/fosforo.jpg) | **Fósforo 16** | anos 1980 | Hatch esportivo de 3 portas (rua, Castrel) | FWD | 105 cv | 950 kg | 412 |
+| ![Rastilho 18, carro de rua low poly da classe C2 Kit Car](previas/rastilho.jpg) | **Rastilho 18** | anos 1980 | Hatch médio esportivo de 3 portas (rua, Vortan) | FWD | 112 cv | 940 kg | 435 |
+| ![Lampejo 20, carro de rua low poly da classe C2 Kit Car](previas/lampejo.jpg) | **Lampejo 20** | anos 1990-1995 | Hatch médio esportivo (rua, Vortan) | FWD | 150 cv | 1.150 kg | 480 |
 | ![Chispa 18, carro de rali low poly da classe C2 Kit Car](previas/chispa.jpg) | **Chispa 18** | anos 1990-1995 | Hatch esportivo preparado (kit car) | FWD | 144 cv | 1.000 kg | 506 |
 | ![Faísca KC, carro de rali low poly da classe C2 Kit Car](previas/faisca.jpg) | **Faísca KC** | anos 1990-1995 | Hatch esportivo preparado (kit car) | FWD | 156 cv | 1.000 kg | 540 |
 | ![Fagulha 20, carro de rali low poly da classe C2 Kit Car](previas/fagulha.jpg) | **Fagulha 20** | anos 1990-1995 | Hatch esportivo preparado (kit car) | FWD | 156 cv | 950 kg | 556 |
-| ![Pólvora 18, carro de rali low poly da classe C2 Kit Car](previas/polvora.jpg) | **Pólvora 18** | anos 1996-2000 | Hatch médio esportivo turbo (rua, Vortan) | FWD | 150 cv | 1.230 kg | 463 |
+| ![Pólvora 18, carro de rua low poly da classe C2 Kit Car](previas/polvora.jpg) | **Pólvora 18** | anos 1996-2000 | Hatch médio esportivo turbo (rua, Vortan) | FWD | 150 cv | 1.230 kg | 463 |
 | ![Pavio 2.0, carro de rali low poly da classe C2 Kit Car](previas/pavio.jpg) | **Pavio 2.0** | anos 1996-2000 | Hatch esportivo preparado (kit car) | FWD | 152 cv | 960 kg | 541 |
 | ![Centelha 2.0, carro de rali low poly da classe C2 Kit Car](previas/centelha.jpg) | **Centelha 2.0** | anos 1996-2000 | Hatch esportivo preparado (kit car) | FWD | 165 cv | 1.030 kg | 551 |
 | ![Estopim 1.8, carro de rali low poly da classe C2 Kit Car](previas/estopim.jpg) | **Estopim 1.8** | anos 2001-2005 | Hatch esportivo preparado (kit car) | FWD | 159 cv | 980 kg | 553 |
@@ -143,7 +143,7 @@ Picapes e utilitários esportivos de rali cross-country, tração integral, os c
 
 ## Carros de rua de série
 
-Os 12 carros de rua usam proporções de carros comuns de cada época (comprimento, entre-eixos, altura, balanço, rodas pequenas de aro 13 a 16) e física de carro de série: massa, potência, torque, escalonamento de marchas e relação final do tipo de carro. As marcas são inventadas e aparecem no campo `marca` da ficha e do catálogo.
+Os 12 carros de rua usam proporções de carros comuns de cada época (comprimento, entre-eixos, altura, balanço, rodas pequenas de aro 13 a 16) e física de carro de série: massa, potência, torque, escalonamento de marchas e relação final do tipo de carro. As marcas são inventadas e aparecem no campo `marca` da ficha e do catálogo. Eles saem com acabamento de série (`"decoracao": "rua"` na ficha): sem número de competição, faixas no capô, faróis de milha nem para-barros, com placa de época inventada (amarela até os anos 80, cinza depois), frisos, maçanetas, lanternas com moldura, retrovisores pretos ou cromados, calotas e pneus de rua.
 
 | Carro | Classe | Marca fictícia | Época | Tipo de carro |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ A época de cada carro aparece só nas proporções e nos detalhes da carroceria
 ## Pastas
 
 - `modelos/<id>.glb`: o carro pronto para uso em tempo real.
-- `texturas/<id>_carroceria.png` e `texturas/<id>_roda.png`: as texturas em PNG (as mesmas que vão dentro do `.glb`).
+- `texturas/<id>_carroceria.png` e `texturas/<id>_roda.png` (e `texturas/<id>_placa.png` nos carros de rua): as texturas em PNG (as mesmas que vão dentro do `.glb`).
 - `previas/<id>.jpg`: quatro vistas de cada carro.
 - `fichas/<id>.json`: ficha do carro no jogo, com nome, classe, época, arquétipo, motor e tração (e a marca fictícia, nos carros de rua). A seção `fisica` traz massa, medidas, eixos, bitolas, rodas, potência e tração; a seção `forma` traz os parâmetros que geram a carroceria (perfil, cabine, faróis, cores, pintura e acessórios).
 - `catalogo.json`: lista dos 68 carros com classe, época, arquétipo, tração, potência, massa, ID e os caminhos do modelo, da prévia, da ficha e das texturas.
@@ -202,10 +202,10 @@ A escala é em metros, com Y para cima, a frente do carro em +Z e a esquerda em 
 Sim, em qualquer motor, biblioteca web ou editor 3D que leia glTF 2.0. Não há extensões proprietárias: só malhas, materiais simples e texturas PNG.
 
 **Quantos triângulos tem cada carro?**
-Entre 2.032 e 3.362 triângulos, contando carroceria, rodas e sombra. Os arquivos têm de 80 a 182 KB.
+Entre 2.008 e 3.362 triângulos, contando carroceria, rodas e sombra. Os arquivos têm de 79 a 182 KB.
 
 **Que texturas os carros usam?**
-Uma textura de 256×256 px para a carroceria (pintura, faróis, números e detalhes) e uma de 128×64 px para as rodas. O visual pede filtro bilinear e materiais sem brilho.
+Uma textura de 256×256 px para a carroceria (pintura, faróis, números e detalhes) e uma de 128×64 px para as rodas; os carros de rua têm mais uma, de 128×40 px, com a placa. O visual pede filtro bilinear e materiais sem brilho.
 
 **As rodas giram e esterçam?**
 Sim. Cada roda é um objeto separado com a origem no centro: gire em torno do eixo X para rodar e em torno do eixo Y para esterçar.

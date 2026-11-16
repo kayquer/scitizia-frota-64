@@ -148,8 +148,14 @@
     "raios": 0,
     "extras": [
       "bagageiro",
-      "para_barro",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "RP-2207",
+    "corPlaca": [
+      0.93,
+      0.76,
+      0.16
     ]
   }
 }

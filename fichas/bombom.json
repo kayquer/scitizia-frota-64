@@ -143,8 +143,14 @@
     "rodaLargura": 0.145,
     "raios": 0,
     "extras": [
-      "para_barro",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "BM-7319",
+    "corPlaca": [
+      0.93,
+      0.76,
+      0.16
     ]
   }
 }

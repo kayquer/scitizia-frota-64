@@ -144,9 +144,14 @@
     "rodaLargura": 0.185,
     "raios": 8,
     "extras": [
-      "para_barro",
-      "farol_aux2",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "RT-1984",
+    "corPlaca": [
+      0.93,
+      0.76,
+      0.16
     ]
   }
 }

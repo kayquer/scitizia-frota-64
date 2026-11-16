@@ -148,8 +148,14 @@
     "rodaLargura": 0.175,
     "raios": 5,
     "extras": [
-      "para_barro",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "PDM-5522",
+    "corPlaca": [
+      0.76,
+      0.77,
+      0.79
     ]
   }
 }

@@ -144,9 +144,15 @@
     "rodaLargura": 0.185,
     "raios": 4,
     "extras": [
-      "para_barro",
-      "farol_aux2",
       "escape"
-    ]
+    ],
+    "decoracao": "rua",
+    "placa": "FS-8806",
+    "corPlaca": [
+      0.93,
+      0.76,
+      0.16
+    ],
+    "grade": "faixa"
   }
 }

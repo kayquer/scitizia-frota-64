@@ -147,8 +147,14 @@
     "rodaLargura": 0.175,
     "raios": 4,
     "extras": [
-      "para_barro",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "DG-4512",
+    "corPlaca": [
+      0.93,
+      0.76,
+      0.16
     ]
   }
 }

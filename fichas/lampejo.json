@@ -148,9 +148,14 @@
     "rodaLargura": 0.195,
     "raios": 6,
     "extras": [
-      "para_barro",
-      "farol_aux2",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "LPJ-2093",
+    "corPlaca": [
+      0.76,
+      0.77,
+      0.79
     ]
   }
 }

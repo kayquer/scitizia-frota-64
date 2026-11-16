@@ -29,7 +29,8 @@
       "ficha": "fichas/bombom.json",
       "texturas": [
         "texturas/bombom_carroceria.png",
-        "texturas/bombom_roda.png"
+        "texturas/bombom_roda.png",
+        "texturas/bombom_placa.png"
       ]
     },
     {
@@ -50,7 +51,8 @@
       "ficha": "fichas/dengo.json",
       "texturas": [
         "texturas/dengo_carroceria.png",
-        "texturas/dengo_roda.png"
+        "texturas/dengo_roda.png",
+        "texturas/dengo_placa.png"
       ]
     },
     {
@@ -71,7 +73,8 @@
       "ficha": "fichas/rapadura.json",
       "texturas": [
         "texturas/rapadura_carroceria.png",
-        "texturas/rapadura_roda.png"
+        "texturas/rapadura_roda.png",
+        "texturas/rapadura_placa.png"
       ]
     },
     {
@@ -92,7 +95,8 @@
       "ficha": "fichas/cocada.json",
       "texturas": [
         "texturas/cocada_carroceria.png",
-        "texturas/cocada_roda.png"
+        "texturas/cocada_roda.png",
+        "texturas/cocada_placa.png"
       ]
     },
     {
@@ -173,7 +177,8 @@
       "ficha": "fichas/pirulito.json",
       "texturas": [
         "texturas/pirulito_carroceria.png",
-        "texturas/pirulito_roda.png"
+        "texturas/pirulito_roda.png",
+        "texturas/pirulito_placa.png"
       ]
     },
     {
@@ -214,7 +219,8 @@
       "ficha": "fichas/pudim.json",
       "texturas": [
         "texturas/pudim_carroceria.png",
-        "texturas/pudim_roda.png"
+        "texturas/pudim_roda.png",
+        "texturas/pudim_placa.png"
       ]
     },
     {
@@ -255,7 +261,8 @@
       "ficha": "fichas/brigadeiro.json",
       "texturas": [
         "texturas/brigadeiro_carroceria.png",
-        "texturas/brigadeiro_roda.png"
+        "texturas/brigadeiro_roda.png",
+        "texturas/brigadeiro_placa.png"
       ]
     },
     {
@@ -276,7 +283,8 @@
       "ficha": "fichas/jujuba.json",
       "texturas": [
         "texturas/jujuba_carroceria.png",
-        "texturas/jujuba_roda.png"
+        "texturas/jujuba_roda.png",
+        "texturas/jujuba_placa.png"
       ]
     },
     {
@@ -357,7 +365,8 @@
       "ficha": "fichas/fosforo.json",
       "texturas": [
         "texturas/fosforo_carroceria.png",
-        "texturas/fosforo_roda.png"
+        "texturas/fosforo_roda.png",
+        "texturas/fosforo_placa.png"
       ]
     },
     {
@@ -378,7 +387,8 @@
       "ficha": "fichas/rastilho.json",
       "texturas": [
         "texturas/rastilho_carroceria.png",
-        "texturas/rastilho_roda.png"
+        "texturas/rastilho_roda.png",
+        "texturas/rastilho_placa.png"
       ]
     },
     {
@@ -399,7 +409,8 @@
       "ficha": "fichas/lampejo.json",
       "texturas": [
         "texturas/lampejo_carroceria.png",
-        "texturas/lampejo_roda.png"
+        "texturas/lampejo_roda.png",
+        "texturas/lampejo_placa.png"
       ]
     },
     {
@@ -480,7 +491,8 @@
       "ficha": "fichas/polvora.json",
       "texturas": [
         "texturas/polvora_carroceria.png",
-        "texturas/polvora_roda.png"
+        "texturas/polvora_roda.png",
+        "texturas/polvora_placa.png"
       ]
     },
     {

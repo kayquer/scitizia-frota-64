@@ -148,8 +148,14 @@
     "rodaLargura": 0.165,
     "raios": 0,
     "extras": [
-      "para_barro",
       "escape"
+    ],
+    "decoracao": "rua",
+    "placa": "PRL-7741",
+    "corPlaca": [
+      0.76,
+      0.77,
+      0.79
     ]
   }
 }
