@@ -1,0 +1,165 @@
+{
+  "id": "granizo",
+  "nome": "Granizo 22",
+  "classe": "C4",
+  "ano": 1998,
+  "carroceria": "picape",
+  "arquetipo": "Picape cabine dupla 4x4 turbo",
+  "motor": "2.2 turbo",
+  "tracao": "AWD",
+  "numero": 47,
+  "modelo": "carros/granizo.glb",
+  "fisica": {
+    "massa": 1440,
+    "dimensoes": [
+      5.27,
+      1.76,
+      1.64
+    ],
+    "centroMassa": [
+      0,
+      0.45,
+      0.08
+    ],
+    "eixoDianteiro": 1.47,
+    "eixoTraseiro": -1.47,
+    "bitolaDianteira": 1.54,
+    "bitolaTraseira": 1.52,
+    "raioRoda": 0.325,
+    "potencia": 158000,
+    "tracaoDianteira": 0.5,
+    "arrasto": 1.14,
+    "diferencial": 4.3,
+    "rpmCorte": 7400,
+    "cascas": [
+      [
+        0.86,
+        0.29,
+        2.63,
+        0,
+        0.61,
+        -0.12
+      ],
+      [
+        0.69,
+        0.31,
+        0.86,
+        0,
+        1.33,
+        -0.19
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "carroceria": "picape",
+    "yFrente": -2.518,
+    "yTras": 2.752,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.28,
+    "perfil": [
+      [
+        -2.518,
+        0.779
+      ],
+      [
+        -2.218,
+        0.879
+      ],
+      [
+        -0.85,
+        1.009
+      ],
+      [
+        1.03,
+        1.049
+      ],
+      [
+        2.752,
+        1.049
+      ]
+    ],
+    "cabine": {
+      "pe": -0.85,
+      "topoD": -0.17,
+      "topoT": 1.18,
+      "peT": 1.23,
+      "teto": 1.64,
+      "largBase": 0.78,
+      "largTopo": 0.68,
+      "vidros": [
+        [
+          -0.94,
+          -0.25
+        ],
+        [
+          -0.16,
+          0.86
+        ]
+      ]
+    },
+    "frestas": [
+      -0.79,
+      0.161,
+      1.005
+    ],
+    "portas": 4,
+    "cacamba": {
+      "y0": 1.31,
+      "fundo": 0.599,
+      "pilar": 0.26
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.729,
+      "x": 0.59,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.859,
+      "x": 0.74,
+      "w": 0.12,
+      "h": 0.26
+    },
+    "cores": {
+      "pintura": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "secundaria": [
+        0.1,
+        0.35,
+        0.7
+      ],
+      "terciaria": [
+        0.6,
+        0.65,
+        0.7
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.1,
+        0.35,
+        0.7
+      ]
+    },
+    "pintura": "onda",
+    "parachoque": "escuro",
+    "rodaLargura": 0.21,
+    "raios": 6,
+    "extras": [
+      "santo_antonio",
+      "quebra_mato",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

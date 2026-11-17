@@ -2,8 +2,9 @@
   "id": "tabuleiro",
   "nome": "Tabuleiro 37",
   "classe": "C7",
-  "epoca": "2006-2010",
-  "arquetipo": "Picape cabine dupla de rali cross-country do fim dos anos 2000",
+  "ano": 2008,
+  "carroceria": "picape",
+  "arquetipo": "Picape cabine dupla de rali cross-country",
   "motor": "3.2 turbodiesel",
   "tracao": "AWD",
   "numero": 76,
@@ -94,6 +95,11 @@
       "teto": 1.92,
       "largBase": 0.86,
       "largTopo": 0.76
+    },
+    "cacamba": {
+      "y0": 1.08,
+      "fundo": 0.886,
+      "pilar": 0.26
     },
     "farol": {
       "tipo": "gota",

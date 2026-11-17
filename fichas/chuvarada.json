@@ -1,0 +1,156 @@
+{
+  "id": "chuvarada",
+  "nome": "Chuvarada 25",
+  "classe": "C4",
+  "ano": 2008,
+  "carroceria": "furgao",
+  "arquetipo": "Furgão 4x4 turbo",
+  "motor": "2.5 turbo",
+  "tracao": "AWD",
+  "numero": 49,
+  "modelo": "carros/chuvarada.glb",
+  "fisica": {
+    "massa": 1470,
+    "dimensoes": [
+      4.96,
+      1.76,
+      1.96
+    ],
+    "centroMassa": [
+      0,
+      0.62,
+      0.08
+    ],
+    "eixoDianteiro": 1.35,
+    "eixoTraseiro": -1.35,
+    "bitolaDianteira": 1.54,
+    "bitolaTraseira": 1.52,
+    "raioRoda": 0.32,
+    "potencia": 162000,
+    "tracaoDianteira": 0.45,
+    "arrasto": 1.25,
+    "diferencial": 4.4,
+    "rpmCorte": 7200,
+    "cascas": [
+      [
+        0.86,
+        0.37,
+        2.47,
+        0,
+        0.68,
+        0
+      ],
+      [
+        0.75,
+        0.4,
+        1.62,
+        0,
+        1.56,
+        -0.65
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "furgao",
+    "yFrente": -2.48,
+    "yTras": 2.48,
+    "larg": 0.83,
+    "alarg": 0.05,
+    "zBaixo": 0.27,
+    "perfil": [
+      [
+        -2.48,
+        0.967
+      ],
+      [
+        -2.21,
+        1.047
+      ],
+      [
+        -1.13,
+        1.147
+      ],
+      [
+        0.875,
+        1.16
+      ],
+      [
+        2.48,
+        1.167
+      ]
+    ],
+    "cabine": {
+      "pe": -1.13,
+      "topoD": -0.51,
+      "topoT": 2.4,
+      "peT": 2.44,
+      "teto": 1.96,
+      "largBase": 0.81,
+      "largTopo": 0.76,
+      "vidros": [
+        [
+          -0.94,
+          -0.462
+        ]
+      ]
+    },
+    "frestas": [
+      -0.85,
+      0.1,
+      0.89
+    ],
+    "portas": 4,
+    "corredica": true,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.917,
+      "x": 0.55,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.917,
+      "x": 0.7,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.92,
+        0.92,
+        0.9
+      ],
+      "secundaria": [
+        0.15,
+        0.55,
+        0.3
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.15,
+        0.55,
+        0.3
+      ],
+      "pinca": [
+        0.15,
+        0.55,
+        0.3
+      ]
+    },
+    "pintura": "diagonal",
+    "parachoque": "cor",
+    "rodaLargura": 0.21,
+    "raios": 6,
+    "extras": [
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

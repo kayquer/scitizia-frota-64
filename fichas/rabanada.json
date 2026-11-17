@@ -1,0 +1,166 @@
+{
+  "id": "rabanada",
+  "nome": "Rabanada 24",
+  "classe": "C6",
+  "ano": 2001,
+  "carroceria": "minivan",
+  "arquetipo": "Monstro sem restrição sobre base de minivan",
+  "motor": "2.4 turbo",
+  "tracao": "AWD",
+  "numero": 69,
+  "modelo": "carros/rabanada.glb",
+  "fisica": {
+    "massa": 1220,
+    "dimensoes": [
+      4.35,
+      1.86,
+      1.62
+    ],
+    "centroMassa": [
+      0,
+      0.52,
+      0
+    ],
+    "eixoDianteiro": 1.27,
+    "eixoTraseiro": -1.27,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.32,
+    "potencia": 239000,
+    "tracaoDianteira": 0.3,
+    "arrasto": 1.16,
+    "diferencial": 4.5,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.91,
+        0.28,
+        2.17,
+        0,
+        0.53,
+        0.15
+      ],
+      [
+        0.68,
+        0.33,
+        1.25,
+        0,
+        1.3,
+        -0.4
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "minivan",
+    "yFrente": -2.32,
+    "yTras": 2.03,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.21,
+    "perfil": [
+      [
+        -2.32,
+        0.65
+      ],
+      [
+        -2.05,
+        0.73
+      ],
+      [
+        -1.17,
+        0.925
+      ],
+      [
+        0.63,
+        0.984
+      ],
+      [
+        2.03,
+        1.015
+      ]
+    ],
+    "cabine": {
+      "pe": -1.17,
+      "topoD": -0.02,
+      "topoT": 1.83,
+      "peT": 1.97,
+      "teto": 1.62,
+      "largBase": 0.765,
+      "largTopo": 0.675,
+      "vidros": [
+        [
+          -0.94,
+          -0.411
+        ],
+        [
+          -0.321,
+          0.089
+        ],
+        [
+          0.179,
+          0.94
+        ]
+      ]
+    },
+    "frestas": [
+      -0.77,
+      0.18,
+      0.81
+    ],
+    "portas": 4,
+    "corredica": true,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.6,
+      "x": 0.56,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.765,
+      "x": 0.67,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.55,
+        0.1,
+        0.55
+      ],
+      "secundaria": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "pinca": [
+        0.95,
+        0.8,
+        0.1
+      ]
+    },
+    "pintura": "onda",
+    "parachoque": "cor",
+    "rodaLargura": 0.23,
+    "raios": 6,
+    "extras": [
+      "aerofolio_teto",
+      "entrada_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

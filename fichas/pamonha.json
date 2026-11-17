@@ -1,0 +1,171 @@
+{
+  "id": "pamonha",
+  "nome": "Pamonha 1.6",
+  "classe": "C1",
+  "ano": 2007,
+  "carroceria": "suv",
+  "arquetipo": "Utilitário esportivo compacto",
+  "motor": "1.6 aspirado",
+  "tracao": "FWD",
+  "numero": 6,
+  "modelo": "carros/pamonha.glb",
+  "fisica": {
+    "massa": 1130,
+    "dimensoes": [
+      3.84,
+      1.6,
+      1.67
+    ],
+    "centroMassa": [
+      0,
+      0.57,
+      0.1
+    ],
+    "eixoDianteiro": 1.22,
+    "eixoTraseiro": -1.22,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.315,
+    "potencia": 74000,
+    "tracaoDianteira": 1,
+    "arrasto": 1.12,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 3.95,
+    "rpmCorte": 6600,
+    "cascas": [
+      [
+        0.78,
+        0.36,
+        1.91,
+        0,
+        0.7,
+        0
+      ],
+      [
+        0.65,
+        0.24,
+        1.07,
+        0,
+        1.43,
+        -0.56
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "suv",
+    "yFrente": -1.92,
+    "yTras": 1.92,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.3,
+    "perfil": [
+      [
+        -1.92,
+        0.927
+      ],
+      [
+        -1.65,
+        1.007
+      ],
+      [
+        -0.72,
+        1.127
+      ],
+      [
+        0.8,
+        1.206
+      ],
+      [
+        1.92,
+        1.247
+      ]
+    ],
+    "cabine": {
+      "pe": -0.72,
+      "topoD": 0.04,
+      "topoT": 1.74,
+      "peT": 1.84,
+      "teto": 1.67,
+      "largBase": 0.73,
+      "largTopo": 0.64,
+      "vidros": [
+        [
+          -0.94,
+          -0.618
+        ],
+        [
+          -0.528,
+          0.003
+        ],
+        [
+          0.093,
+          0.92
+        ]
+      ]
+    },
+    "frestas": [
+      -0.66,
+      0.095,
+      0.765
+    ],
+    "portas": 4,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.877,
+      "x": 0.5,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.997,
+      "x": 0.65,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.45,
+        0.62,
+        0.2
+      ],
+      "secundaria": [
+        0.18,
+        0.18,
+        0.2
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.3,
+        0.3,
+        0.32
+      ],
+      "pinca": [
+        0.18,
+        0.18,
+        0.2
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.18,
+    "raios": 5,
+    "extras": [
+      "protetores",
+      "bagageiro",
+      "estepe_traseiro",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

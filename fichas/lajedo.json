@@ -2,33 +2,34 @@
   "id": "lajedo",
   "nome": "Lajedo 32",
   "classe": "C7",
-  "epoca": "1990-1995",
-  "arquetipo": "Utilitário esportivo de rali cross-country do começo dos anos 90",
+  "ano": 1990,
+  "carroceria": "furgao",
+  "arquetipo": "Furgão de rali cross-country",
   "motor": "3.0 turbodiesel",
   "tracao": "AWD",
   "numero": 71,
   "modelo": "carros/lajedo.glb",
   "fisica": {
-    "massa": 1900,
+    "massa": 2000,
     "dimensoes": [
-      4.75,
+      4.94,
       1.98,
-      1.9
+      2.05
     ],
     "centroMassa": [
       0,
-      0.69,
+      0.72,
       0.1
     ],
-    "eixoDianteiro": 1.42,
-    "eixoTraseiro": -1.42,
+    "eixoDianteiro": 1.44,
+    "eixoTraseiro": -1.44,
     "bitolaDianteira": 1.69,
     "bitolaTraseira": 1.67,
     "raioRoda": 0.4,
     "curso": 0.42,
     "potencia": 176000,
     "tracaoDianteira": 0.55,
-    "arrasto": 1.35,
+    "arrasto": 1.51,
     "marchas": [
       3.8,
       2.4,
@@ -41,72 +42,86 @@
     "cascas": [
       [
         0.97,
-        0.33,
-        2.37,
+        0.29,
+        2.46,
         0,
-        0.79,
-        0.06
+        0.73,
+        0
       ],
       [
-        0.79,
-        0.24,
-        1.43,
+        0.83,
+        0.47,
+        1.62,
         0,
-        1.6,
-        -0.66
+        1.58,
+        -0.65
       ]
     ]
   },
   "forma": {
     "tipo": "suv",
-    "yFrente": -2.432,
-    "yTras": 2.318,
+    "carroceria": "furgao",
+    "yFrente": -2.47,
+    "yTras": 2.47,
     "larg": 0.91,
     "alarg": 0.08,
-    "zBaixo": 0.42,
+    "zBaixo": 0.4,
     "perfil": [
       [
-        -2.432,
-        1.037
+        -2.47,
+        0.963
       ],
       [
-        -2.162,
-        1.117
+        -2.2,
+        1.043
       ],
       [
-        -0.92,
-        1.197
+        -1.14,
+        1.107
       ],
       [
-        0.899,
-        1.23
+        0.865,
+        1.12
       ],
       [
-        2.318,
-        1.247
+        2.47,
+        1.127
       ]
     ],
     "cabine": {
-      "pe": -0.92,
-      "topoD": -0.44,
-      "topoT": 2.138,
-      "peT": 2.238,
-      "teto": 1.9,
-      "largBase": 0.86,
-      "largTopo": 0.8
+      "pe": -1.14,
+      "topoD": -0.52,
+      "topoT": 2.39,
+      "peT": 2.43,
+      "teto": 2.05,
+      "largBase": 0.89,
+      "largTopo": 0.84,
+      "vidros": [
+        [
+          -0.94,
+          -0.462
+        ]
+      ]
     },
+    "frestas": [
+      -0.86,
+      0.09,
+      0.9
+    ],
+    "portas": 4,
+    "corredica": true,
     "farol": {
       "tipo": "ret",
-      "z": 1.007,
+      "z": 0.933,
       "x": 0.6,
       "w": 0.3,
       "h": 0.085
     },
     "lanterna": {
-      "z": 1.127,
-      "x": 0.69,
-      "w": 0.3,
-      "h": 0.1
+      "z": 0.877,
+      "x": 0.78,
+      "w": 0.14,
+      "h": 0.3
     },
     "cores": {
       "pintura": [

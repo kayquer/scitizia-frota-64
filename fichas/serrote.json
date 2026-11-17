@@ -1,0 +1,171 @@
+{
+  "id": "serrote",
+  "nome": "Serrote 32",
+  "classe": "C7",
+  "ano": 2009,
+  "carroceria": "cupe",
+  "arquetipo": "Cupê elevado 4x4 de rali cross-country",
+  "motor": "3.2 V6 turbo",
+  "tracao": "AWD",
+  "numero": 79,
+  "modelo": "carros/serrote.glb",
+  "fisica": {
+    "massa": 1750,
+    "dimensoes": [
+      4.55,
+      1.98,
+      1.56
+    ],
+    "centroMassa": [
+      0,
+      0.53,
+      0.1
+    ],
+    "eixoDianteiro": 1.4,
+    "eixoTraseiro": -1.4,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.39,
+    "curso": 0.42,
+    "potencia": 196000,
+    "tracaoDianteira": 0.5,
+    "arrasto": 1.27,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.7,
+    "rpmCorte": 6200,
+    "cascas": [
+      [
+        0.97,
+        0.28,
+        2.27,
+        0,
+        0.68,
+        0
+      ],
+      [
+        0.74,
+        0.25,
+        0.78,
+        0,
+        1.31,
+        -0.43
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "carroceria": "cupe",
+    "yFrente": -2.275,
+    "yTras": 2.275,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.36,
+    "perfil": [
+      [
+        -2.275,
+        0.806
+      ],
+      [
+        -2.005,
+        0.886
+      ],
+      [
+        -0.75,
+        1.006
+      ],
+      [
+        0.427,
+        1.078
+      ],
+      [
+        1.603,
+        1.126
+      ],
+      [
+        2.275,
+        1.126
+      ]
+    ],
+    "cabine": {
+      "pe": -0.75,
+      "topoD": 0.23,
+      "topoT": 0.983,
+      "peT": 1.603,
+      "teto": 1.56,
+      "largBase": 0.86,
+      "largTopo": 0.7,
+      "vidros": [
+        [
+          -0.94,
+          -0.031
+        ],
+        [
+          0.059,
+          0.84
+        ]
+      ]
+    },
+    "frestas": [
+      -0.69,
+      0.51
+    ],
+    "portas": 2,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.756,
+      "x": 0.63,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.956,
+      "x": 0.74,
+      "w": 0.2,
+      "h": 0.2
+    },
+    "cores": {
+      "pintura": [
+        0.75,
+        0.45,
+        0.15
+      ],
+      "secundaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.1,
+        0.1,
+        0.12
+      ]
+    },
+    "pintura": "escamas",
+    "parachoque": "cor",
+    "rodaLargura": 0.28,
+    "raios": 0,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

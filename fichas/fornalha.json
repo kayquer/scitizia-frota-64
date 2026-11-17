@@ -2,31 +2,33 @@
   "id": "fornalha",
   "nome": "Fornalha 28",
   "classe": "C3",
-  "epoca": "1996-2000",
-  "arquetipo": "Cupê de tração traseira do fim dos anos 90",
+  "ano": 1998,
+  "carroceria": "conversivel",
+  "arquetipo": "Conversível de tração traseira",
   "motor": "2.8 aspirado",
   "tracao": "RWD",
   "numero": 28,
   "modelo": "carros/fornalha.glb",
   "fisica": {
-    "massa": 1000,
+    "massa": 1030,
     "dimensoes": [
       4.07,
       1.7,
-      1.25
+      1.07
     ],
     "centroMassa": [
       0,
-      0.39,
+      0.32,
       0
     ],
-    "eixoDianteiro": 1.19,
-    "eixoTraseiro": -1.19,
+    "eixoDianteiro": 1.16,
+    "eixoTraseiro": -1.16,
     "bitolaDianteira": 1.42,
     "bitolaTraseira": 1.4,
     "raioRoda": 0.3,
     "potencia": 128000,
     "tracaoDianteira": 0,
+    "arrasto": 1.03,
     "marchas": [
       3.3,
       2.1,
@@ -42,60 +44,71 @@
         0.25,
         2.03,
         0,
-        0.49,
-        0.05
+        0.48,
+        0
       ],
       [
-        0.64,
-        0.24,
-        0.59,
+        0.65,
+        0.16,
+        0.52,
         0,
-        0.95,
-        -0.39
+        1.01,
+        -0.02
       ]
     ]
   },
   "forma": {
     "tipo": "sedan",
-    "yFrente": -2.086,
-    "yTras": 1.984,
+    "carroceria": "conversivel",
+    "yFrente": -2.035,
+    "yTras": 2.035,
     "larg": 0.81,
     "alarg": 0.04,
-    "zBaixo": 0.2,
+    "zBaixo": 0.19,
     "perfil": [
       [
-        -2.086,
+        -2.035,
         0.58
       ],
       [
-        -1.816,
+        -1.765,
         0.66
       ],
       [
-        -0.59,
+        -0.66,
         0.81
       ],
       [
-        0.387,
+        0.02,
         0.858
       ],
       [
-        1.364,
+        0.7,
         0.89
       ],
       [
-        1.984,
+        2.035,
         0.89
       ]
     ],
     "cabine": {
-      "pe": -0.59,
-      "topoD": 0.29,
-      "topoT": 0.694,
-      "peT": 1.364,
-      "teto": 1.25,
+      "pe": -0.66,
+      "topoD": -0.03,
+      "topoT": 0.7,
+      "peT": 0.7,
+      "teto": 1.17,
       "largBase": 0.76,
-      "largTopo": 0.59
+      "largTopo": 0.61
+    },
+    "frestas": [
+      -0.6,
+      0.5
+    ],
+    "portas": 2,
+    "cockpit": {
+      "y0": -0.61,
+      "y1": 0.7,
+      "fundo": 0.47
     },
     "farol": {
       "tipo": "oval",

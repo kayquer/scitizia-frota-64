@@ -1,0 +1,160 @@
+{
+  "id": "obsidiana",
+  "nome": "Obsidiana 16",
+  "classe": "C5",
+  "ano": 2003,
+  "carroceria": "picape",
+  "arquetipo": "Protótipo de rali sobre base de picape",
+  "motor": "1.6 turbo",
+  "tracao": "AWD",
+  "numero": 58,
+  "modelo": "carros/obsidiana.glb",
+  "fisica": {
+    "massa": 1200,
+    "dimensoes": [
+      4.47,
+      1.72,
+      1.5
+    ],
+    "centroMassa": [
+      0,
+      0.52,
+      0.05
+    ],
+    "eixoDianteiro": 1.37,
+    "eixoTraseiro": -1.37,
+    "bitolaDianteira": 1.49,
+    "bitolaTraseira": 1.47,
+    "raioRoda": 0.325,
+    "potencia": 176000,
+    "tracaoDianteira": 0.4,
+    "arrasto": 1.12,
+    "diferencial": 4.15,
+    "rpmCorte": 7800,
+    "cascas": [
+      [
+        0.84,
+        0.28,
+        2.23,
+        0,
+        0.56,
+        -0.1
+      ],
+      [
+        0.63,
+        0.27,
+        0.55,
+        0,
+        1.23,
+        -0.02
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "carroceria": "picape",
+    "yFrente": -2.131,
+    "yTras": 2.339,
+    "larg": 0.76,
+    "alarg": 0.1,
+    "zBaixo": 0.24,
+    "perfil": [
+      [
+        -2.131,
+        0.725
+      ],
+      [
+        -1.831,
+        0.825
+      ],
+      [
+        -0.75,
+        0.945
+      ],
+      [
+        0.59,
+        0.985
+      ],
+      [
+        2.339,
+        0.985
+      ]
+    ],
+    "cabine": {
+      "pe": -0.75,
+      "topoD": 0.07,
+      "topoT": 0.74,
+      "peT": 0.79,
+      "teto": 1.5,
+      "largBase": 0.71,
+      "largTopo": 0.62,
+      "vidros": [
+        [
+          -0.94,
+          0.347
+        ]
+      ]
+    },
+    "frestas": [
+      -0.69,
+      0.43
+    ],
+    "portas": 2,
+    "cacamba": {
+      "y0": 0.87,
+      "fundo": 0.535,
+      "pilar": 0.26
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.675,
+      "x": 0.52,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.795,
+      "x": 0.67,
+      "w": 0.12,
+      "h": 0.26
+    },
+    "cores": {
+      "pintura": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "secundaria": [
+        0.6,
+        0.2,
+        0.75
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.6,
+        0.2,
+        0.75
+      ],
+      "pinca": [
+        0.6,
+        0.2,
+        0.75
+      ]
+    },
+    "pintura": "escamas",
+    "parachoque": "cor",
+    "rodaLargura": 0.22,
+    "raios": 0,
+    "extras": [
+      "santo_antonio",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

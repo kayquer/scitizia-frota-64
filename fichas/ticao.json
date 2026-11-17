@@ -2,31 +2,33 @@
   "id": "ticao",
   "nome": "Tição 30",
   "classe": "C3",
-  "epoca": "1990-1995",
-  "arquetipo": "Sedã de tração traseira do começo dos anos 90",
+  "ano": 1993,
+  "carroceria": "picape",
+  "arquetipo": "Picape esportiva de tração traseira",
   "motor": "3.0 aspirado",
   "tracao": "RWD",
   "numero": 30,
   "modelo": "carros/ticao.glb",
   "fisica": {
-    "massa": 1120,
+    "massa": 1240,
     "dimensoes": [
-      4.36,
+      5.23,
       1.7,
-      1.35
+      1.49
     ],
     "centroMassa": [
       0,
-      0.42,
+      0.52,
       0
     ],
-    "eixoDianteiro": 1.27,
-    "eixoTraseiro": -1.27,
+    "eixoDianteiro": 1.45,
+    "eixoTraseiro": -1.45,
     "bitolaDianteira": 1.42,
     "bitolaTraseira": 1.4,
-    "raioRoda": 0.3,
+    "raioRoda": 0.315,
     "potencia": 131000,
     "tracaoDianteira": 0,
+    "arrasto": 1.12,
     "marchas": [
       3.3,
       2.1,
@@ -39,76 +41,89 @@
     "cascas": [
       [
         0.83,
-        0.25,
-        2.17,
+        0.28,
+        2.61,
         0,
-        0.49,
-        0.05
+        0.58,
+        -0.14
       ],
       [
-        0.67,
-        0.24,
-        0.84,
+        0.7,
+        0.27,
+        0.47,
         0,
-        1.05,
-        -0.31
+        1.22,
+        0.22
       ]
     ]
   },
   "forma": {
-    "tipo": "sedan",
-    "yFrente": -2.235,
-    "yTras": 2.125,
+    "tipo": "picape",
+    "carroceria": "picape",
+    "yFrente": -2.475,
+    "yTras": 2.755,
     "larg": 0.81,
     "alarg": 0.04,
-    "zBaixo": 0.2,
+    "zBaixo": 0.26,
     "perfil": [
       [
-        -2.235,
-        0.65
+        -2.475,
+        0.779
       ],
       [
-        -1.965,
-        0.73
+        -2.175,
+        0.879
       ],
       [
-        -0.79,
-        0.81
+        -0.83,
+        0.939
       ],
       [
-        0.308,
-        0.84
+        0.19,
+        0.979
       ],
       [
-        1.405,
-        0.86
-      ],
-      [
-        2.125,
-        0.86
+        2.755,
+        0.979
       ]
     ],
     "cabine": {
-      "pe": -0.79,
-      "topoD": -0.19,
-      "topoT": 0.985,
-      "peT": 1.405,
-      "teto": 1.35,
+      "pe": -0.83,
+      "topoD": -0.33,
+      "topoT": 0.34,
+      "peT": 0.39,
+      "teto": 1.49,
       "largBase": 0.76,
-      "largTopo": 0.66
+      "largTopo": 0.71,
+      "vidros": [
+        [
+          -0.94,
+          0.8
+        ]
+      ]
+    },
+    "frestas": [
+      -0.77,
+      0.31
+    ],
+    "portas": 2,
+    "cacamba": {
+      "y0": 0.47,
+      "fundo": 0.529,
+      "pilar": 0.26
     },
     "farol": {
       "tipo": "ret",
-      "z": 0.62,
+      "z": 0.749,
       "x": 0.5,
       "w": 0.3,
       "h": 0.085
     },
     "lanterna": {
-      "z": 0.74,
-      "x": 0.59,
-      "w": 0.3,
-      "h": 0.1
+      "z": 0.789,
+      "x": 0.72,
+      "w": 0.12,
+      "h": 0.26
     },
     "cores": {
       "pintura": [
@@ -142,7 +157,7 @@
     "rodaLargura": 0.2,
     "raios": 8,
     "extras": [
-      "aerofolio_pato",
+      "santo_antonio",
       "para_barro",
       "farol_aux2",
       "escape"

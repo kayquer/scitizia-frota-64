@@ -1,0 +1,165 @@
+{
+  "id": "aracati",
+  "nome": "Aracati 25",
+  "classe": "C6",
+  "ano": 2008,
+  "carroceria": "suv",
+  "arquetipo": "Monstro sem restrição sobre base de utilitário esportivo",
+  "motor": "2.5 turbo",
+  "tracao": "AWD",
+  "numero": 67,
+  "modelo": "carros/aracati.glb",
+  "fisica": {
+    "massa": 1210,
+    "dimensoes": [
+      4.19,
+      1.86,
+      1.55
+    ],
+    "centroMassa": [
+      0,
+      0.55,
+      0
+    ],
+    "eixoDianteiro": 1.24,
+    "eixoTraseiro": -1.24,
+    "bitolaDianteira": 1.62,
+    "bitolaTraseira": 1.6,
+    "raioRoda": 0.335,
+    "potencia": 234000,
+    "tracaoDianteira": 0.35,
+    "arrasto": 1.18,
+    "diferencial": 4.4,
+    "rpmCorte": 8000,
+    "cascas": [
+      [
+        0.91,
+        0.34,
+        2.09,
+        0,
+        0.64,
+        0
+      ],
+      [
+        0.67,
+        0.22,
+        1.16,
+        0,
+        1.33,
+        -0.64
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "suv",
+    "yFrente": -2.095,
+    "yTras": 2.095,
+    "larg": 0.8,
+    "alarg": 0.13,
+    "zBaixo": 0.26,
+    "perfil": [
+      [
+        -2.095,
+        0.846
+      ],
+      [
+        -1.825,
+        0.926
+      ],
+      [
+        -0.74,
+        1.046
+      ],
+      [
+        0.878,
+        1.125
+      ],
+      [
+        2.095,
+        1.166
+      ]
+    ],
+    "cabine": {
+      "pe": -0.74,
+      "topoD": 0.02,
+      "topoT": 1.915,
+      "peT": 2.015,
+      "teto": 1.55,
+      "largBase": 0.75,
+      "largTopo": 0.66,
+      "vidros": [
+        [
+          -0.94,
+          -0.644
+        ],
+        [
+          -0.554,
+          -0.066
+        ],
+        [
+          0.024,
+          0.92
+        ]
+      ]
+    },
+    "frestas": [
+      -0.68,
+      0.086,
+      0.765
+    ],
+    "portas": 4,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.796,
+      "x": 0.52,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.916,
+      "x": 0.67,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.9,
+        0.25,
+        0.08
+      ],
+      "secundaria": [
+        0.12,
+        0.12,
+        0.14
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.12,
+        0.12,
+        0.14
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.23,
+    "raios": 6,
+    "extras": [
+      "protetores",
+      "aerofolio_teto",
+      "tomada_capo",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

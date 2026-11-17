@@ -2,103 +2,121 @@
   "id": "temporal",
   "nome": "Temporal 20",
   "classe": "C4",
-  "epoca": "1996-2000",
-  "arquetipo": "Sedã 4x4 turbo do fim dos anos 90",
+  "ano": 1997,
+  "carroceria": "cupe",
+  "arquetipo": "Cupê 4x4 turbo",
   "motor": "2.0 turbo",
   "tracao": "AWD",
   "numero": 42,
   "modelo": "carros/temporal.glb",
   "fisica": {
-    "massa": 1300,
+    "massa": 1270,
     "dimensoes": [
-      4.45,
+      4.67,
       1.76,
-      1.46
+      1.36
     ],
     "centroMassa": [
       0,
-      0.42,
+      0.38,
       0.08
     ],
-    "eixoDianteiro": 1.31,
-    "eixoTraseiro": -1.31,
+    "eixoDianteiro": 1.28,
+    "eixoTraseiro": -1.28,
     "bitolaDianteira": 1.54,
     "bitolaTraseira": 1.52,
     "raioRoda": 0.31,
     "potencia": 158000,
     "tracaoDianteira": 0.4,
+    "arrasto": 0.96,
     "diferencial": 4.3,
     "rpmCorte": 7000,
     "cascas": [
       [
         0.86,
-        0.26,
-        2.22,
+        0.25,
+        2.33,
         0,
-        0.52,
-        0.05
+        0.5,
+        -0.04
       ],
       [
-        0.67,
-        0.24,
-        0.84,
+        0.66,
+        0.25,
+        0.8,
         0,
-        1.16,
-        -0.34
+        1.12,
+        -0.5
       ]
     ]
   },
   "forma": {
     "tipo": "sedan",
-    "yFrente": -2.28,
-    "yTras": 2.17,
+    "carroceria": "cupe",
+    "yFrente": -2.293,
+    "yTras": 2.377,
     "larg": 0.83,
     "alarg": 0.05,
-    "zBaixo": 0.22,
+    "zBaixo": 0.21,
     "perfil": [
       [
-        -2.28,
-        0.624
+        -2.293,
+        0.6
       ],
       [
-        -2.01,
-        0.704
+        -2.023,
+        0.68
       ],
       [
-        -0.83,
-        0.854
+        -0.68,
+        0.83
       ],
       [
-        0.34,
-        0.902
+        0.504,
+        0.878
       ],
       [
-        1.51,
-        0.934
+        1.688,
+        0.91
       ],
       [
-        2.17,
-        0.934
+        2.377,
+        0.91
       ]
     ],
     "cabine": {
-      "pe": -0.83,
-      "topoD": -0.05,
-      "topoT": 0.96,
-      "peT": 1.51,
-      "teto": 1.46,
+      "pe": -0.68,
+      "topoD": 0.2,
+      "topoT": 1.018,
+      "peT": 1.688,
+      "teto": 1.36,
       "largBase": 0.78,
-      "largTopo": 0.63
+      "largTopo": 0.61,
+      "vidros": [
+        [
+          -0.94,
+          0.007
+        ],
+        [
+          0.097,
+          0.84
+        ]
+      ]
     },
+    "frestas": [
+      -0.62,
+      0.58
+    ],
+    "portas": 2,
     "farol": {
       "tipo": "oval",
-      "z": 0.574,
+      "z": 0.55,
       "x": 0.59,
       "w": 0.3,
       "h": 0.14
     },
     "lanterna": {
-      "z": 0.789,
+      "z": 0.765,
       "x": 0.65,
       "w": 0.22,
       "h": 0.15

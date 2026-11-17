@@ -1,0 +1,165 @@
+{
+  "id": "cuscuz",
+  "nome": "Cuscuz 1.4",
+  "classe": "C1",
+  "ano": 1996,
+  "carroceria": "picape",
+  "arquetipo": "Picape compacta",
+  "motor": "1.4 aspirado",
+  "tracao": "FWD",
+  "numero": 2,
+  "modelo": "carros/cuscuz.glb",
+  "fisica": {
+    "massa": 1060,
+    "dimensoes": [
+      4.26,
+      1.6,
+      1.56
+    ],
+    "centroMassa": [
+      0,
+      0.52,
+      0.1
+    ],
+    "eixoDianteiro": 1.32,
+    "eixoTraseiro": -1.32,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.305,
+    "potencia": 68000,
+    "tracaoDianteira": 1,
+    "arrasto": 1.06,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 4,
+    "rpmCorte": 7000,
+    "cascas": [
+      [
+        0.78,
+        0.27,
+        2.12,
+        0,
+        0.59,
+        -0.1
+      ],
+      [
+        0.64,
+        0.29,
+        0.52,
+        0,
+        1.27,
+        0
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "picape",
+    "carroceria": "picape",
+    "yFrente": -2.033,
+    "yTras": 2.227,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.28,
+    "perfil": [
+      [
+        -2.033,
+        0.729
+      ],
+      [
+        -1.733,
+        0.829
+      ],
+      [
+        -0.7,
+        0.959
+      ],
+      [
+        0.5,
+        0.999
+      ],
+      [
+        2.227,
+        0.999
+      ]
+    ],
+    "cabine": {
+      "pe": -0.7,
+      "topoD": -0.02,
+      "topoT": 0.65,
+      "peT": 0.7,
+      "teto": 1.56,
+      "largBase": 0.73,
+      "largTopo": 0.63,
+      "vidros": [
+        [
+          -0.94,
+          0.566
+        ]
+      ]
+    },
+    "frestas": [
+      -0.64,
+      0.48
+    ],
+    "portas": 2,
+    "cacamba": {
+      "y0": 0.78,
+      "fundo": 0.549,
+      "pilar": 0.26
+    },
+    "farol": {
+      "tipo": "oval",
+      "z": 0.679,
+      "x": 0.54,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.809,
+      "x": 0.69,
+      "w": 0.12,
+      "h": 0.26
+    },
+    "cores": {
+      "pintura": [
+        0.92,
+        0.88,
+        0.8
+      ],
+      "secundaria": [
+        0.15,
+        0.4,
+        0.7
+      ],
+      "terciaria": [
+        0.85,
+        0.12,
+        0.08
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.15,
+        0.4,
+        0.7
+      ]
+    },
+    "pintura": "listras",
+    "parachoque": "escuro",
+    "rodaLargura": 0.18,
+    "raios": 5,
+    "extras": [
+      "santo_antonio",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

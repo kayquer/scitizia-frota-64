@@ -1,0 +1,162 @@
+{
+  "id": "borralho",
+  "nome": "Borralho 30",
+  "classe": "C3",
+  "ano": 2000,
+  "carroceria": "furgao",
+  "arquetipo": "Furgão de tração traseira preparado",
+  "motor": "3.0 aspirado",
+  "tracao": "RWD",
+  "numero": 34,
+  "modelo": "carros/borralho.glb",
+  "fisica": {
+    "massa": 1200,
+    "dimensoes": [
+      4.77,
+      1.7,
+      1.74
+    ],
+    "centroMassa": [
+      0,
+      0.58,
+      0
+    ],
+    "eixoDianteiro": 1.28,
+    "eixoTraseiro": -1.28,
+    "bitolaDianteira": 1.42,
+    "bitolaTraseira": 1.4,
+    "raioRoda": 0.31,
+    "potencia": 128000,
+    "tracaoDianteira": 0,
+    "arrasto": 1.25,
+    "marchas": [
+      3.3,
+      2.1,
+      1.5,
+      1.15,
+      0.92
+    ],
+    "diferencial": 4.2,
+    "rpmCorte": 7600,
+    "cascas": [
+      [
+        0.83,
+        0.26,
+        2.38,
+        0,
+        0.55,
+        0
+      ],
+      [
+        0.73,
+        0.41,
+        1.54,
+        0,
+        1.33,
+        -0.64
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "furgao",
+    "yFrente": -2.385,
+    "yTras": 2.385,
+    "larg": 0.81,
+    "alarg": 0.04,
+    "zBaixo": 0.25,
+    "perfil": [
+      [
+        -2.385,
+        0.706
+      ],
+      [
+        -2.115,
+        0.786
+      ],
+      [
+        -1.06,
+        0.913
+      ],
+      [
+        0.862,
+        0.927
+      ],
+      [
+        2.385,
+        0.933
+      ]
+    ],
+    "cabine": {
+      "pe": -1.06,
+      "topoD": -0.44,
+      "topoT": 2.305,
+      "peT": 2.345,
+      "teto": 1.74,
+      "largBase": 0.79,
+      "largTopo": 0.74,
+      "vidros": [
+        [
+          -0.94,
+          -0.438
+        ]
+      ]
+    },
+    "frestas": [
+      -0.79,
+      0.16,
+      0.83
+    ],
+    "portas": 4,
+    "corredica": true,
+    "farol": {
+      "tipo": "oval",
+      "z": 0.656,
+      "x": 0.57,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.683,
+      "x": 0.68,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.35,
+        0.35,
+        0.38
+      ],
+      "secundaria": [
+        0.95,
+        0.5,
+        0.08
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.95,
+        0.5,
+        0.08
+      ],
+      "pinca": [
+        0.95,
+        0.5,
+        0.08
+      ]
+    },
+    "pintura": "meio",
+    "parachoque": "escuro",
+    "rodaLargura": 0.2,
+    "raios": 5,
+    "extras": [
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

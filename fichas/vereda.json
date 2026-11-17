@@ -1,0 +1,174 @@
+{
+  "id": "vereda",
+  "nome": "Vereda 30",
+  "classe": "C7",
+  "ano": 2004,
+  "carroceria": "minivan",
+  "arquetipo": "Minivan 4x4 de rali cross-country",
+  "motor": "3.0 turbodiesel",
+  "tracao": "AWD",
+  "numero": 77,
+  "modelo": "carros/vereda.glb",
+  "fisica": {
+    "massa": 1810,
+    "dimensoes": [
+      4.85,
+      1.98,
+      1.82
+    ],
+    "centroMassa": [
+      0,
+      0.61,
+      0.1
+    ],
+    "eixoDianteiro": 1.48,
+    "eixoTraseiro": -1.48,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.39,
+    "curso": 0.42,
+    "potencia": 185000,
+    "tracaoDianteira": 0.55,
+    "arrasto": 1.38,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.6,
+    "rpmCorte": 6400,
+    "cascas": [
+      [
+        0.97,
+        0.26,
+        2.42,
+        0,
+        0.66,
+        0.15
+      ],
+      [
+        0.79,
+        0.37,
+        1.45,
+        0,
+        1.45,
+        -0.44
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "minivan",
+    "yFrente": -2.576,
+    "yTras": 2.274,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.36,
+    "perfil": [
+      [
+        -2.576,
+        0.762
+      ],
+      [
+        -2.306,
+        0.842
+      ],
+      [
+        -1.33,
+        1.037
+      ],
+      [
+        0.672,
+        1.097
+      ],
+      [
+        2.274,
+        1.127
+      ]
+    ],
+    "cabine": {
+      "pe": -1.33,
+      "topoD": -0.18,
+      "topoT": 2.074,
+      "peT": 2.214,
+      "teto": 1.82,
+      "largBase": 0.875,
+      "largTopo": 0.785,
+      "vidros": [
+        [
+          -0.94,
+          -0.485
+        ],
+        [
+          -0.395,
+          0.138
+        ],
+        [
+          0.228,
+          0.94
+        ]
+      ]
+    },
+    "frestas": [
+      -0.91,
+      0.04,
+      0.95
+    ],
+    "portas": 4,
+    "corredica": true,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.712,
+      "x": 0.67,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.877,
+      "x": 0.78,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.6,
+        0.5,
+        0.35
+      ],
+      "secundaria": [
+        0.2,
+        0.3,
+        0.18
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.85,
+        0.75,
+        0.5
+      ],
+      "pinca": [
+        0.2,
+        0.3,
+        0.18
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "cor",
+    "rodaLargura": 0.28,
+    "raios": 6,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "bagageiro",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

@@ -2,89 +2,106 @@
   "id": "procela",
   "nome": "Procela 25",
   "classe": "C6",
-  "epoca": "2001-2005",
-  "arquetipo": "Monstro sem restrição sobre base de hatch do começo dos anos 2000",
+  "ano": 2003,
+  "carroceria": "conversivel",
+  "arquetipo": "Monstro sem restrição sobre base de conversível",
   "motor": "2.5 turbo",
   "tracao": "AWD",
   "numero": 64,
   "modelo": "carros/procela.glb",
   "fisica": {
-    "massa": 1170,
+    "massa": 1200,
     "dimensoes": [
       4.07,
       1.9,
-      1.33
+      1.14
     ],
     "centroMassa": [
       0,
-      0.4,
+      0.33,
       0
     ],
-    "eixoDianteiro": 1.24,
-    "eixoTraseiro": -1.24,
+    "eixoDianteiro": 1.21,
+    "eixoTraseiro": -1.21,
     "bitolaDianteira": 1.66,
     "bitolaTraseira": 1.64,
     "raioRoda": 0.31,
     "potencia": 248000,
     "tracaoDianteira": 0.35,
+    "arrasto": 1.03,
     "diferencial": 4.5,
     "rpmCorte": 8000,
     "cascas": [
       [
         0.93,
-        0.25,
+        0.27,
         2.03,
         0,
-        0.47,
-        0.05
+        0.48,
+        0
       ],
       [
         0.66,
-        0.24,
-        0.91,
+        0.16,
+        0.53,
         0,
-        1.03,
-        -0.41
+        1.02,
+        -0.02
       ]
     ]
   },
   "forma": {
-    "tipo": "hatch",
-    "yFrente": -2.083,
-    "yTras": 1.987,
+    "tipo": "sedan",
+    "carroceria": "conversivel",
+    "yFrente": -2.035,
+    "yTras": 2.035,
     "larg": 0.82,
     "alarg": 0.13,
-    "zBaixo": 0.18,
+    "zBaixo": 0.17,
     "perfil": [
       [
-        -2.083,
+        -2.035,
         0.6
       ],
       [
-        -1.813,
+        -1.765,
         0.68
       ],
       [
-        -0.82,
+        -0.71,
         0.82
       ],
       [
-        0.784,
-        0.879
+        0.015,
+        0.874
       ],
       [
-        1.987,
+        0.74,
+        0.91
+      ],
+      [
+        2.035,
         0.91
       ]
     ],
     "cabine": {
-      "pe": -0.82,
-      "topoD": 0.1,
-      "topoT": 1.267,
-      "peT": 1.647,
-      "teto": 1.33,
+      "pe": -0.71,
+      "topoD": 0.06,
+      "topoT": 0.74,
+      "peT": 0.74,
+      "teto": 1.18,
       "largBase": 0.77,
       "largTopo": 0.63
+    },
+    "frestas": [
+      -0.65,
+      0.45
+    ],
+    "portas": 2,
+    "cockpit": {
+      "y0": -0.66,
+      "y1": 0.74,
+      "fundo": 0.48
     },
     "farol": {
       "tipo": "gota",
@@ -132,7 +149,6 @@
     "raios": 6,
     "extras": [
       "aerofolio_alto",
-      "entrada_teto",
       "tomada_capo",
       "para_barro",
       "farol_aux4",

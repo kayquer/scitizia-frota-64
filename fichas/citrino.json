@@ -1,0 +1,164 @@
+{
+  "id": "citrino",
+  "nome": "Citrino 16",
+  "classe": "C5",
+  "ano": 2006,
+  "carroceria": "suv",
+  "arquetipo": "Protótipo de rali sobre base de utilitário esportivo",
+  "motor": "1.6 turbo",
+  "tracao": "AWD",
+  "numero": 57,
+  "modelo": "carros/citrino.glb",
+  "fisica": {
+    "massa": 1270,
+    "dimensoes": [
+      4.03,
+      1.72,
+      1.58
+    ],
+    "centroMassa": [
+      0,
+      0.57,
+      0.05
+    ],
+    "eixoDianteiro": 1.26,
+    "eixoTraseiro": -1.26,
+    "bitolaDianteira": 1.49,
+    "bitolaTraseira": 1.47,
+    "raioRoda": 0.335,
+    "potencia": 178000,
+    "tracaoDianteira": 0.35,
+    "arrasto": 1.18,
+    "diferencial": 4.1,
+    "rpmCorte": 7600,
+    "cascas": [
+      [
+        0.84,
+        0.35,
+        2.01,
+        0,
+        0.65,
+        0
+      ],
+      [
+        0.63,
+        0.23,
+        1.13,
+        0,
+        1.35,
+        -0.59
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "suv",
+    "yFrente": -2.015,
+    "yTras": 2.015,
+    "larg": 0.76,
+    "alarg": 0.1,
+    "zBaixo": 0.26,
+    "perfil": [
+      [
+        -2.015,
+        0.867
+      ],
+      [
+        -1.745,
+        0.947
+      ],
+      [
+        -0.76,
+        1.067
+      ],
+      [
+        0.828,
+        1.146
+      ],
+      [
+        2.015,
+        1.187
+      ]
+    ],
+    "cabine": {
+      "pe": -0.76,
+      "topoD": 0,
+      "topoT": 1.835,
+      "peT": 1.935,
+      "teto": 1.58,
+      "largBase": 0.71,
+      "largTopo": 0.62,
+      "vidros": [
+        [
+          -0.94,
+          -0.615
+        ],
+        [
+          -0.525,
+          -0.006
+        ],
+        [
+          0.084,
+          0.92
+        ]
+      ]
+    },
+    "frestas": [
+      -0.7,
+      0.087,
+      0.785
+    ],
+    "portas": 4,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.817,
+      "x": 0.48,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.937,
+      "x": 0.63,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.95,
+        0.72,
+        0.15
+      ],
+      "secundaria": [
+        0.12,
+        0.12,
+        0.14
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "pinca": [
+        0.12,
+        0.12,
+        0.14
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.22,
+    "raios": 6,
+    "extras": [
+      "protetores",
+      "entrada_teto",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

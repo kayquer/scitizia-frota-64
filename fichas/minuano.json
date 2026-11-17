@@ -2,90 +2,113 @@
   "id": "minuano",
   "nome": "Minuano 23",
   "classe": "C6",
-  "epoca": "1996-2000",
-  "arquetipo": "Monstro sem restrição sobre base de hatch do fim dos anos 90",
+  "ano": 1996,
+  "carroceria": "sedan",
+  "arquetipo": "Monstro sem restrição sobre base de sedã",
   "motor": "2.3 turbo",
   "tracao": "AWD",
   "numero": 62,
   "modelo": "carros/minuano.glb",
   "fisica": {
-    "massa": 1130,
+    "massa": 1180,
     "dimensoes": [
-      3.95,
+      4.38,
       1.86,
-      1.33
+      1.3
     ],
     "centroMassa": [
       0,
-      0.4,
+      0.39,
       0
     ],
-    "eixoDianteiro": 1.2,
-    "eixoTraseiro": -1.2,
+    "eixoDianteiro": 1.25,
+    "eixoTraseiro": -1.25,
     "bitolaDianteira": 1.62,
     "bitolaTraseira": 1.6,
     "raioRoda": 0.31,
     "potencia": 207000,
     "tracaoDianteira": 0.4,
+    "arrasto": 0.98,
     "diferencial": 4.4,
     "rpmCorte": 8200,
     "cascas": [
       [
         0.91,
-        0.26,
-        1.97,
+        0.27,
+        2.18,
         0,
-        0.48,
-        0.05
+        0.49,
+        -0.11
       ],
       [
         0.64,
-        0.24,
-        0.89,
+        0.22,
+        0.81,
         0,
-        1.03,
-        -0.4
+        1.09,
+        -0.35
       ]
     ]
   },
   "forma": {
-    "tipo": "hatch",
-    "yFrente": -2.021,
-    "yTras": 1.929,
+    "tipo": "sedan",
+    "carroceria": "sedan",
+    "yFrente": -2.077,
+    "yTras": 2.303,
     "larg": 0.8,
     "alarg": 0.13,
     "zBaixo": 0.18,
     "perfil": [
       [
-        -2.021,
+        -2.077,
         0.6
       ],
       [
-        -1.751,
+        -1.807,
         0.68
       ],
       [
-        -0.78,
+        -0.77,
         0.83
       ],
       [
-        0.775,
-        0.883
+        0.35,
+        0.878
       ],
       [
-        1.929,
+        1.469,
+        0.91
+      ],
+      [
+        2.303,
         0.91
       ]
     ],
     "cabine": {
-      "pe": -0.78,
-      "topoD": 0,
-      "topoT": 1.189,
-      "peT": 1.589,
-      "teto": 1.33,
+      "pe": -0.77,
+      "topoD": 0.01,
+      "topoT": 1.001,
+      "peT": 1.469,
+      "teto": 1.3,
       "largBase": 0.75,
-      "largTopo": 0.6
+      "largTopo": 0.6,
+      "vidros": [
+        [
+          -0.94,
+          -0.439
+        ],
+        [
+          -0.349,
+          0.88
+        ]
+      ]
     },
+    "frestas": [
+      -0.71,
+      0.09,
+      0.8
+    ],
+    "portas": 4,
     "farol": {
       "tipo": "oval",
       "z": 0.55,

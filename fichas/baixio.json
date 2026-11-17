@@ -1,0 +1,168 @@
+{
+  "id": "baixio",
+  "nome": "Baixio 28",
+  "classe": "C7",
+  "ano": 1996,
+  "carroceria": "hatch",
+  "arquetipo": "Hatch elevado 4x4 de rali cross-country",
+  "motor": "2.8 turbodiesel",
+  "tracao": "AWD",
+  "numero": 78,
+  "modelo": "carros/baixio.glb",
+  "fisica": {
+    "massa": 1680,
+    "dimensoes": [
+      4.16,
+      1.98,
+      1.75
+    ],
+    "centroMassa": [
+      0,
+      0.61,
+      0.1
+    ],
+    "eixoDianteiro": 1.27,
+    "eixoTraseiro": -1.27,
+    "bitolaDianteira": 1.69,
+    "bitolaTraseira": 1.67,
+    "raioRoda": 0.39,
+    "curso": 0.42,
+    "potencia": 181000,
+    "tracaoDianteira": 0.45,
+    "arrasto": 1.3,
+    "marchas": [
+      3.8,
+      2.4,
+      1.6,
+      1.2,
+      0.95
+    ],
+    "diferencial": 4.65,
+    "rpmCorte": 6000,
+    "cascas": [
+      [
+        0.97,
+        0.25,
+        2.07,
+        0,
+        0.67,
+        0.08
+      ],
+      [
+        0.74,
+        0.34,
+        1.02,
+        0,
+        1.41,
+        -0.58
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "carroceria": "hatch",
+    "yFrente": -2.161,
+    "yTras": 1.999,
+    "larg": 0.91,
+    "alarg": 0.08,
+    "zBaixo": 0.38,
+    "perfil": [
+      [
+        -2.161,
+        0.794
+      ],
+      [
+        -1.891,
+        0.874
+      ],
+      [
+        -0.77,
+        1.024
+      ],
+      [
+        0.815,
+        1.077
+      ],
+      [
+        1.999,
+        1.104
+      ]
+    ],
+    "cabine": {
+      "pe": -0.77,
+      "topoD": 0.01,
+      "topoT": 1.399,
+      "peT": 1.939,
+      "teto": 1.75,
+      "largBase": 0.86,
+      "largTopo": 0.71,
+      "vidros": [
+        [
+          -0.94,
+          -0.243
+        ],
+        [
+          -0.153,
+          0.9
+        ]
+      ]
+    },
+    "frestas": [
+      -0.7,
+      0.42
+    ],
+    "portas": 2,
+    "farol": {
+      "tipo": "oval",
+      "z": 0.744,
+      "x": 0.67,
+      "w": 0.3,
+      "h": 0.14
+    },
+    "lanterna": {
+      "z": 0.959,
+      "x": 0.73,
+      "w": 0.22,
+      "h": 0.15
+    },
+    "cores": {
+      "pintura": [
+        0.2,
+        0.4,
+        0.6
+      ],
+      "secundaria": [
+        0.95,
+        0.8,
+        0.1
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "pinca": [
+        0.95,
+        0.8,
+        0.1
+      ]
+    },
+    "pintura": "diagonal",
+    "parachoque": "escuro",
+    "rodaLargura": 0.28,
+    "raios": 5,
+    "extras": [
+      "quebra_mato",
+      "snorkel",
+      "estepe_traseiro",
+      "farol_aux_teto",
+      "para_barro",
+      "escape"
+    ]
+  }
+}

@@ -2,31 +2,33 @@
   "id": "chispa",
   "nome": "Chispa 18",
   "classe": "C2",
-  "epoca": "1990-1995",
-  "arquetipo": "Hatch esportivo preparado (kit car) do começo dos anos 90",
+  "ano": 1995,
+  "carroceria": "cupe",
+  "arquetipo": "Cupê esportivo preparado (kit car)",
   "motor": "1.8 aspirado",
   "tracao": "FWD",
   "numero": 18,
   "modelo": "carros/chispa.glb",
   "fisica": {
-    "massa": 1000,
+    "massa": 980,
     "dimensoes": [
-      3.9,
+      4.1,
       1.78,
-      1.39
+      1.29
     ],
     "centroMassa": [
       0,
-      0.41,
+      0.37,
       0.1
     ],
-    "eixoDianteiro": 1.23,
-    "eixoTraseiro": -1.23,
+    "eixoDianteiro": 1.21,
+    "eixoTraseiro": -1.21,
     "bitolaDianteira": 1.56,
     "bitolaTraseira": 1.54,
     "raioRoda": 0.3,
     "potencia": 106000,
     "tracaoDianteira": 1,
+    "arrasto": 0.96,
     "marchas": [
       3.1,
       2.2,
@@ -40,69 +42,89 @@
     "cascas": [
       [
         0.87,
-        0.27,
-        1.94,
+        0.25,
+        2.04,
         0,
-        0.48,
-        0.04
+        0.45,
+        -0.03
       ],
       [
-        0.66,
-        0.24,
-        1.13,
+        0.65,
+        0.25,
+        0.73,
         0,
-        1.09,
-        -0.52
+        1.04,
+        -0.43
       ]
     ]
   },
   "forma": {
-    "tipo": "hatch",
-    "yFrente": -1.993,
-    "yTras": 1.907,
+    "tipo": "sedan",
+    "carroceria": "cupe",
+    "yFrente": -2.016,
+    "yTras": 2.084,
     "larg": 0.8,
     "alarg": 0.09,
-    "zBaixo": 0.17,
+    "zBaixo": 0.16,
     "perfil": [
       [
-        -1.993,
-        0.674
+        -2.016,
+        0.614
       ],
       [
-        -1.723,
-        0.754
+        -1.746,
+        0.694
       ],
       [
-        -0.81,
-        0.834
+        -0.61,
+        0.774
       ],
       [
-        0.749,
-        0.867
+        0.435,
+        0.804
       ],
       [
-        1.907,
-        0.884
+        1.479,
+        0.824
+      ],
+      [
+        2.084,
+        0.824
       ]
     ],
     "cabine": {
-      "pe": -0.81,
-      "topoD": -0.21,
-      "topoT": 1.647,
-      "peT": 1.847,
-      "teto": 1.39,
+      "pe": -0.61,
+      "topoD": 0.09,
+      "topoT": 0.939,
+      "peT": 1.479,
+      "teto": 1.29,
       "largBase": 0.75,
-      "largTopo": 0.65
+      "largTopo": 0.63,
+      "vidros": [
+        [
+          -0.94,
+          0.21
+        ],
+        [
+          0.3,
+          0.84
+        ]
+      ]
     },
+    "frestas": [
+      -0.55,
+      0.65
+    ],
+    "portas": 2,
     "farol": {
       "tipo": "ret",
-      "z": 0.644,
+      "z": 0.584,
       "x": 0.49,
       "w": 0.3,
       "h": 0.085
     },
     "lanterna": {
-      "z": 0.764,
+      "z": 0.704,
       "x": 0.58,
       "w": 0.3,
       "h": 0.1

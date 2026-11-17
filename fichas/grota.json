@@ -2,8 +2,9 @@
   "id": "grota",
   "nome": "Grota 35",
   "classe": "C7",
-  "epoca": "2001-2005",
-  "arquetipo": "Picape cabine dupla de rali cross-country do começo dos anos 2000",
+  "ano": 2001,
+  "carroceria": "picape",
+  "arquetipo": "Picape cabine dupla de rali cross-country",
   "motor": "3.0 turbodiesel",
   "tracao": "AWD",
   "numero": 74,
@@ -94,6 +95,11 @@
       "teto": 1.9,
       "largBase": 0.86,
       "largTopo": 0.76
+    },
+    "cacamba": {
+      "y0": 1.1,
+      "fundo": 0.787,
+      "pilar": 0.26
     },
     "farol": {
       "tipo": "gota",

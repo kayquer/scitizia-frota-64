@@ -1,0 +1,162 @@
+{
+  "id": "canjica",
+  "nome": "Canjica 1.6",
+  "classe": "C1",
+  "ano": 2001,
+  "carroceria": "conversivel",
+  "arquetipo": "Conversível compacto",
+  "motor": "1.6 aspirado",
+  "tracao": "FWD",
+  "numero": 3,
+  "modelo": "carros/canjica.glb",
+  "fisica": {
+    "massa": 1000,
+    "dimensoes": [
+      3.51,
+      1.6,
+      1.22
+    ],
+    "centroMassa": [
+      0,
+      0.35,
+      0.1
+    ],
+    "eixoDianteiro": 1.12,
+    "eixoTraseiro": -1.12,
+    "bitolaDianteira": 1.41,
+    "bitolaTraseira": 1.39,
+    "raioRoda": 0.29,
+    "potencia": 73000,
+    "tracaoDianteira": 1,
+    "arrasto": 0.98,
+    "marchas": [
+      3.45,
+      2.1,
+      1.45,
+      1.1,
+      0.89
+    ],
+    "diferencial": 4.05,
+    "rpmCorte": 6600,
+    "cascas": [
+      [
+        0.78,
+        0.27,
+        1.75,
+        0,
+        0.52,
+        0
+      ],
+      [
+        0.62,
+        0.16,
+        0.45,
+        0,
+        1.06,
+        -0.03
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "sedan",
+    "carroceria": "conversivel",
+    "yFrente": -1.755,
+    "yTras": 1.755,
+    "larg": 0.78,
+    "alarg": 0.02,
+    "zBaixo": 0.21,
+    "perfil": [
+      [
+        -1.755,
+        0.634
+      ],
+      [
+        -1.485,
+        0.714
+      ],
+      [
+        -0.62,
+        0.854
+      ],
+      [
+        0.025,
+        0.908
+      ],
+      [
+        0.67,
+        0.944
+      ],
+      [
+        1.755,
+        0.944
+      ]
+    ],
+    "cabine": {
+      "pe": -0.62,
+      "topoD": 0.15,
+      "topoT": 0.67,
+      "peT": 0.67,
+      "teto": 1.214,
+      "largBase": 0.73,
+      "largTopo": 0.59
+    },
+    "frestas": [
+      -0.56,
+      0.54
+    ],
+    "portas": 2,
+    "cockpit": {
+      "y0": -0.57,
+      "y1": 0.67,
+      "fundo": 0.514
+    },
+    "farol": {
+      "tipo": "gota",
+      "z": 0.584,
+      "x": 0.54,
+      "w": 0.3,
+      "h": 0.15
+    },
+    "lanterna": {
+      "z": 0.754,
+      "x": 0.64,
+      "w": 0.14,
+      "h": 0.24
+    },
+    "cores": {
+      "pintura": [
+        0.95,
+        0.85,
+        0.55
+      ],
+      "secundaria": [
+        0.55,
+        0.12,
+        0.12
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.85,
+        0.85,
+        0.87
+      ],
+      "pinca": [
+        0.55,
+        0.12,
+        0.12
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "cor",
+    "rodaLargura": 0.18,
+    "raios": 6,
+    "extras": [
+      "para_barro",
+      "escape"
+    ]
+  }
+}

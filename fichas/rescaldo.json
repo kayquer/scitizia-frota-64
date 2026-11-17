@@ -1,0 +1,170 @@
+{
+  "id": "rescaldo",
+  "nome": "Rescaldo 32",
+  "classe": "C3",
+  "ano": 2006,
+  "carroceria": "suv",
+  "arquetipo": "Utilitário esportivo de tração traseira",
+  "motor": "3.2 aspirado",
+  "tracao": "RWD",
+  "numero": 36,
+  "modelo": "carros/rescaldo.glb",
+  "fisica": {
+    "massa": 1180,
+    "dimensoes": [
+      4.4,
+      1.7,
+      1.51
+    ],
+    "centroMassa": [
+      0,
+      0.54,
+      0
+    ],
+    "eixoDianteiro": 1.25,
+    "eixoTraseiro": -1.25,
+    "bitolaDianteira": 1.42,
+    "bitolaTraseira": 1.4,
+    "raioRoda": 0.325,
+    "potencia": 133000,
+    "tracaoDianteira": 0,
+    "arrasto": 1.18,
+    "marchas": [
+      3.3,
+      2.1,
+      1.5,
+      1.15,
+      0.92
+    ],
+    "diferencial": 4.05,
+    "rpmCorte": 7400,
+    "cascas": [
+      [
+        0.83,
+        0.31,
+        2.19,
+        0,
+        0.63,
+        0
+      ],
+      [
+        0.68,
+        0.22,
+        1.22,
+        0,
+        1.29,
+        -0.68
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "suv",
+    "carroceria": "suv",
+    "yFrente": -2.2,
+    "yTras": 2.2,
+    "larg": 0.81,
+    "alarg": 0.04,
+    "zBaixo": 0.28,
+    "perfil": [
+      [
+        -2.2,
+        0.819
+      ],
+      [
+        -1.93,
+        0.899
+      ],
+      [
+        -0.75,
+        1.019
+      ],
+      [
+        0.925,
+        1.098
+      ],
+      [
+        2.2,
+        1.139
+      ]
+    ],
+    "cabine": {
+      "pe": -0.75,
+      "topoD": 0.01,
+      "topoT": 2.02,
+      "peT": 2.12,
+      "teto": 1.51,
+      "largBase": 0.76,
+      "largTopo": 0.67,
+      "vidros": [
+        [
+          -0.94,
+          -0.65
+        ],
+        [
+          -0.56,
+          -0.087
+        ],
+        [
+          0.003,
+          0.92
+        ]
+      ]
+    },
+    "frestas": [
+      -0.69,
+      0.092,
+      0.785
+    ],
+    "portas": 4,
+    "farol": {
+      "tipo": "gota",
+      "z": 0.769,
+      "x": 0.53,
+      "w": 0.38,
+      "h": 0.16
+    },
+    "lanterna": {
+      "z": 0.889,
+      "x": 0.68,
+      "w": 0.14,
+      "h": 0.3
+    },
+    "cores": {
+      "pintura": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "secundaria": [
+        0.85,
+        0.65,
+        0.2
+      ],
+      "terciaria": [
+        0.94,
+        0.94,
+        0.92
+      ],
+      "aro": [
+        0.85,
+        0.65,
+        0.2
+      ],
+      "pinca": [
+        0.85,
+        0.65,
+        0.2
+      ]
+    },
+    "pintura": "pontas",
+    "parachoque": "cor",
+    "rodaLargura": 0.2,
+    "raios": 0,
+    "extras": [
+      "protetores",
+      "para_barro",
+      "farol_aux4",
+      "escape"
+    ]
+  }
+}

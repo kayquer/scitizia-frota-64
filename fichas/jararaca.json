@@ -2,7 +2,8 @@
   "id": "jararaca",
   "nome": "Jararaca 30",
   "classe": "C7",
-  "epoca": "1990-1995",
+  "ano": 1995,
+  "carroceria": "picape",
   "arquetipo": "Picape de rali cross-country",
   "motor": "3.0 V6 turbo",
   "cilindros": 6,
@@ -95,6 +96,11 @@
       "teto": 1.86,
       "largBase": 0.86,
       "largTopo": 0.74
+    },
+    "cacamba": {
+      "y0": 0.53,
+      "fundo": 0.77,
+      "pilar": 0.26
     },
     "farol": {
       "tipo": "ret",

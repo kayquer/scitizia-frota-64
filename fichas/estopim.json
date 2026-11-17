@@ -2,31 +2,33 @@
   "id": "estopim",
   "nome": "Estopim 1.8",
   "classe": "C2",
-  "epoca": "2001-2005",
-  "arquetipo": "Hatch esportivo preparado (kit car) do começo dos anos 2000",
+  "ano": 2002,
+  "carroceria": "perua",
+  "arquetipo": "Perua esportiva preparada (kit car)",
   "motor": "1.8 aspirado",
   "tracao": "FWD",
   "numero": 19,
   "modelo": "carros/estopim.glb",
   "fisica": {
-    "massa": 980,
+    "massa": 1050,
     "dimensoes": [
-      3.9,
+      4.37,
       1.78,
-      1.36
+      1.39
     ],
     "centroMassa": [
       0,
-      0.4,
+      0.41,
       0.1
     ],
-    "eixoDianteiro": 1.23,
-    "eixoTraseiro": -1.23,
+    "eixoDianteiro": 1.29,
+    "eixoTraseiro": -1.29,
     "bitolaDianteira": 1.56,
     "bitolaTraseira": 1.54,
     "raioRoda": 0.3,
     "potencia": 117000,
     "tracaoDianteira": 1,
+    "arrasto": 1.04,
     "marchas": [
       3.1,
       2.2,
@@ -40,69 +42,90 @@
     "cascas": [
       [
         0.87,
-        0.26,
-        1.94,
+        0.27,
+        2.18,
         0,
-        0.47,
-        0.04
+        0.48,
+        -0.07
       ],
       [
         0.64,
-        0.24,
-        1.02,
+        0.26,
+        1.23,
         0,
-        1.06,
-        -0.52
+        1.13,
+        -0.67
       ]
     ]
   },
   "forma": {
-    "tipo": "hatch",
-    "yFrente": -1.993,
-    "yTras": 1.907,
+    "tipo": "sedan",
+    "carroceria": "perua",
+    "yFrente": -2.113,
+    "yTras": 2.257,
     "larg": 0.8,
     "alarg": 0.09,
     "zBaixo": 0.17,
     "perfil": [
       [
-        -1.993,
-        0.596
+        -2.113,
+        0.614
       ],
       [
-        -1.723,
-        0.676
+        -1.843,
+        0.694
       ],
       [
-        -0.81,
-        0.816
+        -0.83,
+        0.834
       ],
       [
-        0.749,
-        0.875
+        0.914,
+        0.893
       ],
       [
-        1.907,
-        0.906
+        2.257,
+        0.924
       ]
     ],
     "cabine": {
-      "pe": -0.81,
-      "topoD": 0.11,
-      "topoT": 1.547,
-      "peT": 1.847,
-      "teto": 1.36,
+      "pe": -0.83,
+      "topoD": 0.09,
+      "topoT": 2.017,
+      "peT": 2.177,
+      "teto": 1.39,
       "largBase": 0.75,
-      "largTopo": 0.61
+      "largTopo": 0.61,
+      "vidros": [
+        [
+          -0.94,
+          -0.656
+        ],
+        [
+          -0.566,
+          -0.045
+        ],
+        [
+          0.045,
+          0.92
+        ]
+      ]
     },
+    "frestas": [
+      -0.77,
+      0.089,
+      0.85
+    ],
+    "portas": 4,
     "farol": {
       "tipo": "gota",
-      "z": 0.546,
+      "z": 0.564,
       "x": 0.56,
       "w": 0.3,
       "h": 0.15
     },
     "lanterna": {
-      "z": 0.716,
+      "z": 0.734,
       "x": 0.66,
       "w": 0.14,
       "h": 0.24
@@ -140,6 +163,7 @@
     "raios": 5,
     "extras": [
       "aerofolio_teto",
+      "bagageiro",
       "para_barro",
       "farol_aux2",
       "escape"

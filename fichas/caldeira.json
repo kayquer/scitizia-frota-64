@@ -1,0 +1,165 @@
+{
+  "id": "caldeira",
+  "nome": "Caldeira 28",
+  "classe": "C3",
+  "ano": 1995,
+  "carroceria": "hatch",
+  "arquetipo": "Hatch de tração traseira",
+  "motor": "2.8 aspirado",
+  "tracao": "RWD",
+  "numero": 33,
+  "modelo": "carros/caldeira.glb",
+  "fisica": {
+    "massa": 1000,
+    "dimensoes": [
+      3.78,
+      1.7,
+      1.3
+    ],
+    "centroMassa": [
+      0,
+      0.4,
+      0
+    ],
+    "eixoDianteiro": 1.15,
+    "eixoTraseiro": -1.15,
+    "bitolaDianteira": 1.42,
+    "bitolaTraseira": 1.4,
+    "raioRoda": 0.3,
+    "potencia": 123000,
+    "tracaoDianteira": 0,
+    "arrasto": 1,
+    "marchas": [
+      3.3,
+      2.1,
+      1.5,
+      1.15,
+      0.92
+    ],
+    "diferencial": 4.15,
+    "rpmCorte": 7400,
+    "cascas": [
+      [
+        0.83,
+        0.23,
+        1.88,
+        0,
+        0.47,
+        0.07
+      ],
+      [
+        0.67,
+        0.25,
+        0.99,
+        0,
+        1.05,
+        -0.51
+      ]
+    ]
+  },
+  "forma": {
+    "tipo": "hatch",
+    "carroceria": "hatch",
+    "yFrente": -1.964,
+    "yTras": 1.816,
+    "larg": 0.81,
+    "alarg": 0.04,
+    "zBaixo": 0.2,
+    "perfil": [
+      [
+        -1.964,
+        0.62
+      ],
+      [
+        -1.694,
+        0.7
+      ],
+      [
+        -0.73,
+        0.78
+      ],
+      [
+        0.743,
+        0.813
+      ],
+      [
+        1.816,
+        0.83
+      ]
+    ],
+    "cabine": {
+      "pe": -0.73,
+      "topoD": -0.13,
+      "topoT": 1.336,
+      "peT": 1.756,
+      "teto": 1.3,
+      "largBase": 0.76,
+      "largTopo": 0.66,
+      "vidros": [
+        [
+          -0.94,
+          -0.136
+        ],
+        [
+          -0.046,
+          0.9
+        ]
+      ]
+    },
+    "frestas": [
+      -0.67,
+      0.45
+    ],
+    "portas": 2,
+    "farol": {
+      "tipo": "ret",
+      "z": 0.59,
+      "x": 0.5,
+      "w": 0.3,
+      "h": 0.085
+    },
+    "lanterna": {
+      "z": 0.71,
+      "x": 0.59,
+      "w": 0.3,
+      "h": 0.1
+    },
+    "cores": {
+      "pintura": [
+        0.6,
+        0.1,
+        0.12
+      ],
+      "secundaria": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "terciaria": [
+        0.1,
+        0.1,
+        0.12
+      ],
+      "aro": [
+        0.72,
+        0.73,
+        0.76
+      ],
+      "pinca": [
+        0.72,
+        0.73,
+        0.76
+      ]
+    },
+    "pintura": "faixa",
+    "parachoque": "escuro",
+    "rodaLargura": 0.2,
+    "raios": 6,
+    "extras": [
+      "aerofolio_teto",
+      "para_barro",
+      "farol_aux2",
+      "escape"
+    ]
+  }
+}

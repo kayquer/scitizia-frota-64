@@ -2,99 +2,122 @@
   "id": "jaspe",
   "nome": "Jaspe 16",
   "classe": "C5",
-  "epoca": "2001-2005",
-  "arquetipo": "Protótipo de rali sobre base de hatch do começo dos anos 2000",
+  "ano": 2001,
+  "carroceria": "perua",
+  "arquetipo": "Protótipo de rali sobre base de perua",
   "motor": "1.6 turbo",
   "tracao": "AWD",
   "numero": 54,
   "modelo": "carros/jaspe.glb",
   "fisica": {
-    "massa": 1150,
+    "massa": 1290,
     "dimensoes": [
-      3.8,
+      4.26,
       1.72,
-      1.4
+      1.43
     ],
     "centroMassa": [
       0,
-      0.43,
+      0.44,
       0.05
     ],
-    "eixoDianteiro": 1.23,
-    "eixoTraseiro": -1.23,
+    "eixoDianteiro": 1.29,
+    "eixoTraseiro": -1.29,
     "bitolaDianteira": 1.49,
     "bitolaTraseira": 1.47,
     "raioRoda": 0.31,
     "potencia": 168000,
     "tracaoDianteira": 0.35,
+    "arrasto": 1.04,
     "diferencial": 4.2,
     "rpmCorte": 7600,
     "cascas": [
       [
         0.84,
-        0.26,
-        1.89,
+        0.27,
+        2.12,
         0,
-        0.48,
-        0.04
+        0.49,
+        -0.07
       ],
       [
         0.6,
-        0.24,
-        1,
+        0.26,
+        1.2,
         0,
-        1.1,
-        -0.49
+        1.17,
+        -0.64
       ]
     ]
   },
   "forma": {
-    "tipo": "hatch",
-    "yFrente": -1.94,
-    "yTras": 1.86,
+    "tipo": "sedan",
+    "carroceria": "perua",
+    "yFrente": -2.063,
+    "yTras": 2.197,
     "larg": 0.76,
     "alarg": 0.1,
     "zBaixo": 0.18,
     "perfil": [
       [
-        -1.94,
-        0.62
+        -2.063,
+        0.638
       ],
       [
-        -1.67,
-        0.7
+        -1.793,
+        0.718
       ],
       [
-        -0.81,
-        0.84
+        -0.83,
+        0.858
       ],
       [
-        0.725,
-        0.899
+        0.884,
+        0.917
       ],
       [
-        1.86,
-        0.93
+        2.197,
+        0.948
       ]
     ],
     "cabine": {
-      "pe": -0.81,
-      "topoD": 0.11,
-      "topoT": 1.5,
-      "peT": 1.8,
-      "teto": 1.4,
+      "pe": -0.83,
+      "topoD": 0.09,
+      "topoT": 1.957,
+      "peT": 2.117,
+      "teto": 1.43,
       "largBase": 0.71,
-      "largTopo": 0.57
+      "largTopo": 0.57,
+      "vidros": [
+        [
+          -0.94,
+          -0.651
+        ],
+        [
+          -0.561,
+          -0.029
+        ],
+        [
+          0.061,
+          0.92
+        ]
+      ]
     },
+    "frestas": [
+      -0.77,
+      0.083,
+      0.84
+    ],
+    "portas": 4,
     "farol": {
       "tipo": "gota",
-      "z": 0.57,
+      "z": 0.588,
       "x": 0.52,
       "w": 0.3,
       "h": 0.15
     },
     "lanterna": {
-      "z": 0.74,
+      "z": 0.758,
       "x": 0.62,
       "w": 0.14,
       "h": 0.24

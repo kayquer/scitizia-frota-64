@@ -2,32 +2,33 @@
   "id": "cafune",
   "nome": "Cafuné 1.0",
   "classe": "C1",
-  "epoca": "1996-2000",
-  "arquetipo": "Hatch compacto popular do fim dos anos 90",
+  "ano": 1998,
+  "carroceria": "furgao",
+  "arquetipo": "Furgão compacto de entregas",
   "motor": "1.0 aspirado",
   "tracao": "FWD",
   "numero": 11,
   "modelo": "carros/cafune.glb",
   "fisica": {
-    "massa": 970,
+    "massa": 1140,
     "dimensoes": [
-      3.62,
+      4.16,
       1.6,
-      1.42
+      1.9
     ],
     "centroMassa": [
       0,
-      0.42,
+      0.61,
       0.1
     ],
-    "eixoDianteiro": 1.18,
-    "eixoTraseiro": -1.18,
+    "eixoDianteiro": 1.25,
+    "eixoTraseiro": -1.25,
     "bitolaDianteira": 1.41,
     "bitolaTraseira": 1.39,
-    "raioRoda": 0.29,
+    "raioRoda": 0.3,
     "potencia": 67000,
     "tracaoDianteira": 1,
-    "arrasto": 0.95,
+    "arrasto": 1.19,
     "marchas": [
       3.45,
       2.1,
@@ -40,72 +41,86 @@
     "cascas": [
       [
         0.78,
-        0.24,
-        1.8,
+        0.29,
+        2.07,
         0,
-        0.5,
-        0.04
+        0.6,
+        0
       ],
       [
-        0.62,
-        0.24,
-        0.96,
+        0.7,
+        0.45,
+        1.37,
         0,
-        1.12,
-        -0.48
+        1.45,
+        -0.5
       ]
     ]
   },
   "forma": {
-    "tipo": "hatch",
-    "yFrente": -1.848,
-    "yTras": 1.772,
+    "tipo": "suv",
+    "carroceria": "furgao",
+    "yFrente": -2.08,
+    "yTras": 2.08,
     "larg": 0.78,
     "alarg": 0.02,
-    "zBaixo": 0.22,
+    "zBaixo": 0.27,
     "perfil": [
       [
-        -1.848,
-        0.601
+        -2.08,
+        0.79
       ],
       [
-        -1.578,
-        0.681
+        -1.81,
+        0.87
       ],
       [
-        -0.76,
-        0.831
+        -1.03,
+        0.997
       ],
       [
-        0.706,
-        0.883
+        0.725,
+        1.011
       ],
       [
-        1.772,
-        0.911
+        2.08,
+        1.017
       ]
     ],
     "cabine": {
-      "pe": -0.76,
-      "topoD": 0.02,
-      "topoT": 1.392,
-      "peT": 1.712,
-      "teto": 1.42,
-      "largBase": 0.73,
-      "largTopo": 0.58
+      "pe": -1.03,
+      "topoD": -0.41,
+      "topoT": 2,
+      "peT": 2.04,
+      "teto": 1.9,
+      "largBase": 0.76,
+      "largTopo": 0.71,
+      "vidros": [
+        [
+          -0.94,
+          -0.373
+        ]
+      ]
     },
+    "frestas": [
+      -0.77,
+      0.18,
+      0.81
+    ],
+    "portas": 4,
+    "corredica": true,
     "farol": {
       "tipo": "oval",
-      "z": 0.551,
+      "z": 0.74,
       "x": 0.54,
       "w": 0.3,
       "h": 0.14
     },
     "lanterna": {
-      "z": 0.766,
-      "x": 0.6,
-      "w": 0.22,
-      "h": 0.15
+      "z": 0.767,
+      "x": 0.65,
+      "w": 0.14,
+      "h": 0.3
     },
     "cores": {
       "pintura": [
@@ -139,7 +154,6 @@
     "rodaLargura": 0.18,
     "raios": 5,
     "extras": [
-      "aerofolio_teto",
       "para_barro",
       "escape"
     ]
