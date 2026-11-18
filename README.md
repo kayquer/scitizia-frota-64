@@ -247,6 +247,10 @@ Cada `fichas/<id>.json` traz identificação (nome, classe, ano, carroceria, arq
 **Como listar os carros num programa?**
 Leia o [`catalogo.json`](catalogo.json): ele traz os 89 carros com todos os dados das tabelas e os caminhos dos arquivos de cada um.
 
+## Licença
+
+[CC0 1.0 Universal](LICENSE): domínio público.
+
 ## Como citar
 
 Os metadados de citação estão em [`CITATION.cff`](CITATION.cff).

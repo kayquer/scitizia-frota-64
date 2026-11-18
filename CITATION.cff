@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Se usar estes modelos, cite o repositório assim."
 title: "Scitizia: frota 64 bits - 89 carros de rali low poly em glTF/GLB"
 type: dataset
+license: CC0-1.0
 authors:
   - alias: kayquer
 repository-code: "https://github.com/kayquer/scitizia-frota-64"
