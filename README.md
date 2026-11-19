@@ -2,6 +2,8 @@
 
 ![Mosaico com os 89 carros de rali low poly da frota Scitizia, em vista três-quartos frontal: hatches, cupês, sedãs, peruas, monovolumes, protótipos, picapes e utilitários com pinturas de rali inventadas](docs/frota-89-carros-rali-low-poly.jpg)
 
+https://github.com/user-attachments/assets/331c06f0-8b64-4a61-bd34-ac46b8475eb9
+
 ▶️ **[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=G-UUvOGup1g)** · **[Baixe no itch.io](https://kkyqr.itch.io/scitizia-rally-fleet-64)** (grátis, doação opcional)
 
 **Scitizia: frota 64 bits** é uma coleção gratuita de 89 carros de rali fictícios em baixo polígono (low poly), com o visual retrô dos consoles de 64 bits, prontos para jogos em tempo real. São 7 classes (C1 Novato a C7 Off-road), de hatches populares a picapes de rali cross-country, com modelos de 1974 a 2010 e nove tipos de carroceria com silhueta própria (hatch, sedã, perua, cupê, conversível, utilitário esportivo, picape, minivan, furgão). 12 deles são carros de rua de série de 4 marcas fictícias, com proporções e física de carros comuns de cada época. Cada carro é um arquivo glTF 2.0 binário (`.glb`) de 138 a 203 KB, com 2.788 a 3.698 triângulos, uma textura de 256×256 px para a carroceria e uma de 128×64 px para as rodas (os carros de rua têm mais uma, de 128×40 px, para as placas), rodas separadas para girar e esterçar e uma sombra plana. Os carros foram feitos para o jogo **Scitizia Rally Championship**; nomes, marcas, formas e pinturas são inventados, sem nenhum fabricante, modelo ou patrocinador real.
