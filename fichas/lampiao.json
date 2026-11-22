@@ -10,7 +10,7 @@
   "numero": 32,
   "modelo": "carros/lampiao.glb",
   "fisica": {
-    "massa": 1050,
+    "massa": 1150,
     "dimensoes": [
       4.15,
       1.7,

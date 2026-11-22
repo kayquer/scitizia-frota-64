@@ -10,7 +10,7 @@
   "numero": 34,
   "modelo": "carros/borralho.glb",
   "fisica": {
-    "massa": 1200,
+    "massa": 1120,
     "dimensoes": [
       4.77,
       1.7,
@@ -26,7 +26,7 @@
     "bitolaDianteira": 1.42,
     "bitolaTraseira": 1.4,
     "raioRoda": 0.31,
-    "potencia": 128000,
+    "potencia": 134500,
     "tracaoDianteira": 0,
     "arrasto": 1.25,
     "marchas": [

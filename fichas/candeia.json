@@ -10,7 +10,7 @@
   "numero": 31,
   "modelo": "carros/candeia.glb",
   "fisica": {
-    "massa": 1080,
+    "massa": 1130,
     "dimensoes": [
       4.23,
       1.7,

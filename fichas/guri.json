@@ -26,7 +26,7 @@
     "bitolaDianteira": 1.41,
     "bitolaTraseira": 1.39,
     "raioRoda": 0.29,
-    "potencia": 72000,
+    "potencia": 70500,
     "tracaoDianteira": 1,
     "arrasto": 0.95,
     "marchas": [
@@ -55,7 +55,8 @@
         1.18,
         -0.48
       ]
-    ]
+    ],
+    "forcaMax": 3370
   },
   "forma": {
     "tipo": "hatch",

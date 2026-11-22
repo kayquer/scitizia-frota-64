@@ -55,7 +55,8 @@
         1.12,
         -0.47
       ]
-    ]
+    ],
+    "forcaMax": 3070
   },
   "forma": {
     "tipo": "hatch",

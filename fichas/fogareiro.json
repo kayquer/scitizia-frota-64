@@ -10,7 +10,7 @@
   "numero": 35,
   "modelo": "carros/fogareiro.glb",
   "fisica": {
-    "massa": 1110,
+    "massa": 1130,
     "dimensoes": [
       4.27,
       1.7,

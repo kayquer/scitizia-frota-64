@@ -29,8 +29,8 @@
     "bitolaDianteira": 1.485,
     "bitolaTraseira": 1.465,
     "raioRoda": 0.29,
-    "potencia": 82000,
-    "forcaMax": 6090,
+    "potencia": 73500,
+    "forcaMax": 3300,
     "tracaoDianteira": 1,
     "arrasto": 0.95,
     "marchas": [

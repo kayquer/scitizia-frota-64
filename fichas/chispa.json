@@ -26,7 +26,7 @@
     "bitolaDianteira": 1.56,
     "bitolaTraseira": 1.54,
     "raioRoda": 0.3,
-    "potencia": 106000,
+    "potencia": 83000,
     "tracaoDianteira": 1,
     "arrasto": 0.96,
     "marchas": [
@@ -56,7 +56,8 @@
         1.04,
         -0.43
       ]
-    ]
+    ],
+    "forcaMax": 3510
   },
   "forma": {
     "tipo": "sedan",

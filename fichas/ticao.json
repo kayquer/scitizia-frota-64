@@ -10,7 +10,7 @@
   "numero": 30,
   "modelo": "carros/ticao.glb",
   "fisica": {
-    "massa": 1240,
+    "massa": 1180,
     "dimensoes": [
       5.23,
       1.7,
@@ -26,7 +26,7 @@
     "bitolaDianteira": 1.42,
     "bitolaTraseira": 1.4,
     "raioRoda": 0.315,
-    "potencia": 131000,
+    "potencia": 137500,
     "tracaoDianteira": 0,
     "arrasto": 1.12,
     "marchas": [

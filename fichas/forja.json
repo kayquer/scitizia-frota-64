@@ -10,7 +10,7 @@
   "numero": 27,
   "modelo": "carros/forja.glb",
   "fisica": {
-    "massa": 1180,
+    "massa": 1160,
     "dimensoes": [
       4.79,
       1.7,
@@ -26,7 +26,7 @@
     "bitolaDianteira": 1.42,
     "bitolaTraseira": 1.4,
     "raioRoda": 0.3,
-    "potencia": 121000,
+    "potencia": 129500,
     "tracaoDianteira": 0,
     "arrasto": 1.04,
     "marchas": [
