@@ -1,5 +1,7 @@
 # Scitizia: 89 carros de rali low poly em glTF/GLB com visual retrô de 64 bits
 
+🇧🇷 Português · **🇬🇧 [Read in English](README.en.md)** 
+
 ![Mosaico com os 89 carros de rali low poly da frota Scitizia, em vista três-quartos frontal: hatches, cupês, sedãs, peruas, monovolumes, protótipos, picapes e utilitários com pinturas de rali inventadas](docs/frota-89-carros-rali-low-poly.jpg)
 
 https://github.com/user-attachments/assets/331c06f0-8b64-4a61-bd34-ac46b8475eb9
